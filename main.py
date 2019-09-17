@@ -106,11 +106,11 @@ from favourite_questions_answers import answers_fav, questions_fav
 from kivy.app import App
 # box layout is imported
 from kivy.uix.boxlayout import BoxLayout
-from kivy.core.window import Window
+#from kivy.core.window import Window
 import sys
 
 # size of window as my mobile. Comment this to disable this
-Window.size = (340, 550)
+#Window.size = (340, 550)
 set_size = 0
 question = []
 answer = []
