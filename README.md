@@ -3,6 +3,10 @@
 Descripiton
 This is a quiz app written with python3 and Kivy.
 
+If you want to run app. Then download "main.py", "question_answer.py" and "Test.ky".
+	comment as "#Window.size = (340 ,550)" of main.py
+
+
 1. Put txt file in "Put text file here" folder encoding should be utf-8
 2. open "1. run first.py" and run.
 	you will get "2. copy_paste.py" and "question_answer.py".
