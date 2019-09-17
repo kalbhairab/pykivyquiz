@@ -1,0 +1,422 @@
+Structural Analysis
+Question No. 01
+If in a pin-jointed plane frame (m + r) > 2j, then the frame is
+(A) Stable and statically determinate
+(B) Stable and statically indeterminate
+(C) Unstable
+(D) None of the above
+m r j
+Answer: Option B
+Question No. 02
+Principle of superposition is applicable when
+(A) Deflections are linear functions of applied forces
+(B) Material obeys Hooke's law
+(C) The action of applied forces will be affected by small deformations of the structure
+(D) None of the above
+Answer: Option A
+Question No. 03
+The Castigliano's second theorem can be used to compute deflections
+(A) In statically determinate structures only
+(B) For any type of structure
+(C) At the point under the load only
+(D) For beams and frames only
+Answer: Option B
+Question No. 04
+When a uniformly distributed load, longer than the span of the girder, moves from left to right,
+then the maximum bending moment at mid section of span occurs when the uniformly distributed
+load occupies
+(A) Less than the left half span
+(B) Whole of left half span
+(C) More than the left half span
+(D) Whole span
+Answer: Option D
+Question No. 05
+For stable structures, one of the important properties of flexibility and stiffness matrices is that
+the elements on the main diagonal
+(i) Of a stiffness matrix must be positive
+(ii) Of a stiffness matrix must be negative
+(iii) Of a flexibility matrix must be positive(iv) Of a flexibility matrix must be negative
+The correct answer is
+(A) (i) and (iii)
+(B) (ii) and (iii)
+(C) (i) and (iv)
+(D) (ii) and (iv)
+Answer: Option A
+Question No. 06
+When a load crosses a through type Pratt truss in the direction left to right, the nature of force in
+any diagonal member in the left half of the span would
+(A) Change from compression to tension
+(B) Change from tension to compression
+(C) Always be compression
+(D) Always be tension
+Answer: Option A
+Question No. 07
+Which of the following methods of structural analysis is a force method?
+(A) Slope deflection method
+(B) Column analogy method
+(C) Moment distribution method
+(D) None of the above
+Answer: Option B
+Question No. 08
+Which of the following is not the displacement method?
+(A) Equilibrium method
+(B) Column analogy method
+(C) Moment distribution method
+(D) Kani's method
+Answer: Option B
+Question No. 09
+For a two-hinged arch, if one of the supports settles down vertically, then the horizontal thrust
+(A) Is increased
+(B) Is decreased
+(C) Remains unchanged
+(D) Becomes zero
+Answer: Option C
+Question No. 10
+The deflection at any point of a perfect frame can be obtained by applying a unit load at the joint
+in
+(A) Vertical direction(B) Horizontal direction
+(C) Inclined direction
+(D) The direction in which the deflection is required
+Answer: Option D
+Question No. 11
+The principle of virtual work can be applied to elastic system by considering the virtual work of
+(A) Internal forces only
+(B) External forces only
+(C) Internal as well as external forces
+(D) None of the above
+Answer: Option C
+Question No. 12
+If in a rigid-jointed space frame, (6m + r) < 6j, then the frame is
+(A) Unstable
+(B) Stable and statically determinate
+(C) Stable and statically indeterminate
+(D) None of the above
+Answer: Option A
+Question No. 13
+The three moments equation is applicable only when
+(A) The beam is prismatic
+(B) There is no settlement of supports
+(C) There is no discontinuity such as hinges within the span
+(D) The spans are equal
+Answer: Option C
+Question No. 14
+Which of the following methods of structural analysis is a displacement method?
+(A) Moment distribution method
+(B) Column analogy method
+(C) Three moment equation
+(D) None of the above
+Answer: Option A
+Question No. 15
+The fixed support in a real beam becomes in the conjugate beam a
+(A) Roller support
+(B) Hinged support
+(C) Fixed support
+(D) Free end
+Answer: Option DQuestion No. 16
+For a symmetrical two hinged parabolic arch, if one of the supports settles horizontally, then the
+horizontal thrust
+(A) Is increased
+(B) Is decreased
+(C) Remains unchanged
+(D) Becomes zero
+Answer: Option B
+Question No. 17
+To generate the jth column of the flexibility matrix
+(A) A unit force is applied at coordinate j and the displacements are calculated at all coordinates
+(B) A unit displacement is applied at coordinate j and the forces are calculated at all coordinates
+(C) A unit force is applied at coordinate j and the forces are calculated at all coordinates
+(D) j
+coordinates
+Answer: Option A
+Question No. 18
+A load 'W T
+maximum bending moment at 0.4 1 from the left support is
+(A) 0.16 WL
+(B) 0.20 WL
+(C) 0.24 WL
+(D) 0.25 WL
+Answer: Option C
+Question No. 19
+In the displacement method of structural analysis, the basic unknowns are
+(A) Displacements
+(B) Force
+(C) Displacements and forces
+(D) None of the above
+Answer: Option A
+Question No. 20
+A rigid-jointed plane frame is stable and statically determinate if
+(A) (m + r) = 2j
+(B) (m + r) = 3j
+(C) (3m + r) = 3j
+(D) (m + 3r) = 3j
+Where m is number of members, r is reaction components and j is number of joints
+Answer: Option CQuestion No. 21
+In moment distribution method, the sum of distribution factors of all the members meeting at any
+joint is always
+(A) Zero
+(B) Less than 1
+(C) 1
+(D) Greater than 1
+Answer: Option C
+Question No. 22
+When a uniformly distributed load, shorter than the span of the girder, moves from left to right,
+then the conditions for maximum bending moment at a section is that
+(A) The head of the load reaches the section
+(B) The tail of the load reaches the section
+(C) The load position should be such that the section divides it equally on both sides
+(D) The load position should be such that the section divides the load in the same ratio as it
+divides the span
+Answer: Option D
+Question No. 23
+The width of the analogous column in the method of column analogy is
+(A) 2/EI
+(B) 1/EI
+(C) 1/2 EI
+(D) 1/4 EI
+Answer: Option B
+Question No. 24
+Muller Breslau's principle for obtaining influence lines is applicable to
+(i) Trusses
+(ii) Statically determinate beams and frames
+(iii) Statically indeterminate structures, the material of which is elastic and follows Hooke's law
+(iv) Any statically indeterminate structure
+The correct answer is
+(A) (i), (ii) and (iii)
+(B) (i), (ii) and (iv)
+(C) (i) and (ii)
+(D) Only (i)
+Answer: Option A
+Question No. 25
+L
+EI
+(A) L/EI
+(B) L/2EI(C) L/3EI
+(D) L/4EI
+Answer: Option A
+Question No. 26
+The degree of static indeterminacy of a rigid-jointed space frame is
+(A) m + r - 2j
+(B) m + r - 3j
+(C) 3m + r - 3j
+(D) 6m + r - 6j
+Where m, r and j have their usual meanings
+Answer: Option D
+Question No. 27
+Degree of kinematic indeterminacy of a pin-jointed plane frame is given by
+(A) 2j - r
+(B) j - 2r
+(C) 3j - r
+(D) 2j + r
+Answer: Option A
+Question No. 28
+The number of independent equations to be satisfied for static equilibrium of a plane structure is
+(A) 1
+(B) 2
+(C) 3
+(D) 6
+Answer: Option C
+Question No. 29
+The degree of static indeterminacy of a pin-jointed space frame is given by
+m r j
+number of joints)
+(A) m + r - 2j
+(B) m + r - 3j
+(C) 3m + r - 3j
+(D) m + r + 3j
+Answer: Option B
+Question No. 30
+While using three moments equation, a fixed end of a continuous beam is replaced by an
+additional span of
+(A) Zero length
+(B) Infinite length
+(C) Zero moment of inertia(D) None of the above
+Answer: Option A
+Question No. 31
+Select the correct statement
+(A) Flexibility matrix is a square symmetrical matrix
+(B) Stiffness matrix is a square symmetrical matrix
+(C) Both (A) and (B)
+(D) None of the above
+Answer: Option C
+Question No. 32
+W L
+x x
+(A) 0.211 L
+(B) 0.25 L
+(C) 0.234 L
+(D) 0.5 L
+Answer: Option A
+Question No. 33
+Study the following statements.
+(i) The displacement method is more useful when degree of kinematic indeterminacy is greater
+than the degree of static indeterminacy.
+(ii) The displacement method is more useful when degree of kinematic indeterminacy is less than
+the degree of static indeterminacy.
+(iii) The force method is more useful when degree of static indeterminacy is greater than the
+degree of kinematic indeterminacy.
+(iv) The force method is more useful when degree of static indeterminacy is less than the degree
+of kinematic indeterminacy.
+The correct answer is
+(A) (i) and (iii)
+(B) (ii) and (iii)
+(C) (i) and (iv)
+(D) (ii) and (iv)
+Answer: Option D
+Question No. 34
+Bending moment at any section in a conjugate beam gives in the actual beam
+(A) Slope
+(B) Curvature
+(C) Deflection
+(D) Bending moment
+Answer: Option CQuestion No. 35
+The number of independent displacement components at each joint of a rigid-jointed space frame
+is
+(A) 1
+(B) 2
+(C) 3
+(D) 6
+Answer: Option D
+Question No. 36
+Independent displacement components at each joint of a rigid-jointed plane frame are
+(A) Three linear movements
+(B) Two linear movements and one rotation
+(C) One linear movement and two rotations
+(D) Three rotations
+Answer: Option B
+Question No. 37
+If there are m unknown member forces, r unknown reaction components and j number of
+joints, then the degree of static indeterminacy of a pin-jointed plane frame is given by
+(A) m + r + 2j
+(B) m - r + 2j
+(C) m + r - 2j
+(D) m + r - 3j
+Answer: Option C
+Question No. 38
+The carryover factor in a prismatic member whose far end is fixed is
+(A) 0
+(B) 1/2
+(C) 3/4
+(D) 1
+Answer: Option B
+Question No. 39
+Effects of shear force and axial force on plastic moment capacity of a structure are respectively to
+(A) Increase and decrease
+(B) Increase and increase
+(C) Decrease and increase
+(D) Decrease and decrease
+Answer: Option D
+Question No. 40
+The degree of kinematic indeterminacy of a pin-jointed space frame is
+(A) 2j - r(B) 3j - r
+(C) j - 2r
+(D) j - 3r
+Where j is number of joints and r is reaction components
+Answer: Option B
+Question No. 41
+The maximum bending moment due to a train of wheel loads on a simply supported girder
+(A) Always occurs at centre of span
+(B) Always occurs under a wheel load
+(C) Never occurs under a wheel load
+(D) None of the above
+Answer: Option B
+Question No. 42
+Consider the following statements:
+Sinking of an intermediate support of a continuous beam
+1. Reduces the negative moment at support.
+2. Increases the negative moment at support.
+3. Reduces the positive moment at support.
+4. Increases the positive moment at the centre of span.
+Of these statements
+(A) 1 and 4 are correct
+(B) 1 and 3 are correct
+(C) 2 and 3 are correct
+(D) 2 and 4 are correct
+Answer: Option A
+Question No. 43
+When a series of wheel loads crosses a simply supported girder, the maximum bending moment
+under any given wheel load occurs when
+(A) The centre of gravity of the load system is midway between the centre of span and wheel
+load under consideration
+(B) The centre of span is midway between the centre of gravity of the load system and the
+wheel load under consideration
+(C) The wheel load under consideration is midway between the centre of span and the centre of
+gravity of the load system
+(D) None of the above
+Answer: Option B
+Question No. 44
+Castigliano's first theorem is applicable
+(A) For statically determinate structures only
+(B) When the system behaves elastically
+(C) Only when principle of superposition is valid(D) None of the above
+Answer: Option C
+Question No. 45
+Number of unknown internal forces in each member of a rigid jointed plane frame is
+(A) 1
+(B) 2
+(C) 3
+(D) 6
+Answer: Option C
+Question No. 46
+The number of independent equations to be satisfied for static equilibrium in a space structure is
+(A) 2
+(B) 3
+(C) 4
+(D) 6
+Answer: Option D
+Question No. 47
+A simply supported beam deflects by 5 mm when it is subjected to a concentrated load of 10 kN at
+its centre. What will be deflection in a 1/10 model of the beam if the model is subjected to a 1 kN
+load at its centre?
+(A) 5 mm
+(B) 0.5 mm
+(C) 0.05 mm
+(D) 0.005 mm
+Answer: Option A
+Question No. 48
+A pin-jointed plane frame is unstable if
+(A) (m + r) < 2j
+(B) (m + r) = 2j
+(C) (m + r) > 2j
+(D) None of the above
+Where m is number of members, r is reaction components and j is number of joints
+Answer: Option A
+Question No. 49
+Degree of static indeterminacy of a rigid-jointed plane frame having 15 members, 3 reaction
+components and 14 joints is
+(A) 2
+(B) 3
+(C) 6
+(D) 8Answer: Option C
+Question No. 50
+The degree of static indeterminacy up to which column analogy method can be used is
+(A) 2
+(B) 3
+(C) 4
+(D) Unrestricted
+Answer: Option B
+Question No. 51
+In the slope deflection equations, the deformations are considered to be caused by
+(i) Bending moment
+(ii) Shear force
+(iii) Axial force
+The correct answer is
+(A) Only (i)
+(B) (i) and (ii)
+(C) (ii) and (iii)
+(D) (i), (ii) and (iii)
+Answer: Option A
+Question No. 52
+A single rolling load of 8 kN rolls along a girder of 15 m span. The absolute maximum bending
+moment will be
+(A) 8 kN.m
+(B) 15 kN.m
+(C) 30 kN.m
+(D) 60 kN.m
+Answer: Option C
+Question No. 53
+The deformation of a spring produced by a unit load is called
+(A) Stiffness
+(B) Flexibility
+(C) Influence coefficient
+(D) Unit strain
+Answer: Option B

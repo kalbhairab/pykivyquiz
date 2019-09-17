@@ -1,0 +1,2131 @@
+Building Construction
+Question No. 01
+Cast iron piles
+(A) Are suitable for works under sea water
+(B) Resist shocks or vibrations
+(C) Are suitable for use as batter piles
+(D) Are useful for heavy vertical loads
+Answer: Option D
+Question No. 02
+The form work from the slabs excluding props, can be removed only after
+(A) 1 day
+(B) 4 days
+(C) 7 days
+(D) 14 days
+Answer: Option B
+Question No. 03
+The process of filling hollow spaces of walls before plastering, is known
+(A) Hacking
+(B) Dubbing out
+(C) Blistering
+(D) Peeling
+Answer: Option B
+Question No. 04
+The type of arch generally constructed over a wooden lintel or over a flat arch for the purpose of
+carrying the load of the wall above is
+(A) Segmental arch
+(B) Pointed arch
+(C) Relieving arch
+(D) Flat arch
+Answer: Option C
+Question No. 05
+The platform at the end of a series of steps, is known as
+(A) Platform
+(B) Relief
+(C) Rest
+(D) Landing
+Answer: Option DQuestion No. 06
+The pile which supports the load due to friction between pile face and surrounding soil, is
+generally known as
+(A) Bearing pile
+(B) Friction pile
+(C) Sheet pile
+(D) Battered pile
+Answer: Option B
+Question No. 07
+Pick up the correct statement from the following:
+(A) A mortar joint having a concave finishing in brick masonry, is called keyed joint
+(B) A mortar joint projecting beyond the face of a masonry wall, is called tucked joint
+(C) A mortar joint having a recess in it, is called ruled joint
+(D) All the above
+Answer: Option D
+Question No. 08
+The type of roof which slopes in two directions with a break in the slope on each side is known as
+(A) Gable roof
+(B) Hip roof
+(C) Gambrel roof
+(D) Mansard roof
+Answer: Option C
+Question No. 09
+The inclined surface of an abutment to receive the arch, is known as
+(A) Skew back
+(B) Soffit
+(C) Spandril
+(D) Haunch
+Answer: Option A
+Question No. 10
+Pick up the correct statement from the following:
+(A) D.P.C. should be continuous
+(B) D.P.C. should be of good impervious material
+(C) D.P.C. may be horizontal or vertical
+(D) All the above
+Answer: Option D
+Question No. 11
+A wall constructed with stones to protect slopes of cuttings in natural ground from the action of
+weathering agents, is called
+(A) Retaining wall(B) Breast wall
+(C) Buttress
+(D) Parapet wall
+Answer: Option B
+Question No. 12
+Higher pitch of the roof
+(i) Results in stronger roof
+(ii) Results in weaker roof
+(iii) Requires more covering material
+(iv) Requires less covering material
+The correct answer is
+(A) (i) and (iii)
+(B) (i) and (iv)
+(C) (ii) and (iii)
+(D) (ii) and (iv)
+Answer: Option A
+Question No. 13
+For different layers of cement concrete floor. Pick up the incorrect statement from the following:
+(A) The lowest layer consists of consolidated ground
+(B) A 10 cm thick clean sand is laid on consolidated ground
+(C) A 10 cm lime concrete (1 : 4 : 8) is laid on clean sand
+(D) A 10 cm thick cement concrete (1 : 2 : 4) is laid on top layer
+Answer: Option D
+Question No. 14
+Open test pit is only suitable upto a depth of
+(A) 2 metres
+(B) 2.5 metres
+(C) 3 metres
+(D) None of the above
+Answer: Option C
+Question No. 15
+The service area in a building means the area occupied by
+(A) Stairs
+(B) Toilets
+(C) Light and shafts
+(D) All the above
+Answer: Option D
+Question No. 16
+The number of steps in a flight generally should not be less than
+(A) 2(B) 3
+(C) 5
+(D) No limit
+Answer: Option B
+Question No. 17
+The columns of multi-storeyed buildings are designed to withstand the forces due to
+(A) Dead loads
+(B) Live loads
+(C) Wind loads
+(D) All of these
+Answer: Option D
+Question No. 18
+In soils possessing low bearing capacity, the type of foundation generally provided, is
+(A) Column footing
+(B) Grillage footing
+(C) Raft footing
+(D) All the above
+Answer: Option D
+Question No. 19
+The minimum strength of the mortar used in load bearing brick masonry, is
+(A) 50 N/cm2
+(B) 100 N/cm2
+(C) 150 N/cm2
+(D) 200 N/cm2
+Answer: Option B
+Question No. 20
+As compared to stretcher course, the thickness of joints in header course should be
+(A) Less
+(B) More
+(C) Equal
+(D) Equal or more
+Answer: Option A
+Question No. 21
+To obtain good bonding in brick masonry
+(A) First class bricks are used
+(B) Vertical joints in alternate courses are kept in plumb line
+(C) Bats are used where necessary
+(D) All the above
+Answer: Option DQuestion No. 22
+The type of pointing in which upper side of mortar joints is kept about 12 mm inside the face of
+the masonry and bottom is kept flushed with face of wall, is
+(A) Truck pointing
+(B) Recessed pointing
+(C) Struck pointing
+(D) Grooved pointing
+Answer: Option C
+Question No. 23
+The wedge shaped bricks forming an arch ring, are called
+(A) Soffits
+(B) Voussoirs
+(C) Haunches
+(D) Spandrils
+Answer: Option B
+Question No. 24
+The maximum total settlement for isolated foundations on clayey soils should be limited to
+(A) 25 mm
+(B) 40 mm
+(C) 65 mm
+(D) 100 mm
+Answer: Option C
+Question No. 25
+The foundation which consists of a thick reinforced cement slab covering whole area to support
+heavy concentrated structural loads, is known as
+(A) Combined footing
+(B) Strap footing
+(C) Raft footing
+(D) None of these
+Answer: Option C
+Question No. 26
+For each storey of a building, the depth of exploration should be
+(A) 1 metre
+(B) 2 metres
+(C) 3 metres
+(D) 4 metres
+Answer: Option C
+Question No. 27
+Pick up the correct statement from the following:
+(A) Plain cement concrete is equally strong in compression as well as in tension(B) Slump test is performed to check concrete strength
+(C) Curing of concrete is done for proper compaction of cement
+(D) Fineness modulus is the index number expressing the relative sizes of both coarse and fine
+aggregates
+Answer: Option D
+Question No. 28
+The bearing capacity of a water logged soil can be improved by
+(A) Compacting the soil
+(B) Draining the soil
+(C) Increasing the depth of foundation
+(D) Grouting
+Answer: Option B
+Question No. 29
+The position of a brick when laid on its side 9 cm × 9 cm with its frog in the vertical plane, is called
+(A) Brick on edge
+(B) Brick on end
+(C) Brick on bed
+(D) Brick held vertically
+Answer: Option B
+Question No. 30
+A floor constructed with the 4 to 6 mm marble chips, is known
+(A) Reinforced marble floor
+(B) Terrazzo floor
+(C) Marble floor
+(D) Chip floor
+Answer: Option B
+Question No. 31
+A stair should not have pitch more than
+(A) 25°
+(B) 30°
+(C) 40°
+(D) 50°
+Answer: Option C
+Question No. 32
+Depth or height of the arch is the
+(A) Perpendicular distance between intrados and extrados
+(B) Vertical distance between springing line and intrados
+(C) Perpendicular distance between springing line and extrados
+(D) None of the above
+Answer: Option AQuestion No. 33
+Pick up the correct statement from the following:
+(A) The pile driven in sand is called sand pile
+(B) The drilled hole filled with sand is called sand pile
+(C) The sand piles are used for bearing purposes
+(D) None of these
+Answer: Option A
+Question No. 34
+A wall constructed to resist the pressure of an earth filling, is called
+(A) Retaining wall
+(B) Breast wall
+(C) Buttress
+(D) Parapet wall
+Answer: Option A
+Question No. 35
+Two columns 50 cm × 50 cm and 60 cm × 60 cm carry 80 tonnes and 120 tonnes of loads
+respectively. The centre to centre distance between columns is 5.00 metres. The permissible
+bearing capacity of the soil is 20 t/m2. If the footing is not to project more than 25 cm beyond the
+outside of the smaller column, pick up the correct design parameters of the footing from the
+following:
+(A) Distance of C.G. of the loads from the smaller column = 3.00 m
+(B) The length of the foundation slab = 7.00 m
+(C) Area of footing slab = 11.00 m2
+(D) All the above
+Answer: Option D
+Question No. 36
+Pitched and sloping roofs are suitable for
+(A) Coastal regions
+(B) Plain regions
+(C) Covering large areas
+(D) All of the above
+Answer: Option A
+Question No. 37
+A wooden block hinged on post outside a door, is known
+(A) Cleat
+(B) Stop
+(C) Horn
+(D) None of these
+Answer: Option AQuestion No. 38
+If a is the offset of concrete bed in cms, and d is the depth of concrete bed in cms, then
+(A) d = 0.445 a
+(B) d = 0.557 a
+(C) d = 0.775 a
+(D) None of these
+Answer: Option C
+Question No. 39
+In high mountainous region, the type of roof generally recommended for buildings, is
+(A) Shed type
+(B) Gable type
+(C) Gambrel type
+(D) Mansard type
+Answer: Option C
+Question No. 40
+The function of cleats in a roof truss is
+(A) To support the common rafter
+(B) To support purlins
+(C) To prevent the purlins from tilting
+(D) All of the above
+Answer: Option C
+Question No. 41
+The Auger borings are not common
+(A) In soils that require lateral support
+(B) In cohesive soils
+(C) In soft soils
+(D) None of the above
+Answer: Option A
+Question No. 42
+The pile provided with one or more bulles in its vertical shaft, is generally known as
+(A) Under-ream pile
+(B) Friction pile
+(C) Bearing pile
+(D) Sheet pile
+Answer: Option A
+Question No. 43
+Pick up the correct statement from the following:
+(A) Isolated footing is provided under column to transfer the load safely to soil bed
+(B) Column footings may have steps or projections in the concrete base
+(C) Heavily loaded column base must be provided steel reinforcement in both directions(D) All the above
+Answer: Option D
+Question No. 44
+In any good staircase, the maximum and minimum pitch respectively should be
+(A) 90° and 0°
+(B) 75° and 30°
+(C) 60° and 10°
+(D) 40° and 25°
+Answer: Option D
+Question No. 45
+Raft foundation are generally preferred to when the area required for individual footing, is more
+than
+(A) 25% to total area
+(B) 30% of total area
+(C) 40% to total area
+(D) 50% of total area
+Answer: Option D
+Question No. 46
+According to National Building Code, the hydrants in water mains is provided at minimum interval
+of
+(A) 50 m
+(B) 60 m
+(C) 75 m
+(D) 90 m
+Answer: Option C
+Question No. 47
+The X-ray rooms are plastered with
+(A) Plaster of Paris
+(B) Barium plaster
+(C) Martin's cement
+(D) Keen's cement
+Answer: Option B
+Question No. 48
+The type of footing which is used to transmit heavy loads through steel columns is
+(A) Raft foundation
+(B) Grillage foundation
+(C) Well foundation
+(D) Isolated footing
+Answer: Option BQuestion No. 49
+Dutch bond is a modification of
+(A) English bond
+(B) Stretcher bond
+(C) Header bond
+(D) Single Flemish bond
+Answer: Option A
+Question No. 50
+In clay soil
+(A) Swelling and shrinkage characteristics prevail
+(B) Consolidation continues even after several years of construction
+(C) Differential settlement is generally prevalent
+(D) All the above
+Answer: Option D
+Question No. 51
+Which one of the following activities is not correct as applicable to brick corbels?
+(A) The maximum projection of the corbel should not be more than the thickness of the wall
+(B) The maximum projection of each corbel course should be limited to a quarter brick at a time
+(C) The discontinuous corbels are used to carry heavy concentrated loads
+(D) Stretcher bond is generally used for the construction of brick corbel
+Answer: Option D
+Question No. 52
+In ordinary residential and public buildings, the damp proof course is generally provided at
+(A) Ground level
+(B) Plinth level
+(C) Water table level
+(D) Midway ground level and water-table level
+Answer: Option B
+Question No. 53
+In which of the following pairs both trees yield soft wood?
+(A) Deodar and Shishum
+(B) Chir and sal
+(C) Sal and teak
+(D) Chir and deodar
+Answer: Option D
+Question No. 54
+The raft slab is projected beyond the outer walls of the structure by
+(A) 5 to 10 cm
+(B) 15 to 20 cm
+(C) 25 to 30 cm(D) 30 to 45 cm
+Answer: Option D
+Question No. 55
+In grillage foundations, distance between flanges of grillage beams, is kept
+(A) 40 cm
+(B) Equal to flange width
+(C) Twice the flange width
+(D) Maximum of (a), (b) and (c)
+Answer: Option C
+Question No. 56
+The sill of a common wooden partition is
+(A) Vertical wooden member on either end
+(B) Lower horizontal wooden member
+(C) Upper horizontal wooden member
+(D) Intermediate horizontal wooden member
+Answer: Option B
+Question No. 57
+The important test to be conducted on a stone used in docks and harbours is
+(A) Hardness test
+(B) Workability test
+(C) Weight test
+(D) Toughness test
+Answer: Option C
+Question No. 58
+The member which is placed horizontally to support common rafter of a sloping roof, is
+(A) Purlin
+(B) Cleat
+(C) Batten
+(D) Strut
+Answer: Option A
+Question No. 59
+A covering of concrete placed on the exposed top of an external wall, is known as
+(A) Cornice
+(B) Coping
+(C) Frieze
+(D) Lintel
+Answer: Option BQuestion No. 60
+The bond in which headers and stretchers are laid in alternate courses and every stretcher course
+is started with a three fourth brick bat, is known as
+(A) English cross bond
+(B) Dutch bond
+(C) Monk bond
+(D) Rat-trap bond
+Answer: Option B
+Question No. 61
+The vertical distance between the springing line and highest point of the inner curve of an arch is
+known as
+(A) Intrados
+(B) Rise
+(C) Spandril
+(D) Extrados
+Answer: Option B
+Question No. 62
+The entrained concrete is used in lining walls and roofs for making
+(A) Heat insulated
+(B) Sound insulated
+(C) Neither (a) nor (b)
+(D) Both (a) and (b)
+Answer: Option D
+Question No. 63
+The depth of concrete bed of the foundation depends upon
+(A) The projection of the concrete block beyond the footing over it
+(B) The upward soil pressure
+(C) The mix of the concrete
+(D) All the above
+Answer: Option D
+Question No. 64
+A pre-stressed concrete pile is
+(A) Easy to handle
+(B) Lighter in weight
+(C) Extremely durable
+(D) All the above
+Answer: Option D
+Question No. 65
+The type of joint commonly used at the junction of a principal rafter and tie beam in timber
+trusses is(A) Mortise and tenon joint
+(B) Oblique mortise and tenon joint
+(C) Butt joint
+(D) Mitred joint
+Answer: Option B
+Question No. 66
+During percussion drilling
+(A) Ground water observations are hindered due to entry of the slurry in the soil below the
+bottom of the hole
+(B) Caving or mixing of strata are caused in soft soils or cohesionless soils
+(C) The soil to a considerable depth below the bottom of the hole gets disturbed
+(D) All the above
+Answer: Option D
+Question No. 67
+The type of stone masonry in which stones of same height are laid in layers, is called
+(A) Random rubble masonry
+(B) Course rubble masonry
+(C) Uncoursed rubble masonry
+(D) Ashlar masonry
+Answer: Option B
+Question No. 68
+A wooden block fixed on back side of a door frame on its post, is known as
+(A) Cleat
+(B) Stop
+(C) Horn
+(D) None of these
+Answer: Option B
+Question No. 69
+In a colar beam roof
+(A) There is no horizontal tie beam
+(B) There is a horizontal tie at the feet of rafters only
+(C) There is a horizontal tie at almost the middle of rafters only
+(D) There are two horizontal ties, one at the feet and other at the middle of the rafters
+Answer: Option C
+Question No. 70
+The piece of a brick cut with its one corner equivalent to half the length and half the width of a full
+brick, is known as
+(A) Queen closer
+(B) Bevelled closer
+(C) King closer(D) Half king closer
+Answer: Option C
+Question No. 71
+For effective drainage, the finished surface of flat roof should have a minimum slope of
+(A) 1 in 20
+(B) 1 to 50
+(C) 1 in 10
+(D) 1 in 5
+Answer: Option A
+Question No. 72
+Vertical construction joints are provided where the shearing forces are minimum in the case of
+(A) Slabs
+(B) Beams
+(C) Girders
+(D) All of these
+Answer: Option D
+Question No. 73
+Single Flemish bond consists of
+(A) Double Flemish bond facing and English bond backing in each course
+(B) English bond facing and double Flemish bond backing in each course
+(C) Stretcher bond facing and double Flemish bond backing in each course
+(D) Double Flemish bond facing and header bond backing in each course
+Answer: Option A
+Question No. 74
+The foundations are placed below ground level, to increase
+(A) Strength
+(B) Workability
+(C) Stability of structure
+(D) All the above
+Answer: Option C
+Question No. 75
+The type of bond in a brick masonry containing alternate courses of stretchers and headers, is
+called
+(A) Flemish bond
+(B) English bond
+(C) Stretcher bond
+(D) Header bond
+Answer: Option BQuestion No. 76
+The width of the hollow space between two walls of a cavity wall should not exceed
+(A) 5 cm
+(B) 7.5 cm
+(C) 10 cm
+(D) 15 cm
+Answer: Option C
+Question No. 77
+The predominant constituent which is responsible for strength in granite is
+(A) Quartz
+(B) Felspar
+(C) Mica
+(D) None of the above
+Answer: Option A
+Question No. 78
+To ensure that supporting area of an offset footing of a boundary wall is fully compressive, the
+C.G. of load must act
+(A) At the centre of the base
+(B) Within the middle third of the base
+(C) Within the middle fifth of the base
+(D) Neither (a), (b) nor (c)
+Answer: Option B
+Question No. 79
+The size of a floor tile commonly used, is
+(A) 15 cm × 15 cm × 1.8 cm
+(B) 20 cm × 20 cm × 2 cm
+(C) 22.5 × 22.5 cm × 2.2 cm
+(D) All the above
+Answer: Option D
+Question No. 80
+The art of bringing the floor to a true level surface by means of screeds, is called
+(A) Topping
+(B) Bedding
+(C) Screeding
+(D) None of these
+Answer: Option C
+Question No. 81
+The type of roof suitable in plains where rainfall is meagre and temperature is high is
+(A) Pitched and sloping roof
+(B) Flat roof(C) Shell roof
+(D) None of the above
+Answer: Option B
+Question No. 82
+For constructing a terrazzo floor, Pick up the incorrect statement from the following:
+(A) A base course is prepared as in cement concrete flooring
+(B) A 32 mm thick layer of cement concrete (1 : 2 : 4) is laid on the base course and the surface
+is made smooth by trowelling
+(C) Glass strips are driven into the layer according to the pattern required
+(D) After final grinding is over, oxalic acid mixed with water is spread over and rubbed hard with
+soft material
+Answer: Option B
+Question No. 83
+The arrangement made to support an unsafe structure temporarily, is known as
+(A) Shoring
+(B) Scaffolding
+(C) Underpinning
+(D) Jacking
+Answer: Option A
+Question No. 84
+The type of pointing in which a V-shaped projection outside the wall surface, is provided, is called
+(A) Recessed pointing
+(B) Weather pointing
+(C) V-pointing
+(D) Tuck pointing
+Answer: Option B
+Question No. 85
+Assertion A : Shishum is used for decorative woodwork.
+Reason R : Shishum can be polished to an excellent finish.
+Select your answer according to the coding system given below:
+(A) Both A and R is true and R is the correct explanation of A
+(B) Both A and R is true but R is not the correct explanation of A
+(C) A is true but R is false
+(D) A is false but R is true
+Answer: Option A
+Question No. 86
+Rotary drilling
+(A) Is not suitable for deposits containing very coarse gravel
+(B) Hinders the ground water observations and permeability test
+(C) Is not economical for holes of less than 10 cm(D) All the above
+Answer: Option D
+Question No. 87
+Safe bearing capacity of black cotton soil varies from
+(A) 2 to 3 t/m2
+(B) 5 to 7.5 t/m2
+(C) 8 to 10 t/m2
+(D) 10 to 12 t/m2
+Answer: Option B
+Question No. 88
+The window which projects outside a room of a building for admitting more light and air, is known
+(A) Bay window
+(B) Casement window
+(C) Lantern window
+(D) Dormer window
+Answer: Option A
+Question No. 89
+In the construction of arches, sand box method is used for
+(A) Centring
+(B) Actual laying of arch work
+(C) Striking of centring
+(D) None of the above
+Answer: Option C
+Question No. 90
+In English garden wall bond
+(A) One course of headers to three or five course of stretchers
+(B) Queen closer in provided in each heading course
+(C) The middle course of stretchers is started with a header to give proper vertical joints
+(D) All the above
+Answer: Option D
+Question No. 91
+The concrete slump recommended for foundations, is
+(A) 25 to 50 mm
+(B) 30 to 125 mm
+(C) 50 to 100 mm
+(D) 75 to 125 mm
+Answer: Option C
+Question No. 92
+Pick up the correct statement from the following:(A) In a king post truss, principal rafter and tie beams are jointed together with a bridle joint
+(B) Joint between the principal rafter and the king post is made by making tenon and mortise
+respectively
+(C) Joint between strut and king post, is generally of mortise and tenon type
+(D) All the above
+Answer: Option D
+Question No. 93
+Sum of tread and rise must lie between
+(A) 300 to 350 mm
+(B) 400 to 450 mm
+(C) 500 to 550 mm
+(D) 600 to 650 mm
+Answer: Option B
+Question No. 94
+In case of foundations on sandy soil, maximum permissible differential settlement, is usually
+limited to
+(A) 15 mm
+(B) 25 mm
+(C) 35 mm
+(D) 45 mm
+Answer: Option B
+Question No. 95
+In soft clay of low bearing capacity, the type of steel pile generally used, is
+(A) H-pile
+(B) Screw pile
+(C) Disc pile
+(D) Pipe pile
+Answer: Option B
+Question No. 96
+Gravels
+(A) Are cohesionless aggregates
+(B) Vary in size between 2 to 20 mm
+(C) Never swell when they come into contact with water
+(D) All the above
+Answer: Option D
+Question No. 97
+The differential settlement in case of foundations on sandy soils should not exceed
+(A) 25 mm
+(B) 40 mm
+(C) 65 mm(D) 100 mm
+Answer: Option A
+Question No. 98
+An arch constructed with finely dressed stones, is known
+(A) Ashlar arch
+(B) Rubble arch
+(C) Gauged arch
+(D) Axed arch
+Answer: Option A
+Question No. 99
+Pick up the correct statement from the following:
+(A) Lime mortar with cement in the ratio of in 10 is cheaper and better for outside plaster
+(B) For very cold or very hot climate, a compact and closed plan should be provided
+(C) On the sea coast, an exposed and open house is generally preferred
+(D) All the above
+Answer: Option D
+Question No. 100
+Weep holes are provided in retaining and breast walls
+(A) To drain off the water from the filling
+(B) To ventilate the stone masonry
+(C) To add architectural beauty
+(D) To increase compaction of the earth retained
+Answer: Option A
+Question No. 101
+The radial splits which are wider on the outside of the log and narrower towards the pith are
+known as
+(A) Heart shakes
+(B) Cupshakes
+(C) Starshakes
+(D) Rindgalls
+Answer: Option C
+Question No. 102
+The angular steps used for changing direction of the stairs, are called
+(A) Round steps
+(B) Angular steps
+(C) Winders
+(D) Radial steps
+Answer: Option CQuestion No. 103
+The concrete slump recommended for columns, is
+(A) 25 to 50 mm
+(B) 25 to 75 mm
+(C) 75 to 125 mm
+(D) 50 to 100 mm
+Answer: Option C
+Question No. 104
+The minimum width of a stair in residential buildings, is
+(A) 55 cm
+(B) 70 cm
+(C) 85 cm
+(D) 100 cm
+Answer: Option C
+Question No. 105
+The function of king post in a king post roof truss is
+(A) To support the frame work of the roof
+(B) To receive the ends of principal rafter
+(C) To prevent the walls from spreading outward
+(D) To prevent the tie beam from sagging at its centre
+Answer: Option D
+Question No. 106
+The dimensions of a half queen closer, are
+(A) 9 cm × 9 cm × 9 cm
+(B) 9 cm × 9 cm × 4.5 cm
+(C) 9 cm × 4.5 cm × 9 cm
+(D) 1.8 cm × 4.5 cm × 9 cm
+Answer: Option C
+Question No. 107
+For plastering the exposed brick walls, the cement sand mortar should be
+(A) 1 : 2
+(B) 1 : 3
+(C) 1 : 4
+(D) 1 : 6
+Answer: Option C
+Question No. 108
+The stone blocks approximately triangular in shape, used as steps, are known
+(A) Stone steps
+(B) Built up steps
+(C) Spandril steps(D) None of these
+Answer: Option C
+Question No. 109
+As compared to English bond, double Flemish bond is
+(A) Stronger
+(B) More compact
+(C) Costly
+(D) None of the above
+Answer: Option B
+Question No. 110
+Pick up the correct statement from the following:
+(A) The cost of square rooms is less
+(B) The expenditure on the foundation and roof for the double storeyed building is nearly half of
+that for the ground storeyed building
+(C) The cost of construction of a house may be minimised by restricting the height floors
+(D) All the above
+Answer: Option D
+Question No. 111
+In the method of tube boring of soil investigation, the following is essential:
+(A) A tube of about 2 metres length and 20 cm diameter with a cutting edge
+(B) A flap valve at the bottom of tube is provided to extract the soil sample
+(C) The tube is raised and lowered by 4 thick rope moving over a pulley suspended on a tripod
+stand
+(D) All the above
+Answer: Option D
+Question No. 112
+Slate
+(A) Is a metamorphic rock
+(B) Splits into thin sheets along its bedding planes
+(C) Has a smooth surface and contains alumina and silica
+(D) Possesses good water absorption capacity
+Answer: Option A
+Question No. 113
+The minimum depth of foundation in clayey soils is
+(A) 0.5 m
+(B) 0.7 m
+(C) 0.9 m
+(D) 1.2 m
+Answer: Option CQuestion No. 114
+In case of Raymond pile
+(A) Lengths vary from 6 m to 12 m
+(B) Diameter of top of piles varies from 40 cm to 60 cm
+(C) Diameter of pile at bottom varies from 20 cm to 28 cm
+(D) All the above
+Answer: Option D
+Question No. 115
+Herringbone bond is used for
+(A) Walls having thickness more than 4 bricks
+(B) Architectural finish to the face work
+(C) Ornamental panels in brick flooring
+(D) All the above
+Answer: Option D
+Question No. 116
+Suitable spacing of timber piles, is
+(A) 50 cm
+(B) 60 cm
+(C) 80 cm
+(D) 90 cm
+Answer: Option D
+Question No. 117
+The disease of dry rot in timber is caused by
+(A) Lack of ventilation
+(B) Alternate wet and dry conditions
+(C) Complete submergence in water
+(D) None of the above
+Answer: Option A
+Question No. 118
+Pick up the correct statement from the following:
+(A) Louvered door is generally provided in bath rooms
+(B) Flush door is generally provided in dining room
+(C) Revolving door is generally provided in cinema halls
+(D) Sliding door is generally provided in show rooms
+Answer: Option C
+Question No. 119
+The minimum distance between the centres of bulb of diameter du, of a multi under reamed piles,
+is
+(A) du
+(B) 1.25 du(C) 1.5 du
+(D) 1.75 du
+Answer: Option C
+Question No. 120
+The stone masonry of finely dressed stones laid in cement or lime, is
+(A) Random rubble masonry
+(B) Coursed rubble masonry
+(C) Dry rubble masonry
+(D) Ashlar masonry
+Answer: Option D
+Question No. 121
+The vertical posts placed at the top and bottom ends of a flight supporting the hand rail are known
+as
+(A) Balusters
+(B) Newel posts
+(C) Balustrades
+(D) Railings
+Answer: Option B
+Question No. 122
+Pick up the incorrect statement from the following:
+(A) The function of foundation is to distribute the load of super structure over a large bearing
+area
+(B) No timbering is required for shallow trenches
+(C) Shallow foundations can be constructed on made-up soil
+(D) Black cotton soil is very good for foundation bed
+Answer: Option D
+Question No. 123
+For the construction of flyovers in sandy soils, the type of foundation provided, is
+(A) Strap footing
+(B) Raft footing
+(C) Combined footing
+(D) Pier footing
+Answer: Option D
+Question No. 124
+For a rectangular foundation of width b, eccentricity of load should not exceed
+(A) b/2
+(B) b/3
+(C) b/4
+(D) b/6
+Answer: Option DQuestion No. 125
+The type of pile which is driven at an inclination to resist inclined forces is known as
+(A) Friction pile
+(B) Sheet pile
+(C) Batter pile
+(D) Anchor pile
+Answer: Option C
+Question No. 126
+The maximum bearing capacity of soil is that of
+(A) Black cotton soil
+(B) Loose fine sandy soil
+(C) Dry coarse sandy soil
+(D) Hard rocks
+Answer: Option D
+Question No. 127
+Pick up the correct statement from the following:
+(A) Cavity of a cavity wall should start near ground level
+(B) Cavity of a cavity wall should terminate near eaves level of sloping roof
+(C) Cavity of a cavity wall should terminate near coping of flat roof with parapet wall
+(D) All the above
+Answer: Option D
+Question No. 128
+The thickness of a reinforced brick partition wall, is generally kept
+(A) 5 cm
+(B) 10 cm
+(C) 15 cm
+(D) 20 cm
+Answer: Option B
+Question No. 129
+The term string is used for
+(A) The underside of a stair
+(B) Outer projecting edge of a tread
+(C) A sloping member which supports the steps in a stair
+(D) A vertical member between two treads
+Answer: Option C
+Question No. 130
+The 19 cm × 9 cm side of a brick as seen in the wall face, is generally known as
+(A) Stretcher
+(B) Face
+(C) Front(D) Header
+Answer: Option A
+Question No. 131
+The steel pile which is generally sunk in soft clay or loose sand of low bearing capacity, is
+(A) H-pile
+(B) Pipe pile
+(C) Screw pile
+(D) Disc pile
+Answer: Option C
+Question No. 132
+Pick up the correct statement about silt soil from the following:
+(A) The silt soil has particle size from 0.02 mm to 0.06 mm
+(B) In organic fine grained silt soil possesses no plasticity
+(C) The least plastic type normally consists of more or less equidimensional grains of quartz
+(D) All the above
+Answer: Option D
+Question No. 133
+The type of flooring suitable for use in churches, theatres, public libraries and other places where
+noiseless floor covering is desired is
+(A) Cork flooring
+(B) Glass flooring
+(C) Wooden flooring
+(D) Linoleum flooring
+Answer: Option A
+Question No. 134
+The angle between skew back of a flat arch and the horizontal, is kept approximately equal to
+(A) 0°
+(B) 30°
+(C) 60°
+(D) 90°
+Answer: Option C
+Question No. 135
+Pick up the correct statement from the following:
+(A) The sand in the sand pile is well compacted
+(B) The sand is kept moist at the time of placing and tamping
+(C) Sand piles are generally used under column loads
+(D) All of the above
+Answer: Option DQuestion No. 136
+Pick up the correct statement from the following:
+(A) A combined footing is so proportioned that centre of gravity of supporting area coincides
+with centre of gravity of two column loads
+(B) A combined footing may be either rectangular or trapezoidal in shape
+(C) Trapezoidal shaped footings may be provided under any loading
+(D) All the above
+Answer: Option D
+Question No. 137
+Minimum width of landing should be
+(A) Equal to width of stairs
+(B) Half the width of stairs
+(C) Twice the width of stairs
+(D) One fourth the width of stairs
+Answer: Option A
+Question No. 138
+For a wall carrying heavy load on low bearing capacity soil,
+(A) Lean concrete bed is provided
+(B) Thick concrete bed is provided
+(C) Reinforced concrete bed is provided
+(D) Both (a) and (c) of the above
+Answer: Option D
+Question No. 139
+While investigating the site, a thick layer of fairly firm clay over a deep layer of soft clay is
+encountered. In such a situation, the following type of foundation is useful:
+(A) Pile formation
+(B) Raft foundation
+(C) Grillage foundation
+(D) None of these
+Answer: Option B
+Question No. 140
+The type of arch used for high class buildings where appearance is of prime importance, is known
+as
+(A) Ashlar arch
+(B) Rubble arch
+(C) Gauged brick arch
+(D) Axed brick arch
+Answer: Option A
+Question No. 141
+Mansard roof is a roof which slopes in(A) Two directions without break in the slope on each side
+(B) Two directions with break in the slope on each side
+(C) Four directions without break in the slope on each side
+(D) Four directions with break in the slope on each side
+Answer: Option D
+Question No. 142
+If is the angle of repose of soil of weight w kg/m3, the horizontal pressure p at a depth
+of h metres per metre length of wall, is
+(A) wh × [(1 - sin )/(1 + )]
+(B) (wh/2) × [(1 - sin )/(1 + )]
+(C) wh - sin )/(1 + )]
+(D) wh )/(1 - )]
+Answer: Option A
+Question No. 143
+Pick up the correct specification of one-room quarters generally adopted from the following:
+(A) Six quarters in a row
+(B) The size of room is either 3.5 m × 3 m or 4.2 m × 2.5 m
+(C) The front verandah is kept 2 m wide
+(D) All the above
+Answer: Option D
+Question No. 144
+The piece of a brick cut along the centre of width in such a way that its length is equal to that of
+full brick, is called
+(A) Half brick
+(B) Queen closer
+(C) King closer
+(D) Bevelled closer
+Answer: Option B
+Question No. 145
+Number of vertical joints in a stretcher course is x times the number of joints in the header course,
+where x is equal to
+(A) 1/2
+(B) 1
+(C) 2
+(D) 1/4
+Answer: Option A
+Question No. 146
+The process of keeping concrete moist for a certain period after its finishing, is known as
+(A) Finishing of concrete
+(B) Curing of concrete(C) Placing of concrete
+(D) Compaction of concrete
+Answer: Option B
+Question No. 147
+The inner section of a cavity wall, is generally known as
+(A) Buttress
+(B) Leaf wall
+(C) Pilaster
+(D) Pillar
+Answer: Option B
+Question No. 148
+Pick up the correct statement from the following:
+(A) Sand consists of coarse particles of silica formed due to the disintegration of rocks
+(B) The grains of sand are not affected by frost
+(C) Sand beds are permeable and do not allow water to rise up between pores due to capillary
+action
+(D) All the above
+Answer: Option D
+Question No. 149
+The lintels are preferred to arches because
+(A) Arches require more headroom to span the openings like doors, windows etc.
+(B) Arches require strong abutments to withstand arch thrust
+(C) Arches are difficult in construction
+(D) All of the above
+Answer: Option D
+Question No. 150
+Cavity wall is generally provided for
+(A) Heat insulation
+(B) Sound insulation
+(C) Prevention of dampness
+(D) All the above
+Answer: Option D
+Question No. 151
+The construction joints in buildings are provided after
+(A) 10 m
+(B) 15 m
+(C) 20 m
+(D) 40 m
+Answer: Option DQuestion No. 152
+A pointed arch which forms isosceles or equilateral triangle, is generally known as
+(A) Three centred arch
+(B) Two centred arch
+(C) Lancet arch
+(D) Bull's eye arch
+Answer: Option C
+Question No. 153
+In case of foundations on black cotton soils, the most suitable method to increase the bearing
+capacity of soils is to
+(A) Increase the depth of foundation
+(B) Drain the soil
+(C) Compact the soil
+(D) Replace the poor soil
+Answer: Option D
+Question No. 154
+Depth of lean concrete bed placed at the bottom of a wall footing, is kept
+(A) 10 cm
+(B) 15 cm
+(C) Equal to its projection beyond wall base
+(D) Less than its projection beyond wall base
+Answer: Option C
+Question No. 155
+The sound which continues even after its source is cut off, is called
+(A) Reverberation
+(B) Echo
+(C) Intensity of sound
+(D) Interference
+Answer: Option A
+Question No. 156
+Pick up the correct statement from the following:
+(A) The bearing capacity of a pile is defined as the load which can be sustained by the pile
+without producing excessive settlement
+(B) The safe bearing capacity of a pile is obtained by dividing the ultimate bearing capacity with
+a suitable factor of safety
+(C) The factor of safety for piles is taken as 6
+(D) All the above
+Answer: Option D
+Question No. 157
+The maximum total settlement for raft foundation on clayey soils should be limited to(A) 25 mm
+(B) 25 to 40 mm
+(C) 40 to 65 mm
+(D) 65 to 100 mm
+Answer: Option D
+Question No. 158
+Which one of the following rocks is used for monumental buildings?
+(A) Granite
+(B) Marble
+(C) Sand stone
+(D) Slate
+Answer: Option B
+Question No. 159
+Pick up the consideration to the taken while designing a hospital from the following:
+(A) The operation theatre unit to be detached as it requires sterilized zone but near the ward for
+the patients and doctor
+(B) The mortuary should be detached from the main circulation with a post-mortem room
+(C) Casualty unit should be provided a separate entrance
+(D) All the above
+Answer: Option D
+Question No. 160
+The members which support covering material of a sloping roof, are
+(A) Rafters
+(B) Purlins
+(C) Battens
+(D) Struts
+Answer: Option A
+Question No. 161
+The triangular space formed between the extrados and the horizontal line drawn through the
+crown of an arch is known as
+(A) Haunch
+(B) Spandril
+(C) Voussoirs
+(D) Skewbacks
+Answer: Option B
+Question No. 162
+For providing a raft foundation, the following activities are involved
+1. Ramming the foundation bed
+2. Excavation of the soil upto required depth
+3. Laying the reinforcement over the foundation bed4. Curing the cement concrete placed over reinforcement
+5. Pouring the cement concrete over the reinforcement
+The correct sequence is
+(A) 1, 2, 3, 4, 5
+(B) 5, 4, 3, 2, 1
+(C) 2, 1, 3, 5, 4
+(D) 3, 2, 5, 1, 4
+Answer: Option C
+Question No. 163
+The stone whose crushing strength is maximum, is
+(A) Granite
+(B) Chalk
+(C) Slate
+(D) Sand stone
+Answer: Option A
+Question No. 164
+Brick nogging type of partition wall, is constructed by
+(A) Laying bricks as stretchers in cement mortar
+(B) Laying bricks as headers in cement mortar
+(C) Reinforcing brick wall with iron straps
+(D) Constructing brick work within a wooden framework
+Answer: Option D
+Question No. 165
+Couple close roof is suitable for maximum span of
+(A) 2.5 m
+(B) 3.5 m
+(C) 4.5 m
+(D) 5.5 m
+Answer: Option C
+Question No. 166
+A solid core of rock is formed inside the cylinder in the case of
+(A) Auger boring
+(B) Percussion drilling
+(C) Diamond drilling
+(D) Wash boring
+Answer: Option C
+Question No. 167
+The floor is rubbed with oxalic acid, for making its surface
+(A) Free from voids
+(B) Glossy(C) Durable
+(D) Uniform
+Answer: Option B
+Question No. 168
+The line of intersection of two surfaces of a sloping roof forming an internal angle less than 180°, is
+known as
+(A) Ridge
+(B) Hip
+(C) Valley
+(D) None of these
+Answer: Option C
+Question No. 169
+In which of the following directions, the strength of timber is maximum?
+(A) Parallel to grains
+(B) 45° to grains
+(C) Perpendicular to grains
+(D) Same in all directions
+Answer: Option A
+Question No. 170
+Arches in the form of masonry arcs struck from more than four centres, are called
+(A) Two curved arches
+(B) Gothic arches
+(C) Ogee arches
+(D) Drop gothic arches
+Answer: Option C
+Question No. 171
+Pick up the incorrect statement from the following:
+(A) Horizontal D.P.C. is provided at plinth level in internal walls
+(B) D.P.C. is provided under door and verandah openings
+(C) Vertical D.P.C. is not provided in internal walls
+(D) Cement concrete is a rigid damp-proofing material
+Answer: Option B
+Question No. 172
+The vertical faces of a door opening which support frame of the door, are
+(A) Jambs
+(B) Posts
+(C) Reveals
+(D) Styles
+Answer: Option AQuestion No. 173
+The lower edge of the pitched roof, from where the rain water of the roof surface drops down, is
+known as
+(A) Hip
+(B) Gable
+(C) Ridge
+(D) Eaves
+Answer: Option D
+Question No. 174
+The arrangement of supporting an existing structure by providing supports underneath, is known
+as
+(A) Shoring
+(B) Underpinning
+(C) Jacking
+(D) Piling
+Answer: Option B
+Question No. 175
+Pick up the correct statement from the following:
+(A) The first coat of stucco plaster is called scratch coat
+(B) The second coat of stucco plaster is called brown coat
+(C) The third coat of stucco plaster is called white coat
+(D) All the above
+Answer: Option D
+Question No. 176
+A concrete structure is set on fire and the temperature raises to 1000°C. The strength of concrete
+as compared to original strength reduces to
+(A) 10 %
+(B) 15 %
+(C) 20 %
+(D) 25 %
+Answer: Option C
+Question No. 177
+The horizontal timber piece provided at the apex of a roof truss which supports the common rafter
+is called
+(A) Ridge board
+(B) Hip rafter
+(C) Eaves board
+(D) Valley rafter
+Answer: Option A
+Question No. 178Pick up the incorrect statement from the following:
+(A) In dog-legged stairs, no space between its flights is provided
+(B) In open newel stair, a rectangular well is provided
+(C) In geometric stair, a curved shaped well between forward and backward flights, is provided
+(D) In geometrical stair, two quarter space landing is provided
+Answer: Option D
+Question No. 179
+The maximum number of steps in a flight should generally be restricted to
+(A) 10
+(B) 12
+(C) 15
+(D) No limit
+Answer: Option B
+Question No. 180
+In flat roof of reinforced cement concrete, the recommended angle of slope, is
+(A) Zero
+(B) A few degrees
+(C) 10°
+(D) 200°
+Answer: Option B
+Question No. 181
+The process of working a flat for the finishing coat, is known
+(A) Dubbing out
+(B) Floating
+(C) Knitting
+(D) Blistering
+Answer: Option B
+Question No. 182
+The highest line of sloping roof, where two opposite slopes meet, is known as
+(A) Rafter
+(B) Ridge
+(C) Crown
+(D) Eave
+Answer: Option B
+Question No. 183
+The depth of the ground water table may be ascertained by
+(A) Looking through the well in the vicinity
+(B) Standing on the well in the vicinity
+(C) Measuring the depth of water in the well
+(D) None of the aboveAnswer: Option C
+Question No. 184
+Which of the following metal sheets is most effective in preventing dampness?
+(A) Copper sheets
+(B) Lead sheets
+(C) Aluminium sheets
+(D) All the above
+Answer: Option D
+Question No. 185
+Under reamed piles are generally used for
+(A) Machine foundations
+(B) Factory building
+(C) Tall structures
+(D) All the above
+Answer: Option D
+Question No. 186
+Pick up the incorrect statement from the following:
+(A) The width of the wall is constructed thicker at the base in a stepped fashion
+(B) A long vertical load transferring concrete structure is called a concrete pile
+(C) In pile which transfers the load to the soil by the friction between the pile and the
+surrounding soil is called friction pile
+(D) The pile which transfers the load to a hard rock bed at certain depth is called load bearing
+Answer: Option D
+Question No. 187
+Engineering news formula for obtaining safe bearing capacity of pile for drop hammer, is,
+(A) Q = Wh/6 (S + 2.5)
+(B) Q = Wh/2.5 (S + 6)
+(C) Q = (W × 6)/h (S + 2.5)
+(D) Q = (W × 2.5)/6 (S + h)
+Answer: Option A
+Question No. 188
+The rock formed from the solidification of molten matter (magma) is called:
+(A) Sedimentary rock
+(B) Metamorphic rock
+(C) Igneous rock
+(D) None of the above
+Answer: Option C
+Question No. 189
+The maximum permissible deflection of a timber beam supporting a roof, is(A) L/100
+(B) L/150
+(C) L/260
+(D) L/360
+Answer: Option D
+Question No. 190
+Negative skin friction
+(A) Is a downward drag acting on a pile due to downward movement of the surrounding
+compressible soil relative to the pile
+(B) Develops due to lowering of ground water
+(C) Both (a) and (b)
+(D) Neither (a) not (b)
+Answer: Option C
+Question No. 191
+The ceiling height of a building is
+(A) Between ceiling and ground level
+(B) Between ceiling and floor level
+(C) Upto roof above ground level
+(D) Upto ceiling from the ground level
+Answer: Option B
+Question No. 192
+The skirting/dado in a bath roof should be upto
+(A) Ceiling
+(B) 15 cm above floor level
+(C) 200 cm
+(D) Level of the tap
+Answer: Option C
+Question No. 193
+The bearing capacity of piles is determined by
+(A) Dynamic formula
+(B) Static formula
+(C) Pile load tests
+(D) All the above
+Answer: Option D
+Question No. 194
+The vertical sides of a door and window openings provided in a wall, are known as
+(A) Verticals
+(B) Reveals
+(C) Jambs
+(D) None of theseAnswer: Option C
+Question No. 195
+The type of ashlar masonry in which stones are finely chisel dressed and thickness of joints does
+not exceed 3 mm, is
+(A) Chamfered ashlar masonry
+(B) Ashlar facing masonry
+(C) Random coursed ashlar masonry
+(D) Coursed ashlar masonry
+Answer: Option D
+Question No. 196
+The form Work including the props can be removed from beams, only after
+(A) 3 day
+(B) 7 days
+(C) 14 days
+(D) 21 days
+Answer: Option C
+Question No. 197
+The mortar in which both cement and lime are used as binding materials, is called
+(A) Cement mortar
+(B) Lime mortar
+(C) Fire resistant mortar
+(D) Gauged mortar
+Answer: Option D
+Question No. 198
+According to Rankine's formula, minimum depth of foundations, is
+(A) (P/w) × [(1 + sin )/(1 - )]²
+(B) (P/w) × [(1 - sin )/(1 + )]²
+(C) (P/2w) × [(1 - sin )/(1 + )]²
+(D) (P/w) × [(1 + sin )/(1 - )]
+Answer: Option B
+Question No. 199
+To stagger vertical joints in successive courses of a wall, a piece of brick is generally used at the
+end of the course, which is known as
+(A) Bat
+(B) Header
+(C) Stretcher
+(D) Closer
+Answer: Option DQuestion No. 200
+The bearing capacity of granite is generally
+(A) 5 to 10 kg/cm2
+(B) 15 to 20 kg/cm2
+(C) 30 to 35 kg/cm2
+(D) 40 to 45 kg/cm2
+Answer: Option C
+Question No. 201
+In grillage foundations a minimum 15 cm cover is provided on
+(A) Upper flange of top tier
+(B) Lower beam of lower tier
+(C) Ends of external beams
+(D) None to these
+Answer: Option B
+Question No. 202
+Stability of an existing structure may be disturbed by
+(A) Rising of water table
+(B) Vibrations caused by traffic movements
+(C) Mining in the neighbourhood
+(D) All the above
+Answer: Option D
+Question No. 203
+The Auger boring method is not suitable for
+(A) Very hard soil
+(B) Cemented soil
+(C) Vary soft soil
+(D) All the above
+Answer: Option D
+Question No. 204
+Dampness causes
+(A) Efflorescence
+(B) Bleaching of paints
+(C) Crumbling of plaster
+(D) Growth of termites
+Answer: Option D
+Question No. 205
+The pile which supports the load partly by friction and partly by resting on hard stratum, is called
+(A) Friction pile
+(B) Bearing pile
+(C) Friction bearing pile(D) Rough pile
+Answer: Option C
+Question No. 206
+An ordinary concrete may be made water proof by adding
+(A) Pudlo
+(B) Impermo
+(C) Snowcem
+(D) All of these
+Answer: Option D
+Question No. 207
+The opening provided in sloping roof with its top parallel to the roof surface, is called
+(A) Dormer window
+(B) Sky light window
+(C) Lantern window
+(D) Louvered window
+Answer: Option B
+Question No. 208
+Pick up the correct statement from the following:
+(A) The roof slabs of multi-storeyed buildings are constructed monolithically to carry the various
+floor loads
+(B) The beams of multi-storeyed buildings rest on girders and are the main load transferring
+members to the columns
+(C) The slab is spanned across the secondary beams provided between the main beams
+(D) All of these
+Answer: Option D
+Question No. 209
+The window which is provided in flat roof of a room, is known
+(A) Dormer window
+(B) Lantern window
+(C) Louvered window
+(D) Sky window
+Answer: Option B
+Question No. 210
+Grillage foundation
+(A) Is used to transfer heavy structural loads from steel columns to a soil having low bearing
+capacity
+(B) Is light and economical
+(C) Does not require deep cutting as the required base area with required pressure intensity is
+obtained at a shallow depth
+(D) All the aboveAnswer: Option D
+Question No. 211
+Pick up the correct statements from the following:
+(A) Cracks appear on the plastered surface in the form of hair cracks
+(B) In brick work, the efflorescence is removed by applying a solution of zinc sulphate and water
+(C) Excessive thermal variations in the backing or plaster causes the plaster to fall
+(D) All the above
+Answer: Option D
+Question No. 212
+The window which is provided on a sloping roof of a building, is called
+(A) Lantern window
+(B) Dormer window
+(C) Louvered window
+(D) Rash window
+Answer: Option B
+Question No. 213
+The single stage well point system of dewatering an excavation can be used if the depth of
+excavation does not exceed
+(A) 5 m
+(B) 10 m
+(C) 15 m
+(D) 20 m
+Answer: Option A
+Question No. 214
+The nominal thickness of one brick wall in mm, is
+(A) 90 mm
+(B) 150 mm
+(C) 190 mm
+(D) 200 mm
+Answer: Option D
+Question No. 215
+Pick up the incorrect statement from the following:
+(A) The retaining wall should be structurally capable to resist the applied earth pressure
+(B) The section of the retaining wall should be so proportioned that it may not overturn by the
+lateral pressure
+(C) The retaining wall should be safe against sliding
+(D) To drain off water from the earth retained, weep holes are provided near the top of the
+retaining wall
+Answer: Option DQuestion No. 216
+The stepped structure provided for lateral support of a structure, is
+(A) Retaining wall
+(B) Breast wall
+(C) Buttress
+(D) Parapet wall
+Answer: Option C
+Question No. 217
+Raft foundations are used for:
+(A) Providing increased area of foundation over poor bearing capacity of soil
+(B) Spanning over small soft or loose pockets
+(C) Counter acting the hydrostatic effect
+(D) All the above
+Answer: Option D
+Question No. 218
+Pick up the incorrect statement from the following:
+(A) In Flemish bond, headers and stretchers are laid alternately in the same course
+(B) In Flemish bond every header in each course lies centrally over every stretcher of the
+underlying course
+(C) In English bond, stretchers are laid in every course
+(D) In English bond, headers and stretchers are laid in alternate courses
+Answer: Option C
+Question No. 219
+Stud(s) of a common wooden partition
+(A) Are vertical wooden members
+(B) Is the upper horizontal wooden member
+(C) Is the lower horizontal wooden member
+(D) Are the intermediate horizontal wooden members
+Answer: Option A
+Question No. 220
+The additional piles which are driven to increase the capacity of supporting loads on vertical piles,
+are known
+(A) Construction piles
+(B) Raking piles
+(C) Eccentric piles
+(D) Sinking piles
+Answer: Option B
+Question No. 221
+Queen closer may be placed
+(A) In header course(B) In stretcher course
+(C) In header course next to first brick
+(D) In stretcher course next to first brick
+Answer: Option C
+Question No. 222
+The bearing capacity of a water logged soil, may be improved by
+(A) Grouting
+(B) Chemical action
+(C) Drainage
+(D) Compaction
+Answer: Option C
+Question No. 223
+The process of making the back ground rough, before plastering, is
+(A) Dubbing
+(B) Hacking
+(C) Blistering
+(D) Peeling
+Answer: Option B
+Question No. 224
+Which one of the following piles has a cast iron shoe even after removal of the hollow cylindrical
+steel casing?
+(A) Simplex pile
+(B) Pedestal pile
+(C) Vibro pile
+(D) Both (a) and (c) of the above
+Answer: Option D
+Question No. 225
+While designing a stair, the product of rise and going is approximately kept equal to
+(A) 350
+(B) 420
+(C) 450
+(D) 500
+Answer: Option B
+Question No. 226
+Nogging of a common wooden partition is
+(A) Upper horizontal wooden member
+(B) Lower horizontal wooden member
+(C) Intermediate horizontal wooden member
+(D) Vertical wooden member
+Answer: Option CQuestion No. 227
+Which one of the following factors is considered for the orientation of buildings?
+(A) The direction of the prevailing winds in the area
+(B) The exposure of the walls and roof of the buildings to the rays of sun
+(C) The extent up to which the sunrays penetrate with the verandah
+(D) All the above
+Answer: Option D
+Question No. 228
+To construct a 10 cm thick partition wall, you will prefer
+(A) English bond
+(B) Flemish bond
+(C) Header bond
+(D) Stretcher bond
+Answer: Option D
+Question No. 229
+The strength of brick masonry in 1:6 cement mortar, is
+(A) 20 tonnes/m2
+(B) 40 tonnes/m2
+(C) 50 tonnes/m2
+(D) 60 tonnes/m2
+Answer: Option C
+Question No. 230
+The form work from the sides of beams can be removed only after
+(A) 1 day
+(B) 4 days
+(C) 7 days
+(D) 14 days
+Answer: Option A
+Question No. 231
+For brick construction, the lime-sand mortar, is
+(A) 1 : 1
+(B) 1 : 2
+(C) 1 : 3
+(D) 1 : 4
+Answer: Option B
+Question No. 232
+The least bearing capacity of soil is that of
+(A) Hard rock
+(B) Moist clay
+(C) Soft rock(D) Coarse sandy soil
+Answer: Option B
+Question No. 233
+The maximum permissible differential settlement, in case of foundations in clayey soil, is usually
+limited to
+(A) 10 mm
+(B) 20 mm
+(C) 30 mm
+(D) 40 mm
+Answer: Option D
+Question No. 234
+Pick up the correct statement from the following:
+(A) English bond is used for brick masonry to support heavy loads
+(B) Double-Flemish bond is suitable for brick masonry to give uniform face appearance
+(C) The stretcher bond is used for the construction of half brick masonry brick
+(D) All the above
+Answer: Option D
+Question No. 235
+The black cotton soil
+(A) Undergoes volumetric changes
+(B) Swells excessively when wet
+(C) Shrinks excessively when dry
+(D) All the above
+Answer: Option D
+Question No. 236
+A cut in frame of a door to receive the shutter, is called
+(A) Louver
+(B) Stop
+(C) Horn
+(D) Rebate
+Answer: Option D
+Question No. 237
+The loose pockets in soil mass can be bridged safely by providing a raft foundation provided the
+soft area is smaller than
+(A) The column spacing
+(B) One-third the column spacing
+(C) Half the column spacing
+(D) Three-fourth the column spacing
+Answer: Option BQuestion No. 238
+Pick up the incorrect statement from the following:
+(A) In king post truss, one vertical post is used
+(B) In a queen post truss, one vertical post is used
+(C) In a queen post truss, two vertical posts are used
+(D) None of these
+Answer: Option B
+Question No. 239
+The pile which is provided with a bulb filled with concrete at its lower end, is known as
+(A) Simplex pile
+(B) Mac-Arthur pile
+(C) Raymond pile
+(D) Franki pile
+Answer: Option B
+Question No. 240
+Ornamental moulded course placed on the top of a wall, is
+(A) Cornice
+(B) Coping
+(C) Frieze
+(D) Lintel
+Answer: Option A
+Question No. 241
+Pick up the incorrect statement from the following:
+(A) Cement is added to lime mortar to increase its hydraulic properties only
+(B) Lime surkhi mortar is used for pointing the walls
+(C) Lime should be slaked before preparing lime mortar
+(D) High early strength concrete is generally used in cold weather
+Answer: Option A
+Question No. 242
+Pile foundation is generally provided if soil is
+(A) Compressible
+(B) Water logged
+(C) Made up
+(D) All the above
+Answer: Option D
+Question No. 243
+Bearing capacity of soils cannot be improved by
+(A) Draining sub-soil water
+(B) Ramming crushed stone in soil
+(C) Driving sand piles(D) Watering surface of soil
+Answer: Option D
+Question No. 244
+Rotary drilling is the fastest method in case of
+(A) Rocky soils
+(B) Clay soils
+(C) Sandy soil
+(D) All of these
+Answer: Option D
+Question No. 245
+The concrete slump recommended for beams and slabs; is
+(A) 25 to 50 mm
+(B) 25 to 75 mm
+(C) 30 to 125 mm
+(D) 50 to 100 mm
+Answer: Option C
+Question No. 246
+The alignment of a cross joint along the plumb line is
+(A) Bed block
+(B) Perpend
+(C) Lintel
+(D) Vertical line
+Answer: Option B
+Question No. 247
+A projecting piece usually provided to support a truss, is
+(A) Cornice
+(B) Coping
+(C) Frieze
+(D) Lintel
+Answer: Option C
+Question No. 248
+Best type of piles for soft soil having little resistance to the flow of concrete, is
+(A) Simplex pile
+(B) Vibro pile
+(C) Raymond pile
+(D) Franki pile
+Answer: Option B
+Question No. 249
+The form work from the underside of slabs, can be removed only after(A) 1 day
+(B) 4 days
+(C) 7 days
+(D) 14 days
+Answer: Option C
+Question No. 250
+Couple roof is used for spans
+(A) 3.5 m or less
+(B) 3.5 m but less than 5 m
+(C) 5 m but less than 6.5 m
+(D) 6.5 m but less than 8 m
+Answer: Option A
+Question No. 251
+For heavy embankments and dams, of height h, the depth of exploration of soil should not be less
+than
+(A) h/4
+(B) 1/2 h
+(C) h
+(D) 2 h
+Answer: Option D
+Question No. 252
+The vertical member running through middle of a shutter frame, is
+(A) Style
+(B) Reveal
+(C) Mullion
+(D) Post
+Answer: Option C
+Question No. 253
+The lower half portion between crown and skew back of the arch, is called
+(A) Spandril
+(B) Haunch
+(C) Springing
+(D) Soffit
+Answer: Option B
+Question No. 254
+An arch may fail due to
+(A) Uneven settlement of abutments
+(B) Sliding of voussoirs
+(C) Crushing of the material
+(D) All the aboveAnswer: Option D
+Question No. 255
+The exterior angle between outer faces of a wall, is known as
+(A) Turn
+(B) Junction
+(C) Quion
+(D) All the above
+Answer: Option C
+Question No. 256
+The minimum thickness of walls built in cement mortar (1 : 6) for a single storey building, is
+(A) 10 cm
+(B) 15 cm
+(C) 20 cm
+(D) 25 cm
+Answer: Option C
+Question No. 257
+Pick up the commonly adopted geophysical method in civil engineering from the following:
+(A) The seismic method
+(B) Electrical resistivity method
+(C) Gravitational method
+(D) Both (a) and (b) of the above
+Answer: Option D
+Question No. 258
+If height of the first storey of a building is 3.2 m and riser is 13 cm, the number of treads required,
+is
+(A) 12
+(B) 18
+(C) 24
+(D) 25
+Answer: Option C
+Question No. 259
+Dado is usually provided in
+(A) Dining halls
+(B) Bath rooms
+(C) Living rooms
+(D) Verandah
+Answer: Option B
+Question No. 260
+A roof which slopes in four directions, is called(A) Shed roof
+(B) Gable end roof
+(C) Hipped roof
+(D) Gambrel roof
+Answer: Option C
+Question No. 261
+The taper of precast concrete pile should not be more than
+(A) 1 cm per metre length
+(B) 2 cm per metre length
+(C) 4 cm per metre length
+(D) 5 cm per metre length
+Answer: Option B
+Question No. 262
+If the depth of an excavation is 20 metres, number of single stage well points to be installed at
+various levels, is
+(A) 5
+(B) 4
+(C) 3
+(D) 2
+Answer: Option C
+Question No. 263
+In case of multi-storeyed buildings, the forms to be removed first are
+(A) Sides of beams and girders
+(B) Column forms
+(C) Bottom of beams and girders
+(D) All the above at the same time
+Answer: Option A
+Question No. 264
+The vertical members fixed between steps and hand rail, are known
+(A) Balusters
+(B) Strings
+(C) Newel posts
+(D) Soffits
+Answer: Option A
+Question No. 265
+The depth of an arch is the distance between
+(A) Ground level and springing line
+(B) Crown and springing line
+(C) Crown and ground level
+(D) Intrados and extradosAnswer: Option D
+Question No. 266
+The nominal thickness of an expansion joint in brick walls, is kept more than
+(A) 5 mm
+(B) 10 mm
+(C) 15 mm
+(D) 20 mm
+Answer: Option D
+Question No. 267
+Exposed portions of vertical surface at right angles to the door or window frame, are known as
+(A) Jambs
+(B) Lintels
+(C) Reveals
+(D) Soffits
+Answer: Option C
+Question No. 268
+The projections of head or sill of a door or window frame are
+(A) Transoms
+(B) Horns
+(C) Stops
+(D) Chocks
+Answer: Option B
+Question No. 269
+The line of intersection of the surfaces of a sloping roof forming an external angle exceeding 180°,
+is
+(A) Ridge
+(B) Hip
+(C) Valley
+(D) None of these
+Answer: Option B
+Question No. 270
+The depth of excavation of foundations, is generally measured with a
+(A) Ranging rod
+(B) Steel tape
+(C) Levelling staff
+(D) Boning rod
+Answer: Option D
+Question No. 271
+The 9 cm × 9 cm side of a brick as seen in the wall face, is generally known as(A) Stretcher
+(B) Face
+(C) Front
+(D) Header
+Answer: Option D
+Question No. 272
+The range of spread from the wall base to outer edge of a brick work foundation does not exceed
+(A) 1/2 horizontal to 1 vertical
+(B) 2/3 horizontal to 1 vertical
+(C) 1 horizontal to 1 vertical
+(D) 2 horizontals to 1 vertical
+Answer: Option C
+Question No. 273
+The foundation in which a cantilever beam is provided to join two footings, is known as
+(A) Strip footing
+(B) Strap footing
+(C) Combined footing
+(D) Raft footing
+Answer: Option B
+Question No. 274
+Auger boring
+(A) Is the most primitive method for making a hole in the ground
+(B) Is generally employed in cohesive and other self soils above water table
+(C) Is most economical upto a depth of 5 metres
+(D) All the above
+Answer: Option D
+Question No. 275
+In horizontal D.P.C, thickness of cement concrete (1 : 2 : 4) is
+(A) 2 cm
+(B) 4 cm
+(C) 6 cm
+(D) 8 cm
+Answer: Option B
+Question No. 276
+The triangular portion between any two adjacent arches and the tangent to their crowns, is
+(A) Haunch
+(B) Spandril
+(C) Soffit
+(D) Rise
+Answer: Option BQuestion No. 277
+The compaction of concrete in the drilled pile hole is done by compressed air in the case of
+(A) Simplex pile
+(B) Franki pile
+(C) Pressure pile
+(D) Vibro pile
+Answer: Option C
+Question No. 278
+Pile foundations are suitable for
+(A) Water logged soils
+(B) Soft rocks
+(C) Compact soils
+(D) Multi-storeyed buildings
+Answer: Option A
+Question No. 279
+Pick up the correct statement from the following:
+(A) Inclined borings are made for taking samples under existing structures
+(B) Inclined borings are occasionally used instead of vertical holes
+(C) The spacing of inclined borings is kept such that one bore hole is vertically above the bottom
+of an adjacent bore hole
+(D) All the above
+Answer: Option D
+Question No. 280
+The inclined support at the ends of treads and rises of a stair, is known as
+(A) Baluster
+(B) Header
+(C) String
+(D) Beam
+Answer: Option C
+Question No. 281
+The brick laid with its breadth parallel to the face of a wall, is known as
+(A) Header
+(B) Stretcher
+(C) Closer
+(D) None of these
+Answer: Option A
+Question No. 282
+The voussoir placed at crown of an arch, is known as a
+(A) Key
+(B) Soffit(C) Springer
+(D) Haunch
+Answer: Option A
+Question No. 283
+In places where the soil is soft and has small resistance to the flow of concrete, which one of the
+following types of piles, is used
+(A) Vibro pile
+(B) Pressure pile
+(C) Franki pile
+(D) Pedestal pile
+Answer: Option A
+Question No. 284
+Crown is located at
+(A) Highest point on the extrados of the arch
+(B) Highest point on the intrados of the arch
+(C) Skew-back of the arch
+(D) None of these
+Answer: Option A
+Question No. 285
+The under surface of an arch, is called
+(A) Soffit
+(B) Intrados
+(C) Haunch
+(D) Back
+Answer: Option A
+Question No. 286
+The brick laid with its length parallel to the face of a wall, is a known as
+(A) Header
+(B) Stretcher
+(C) Closer
+(D) None of these
+Answer: Option B
+Question No. 287
+You are asked to design and supervise a truss for a factory to have spans 6 m to 9 m. The type of
+the truss you will use, is
+(A) Mansard truss
+(B) Queen post truss
+(C) King post truss
+(D) Collar truss
+Answer: Option CQuestion No. 288
+In verandah floors outward slope is
+(A) 1 in 40
+(B) 1 in 50
+(C) 1 in 60
+(D) 1 in 70
+Answer: Option C
+Question No. 289
+In jack arch floor, the rise is kept
+(A) 1/6th of the span
+(B) 1/8th of the span
+(C) 1/10th of the span
+(D) 1/12th of the span
+Answer: Option D
+Question No. 290
+The method of moving each brick through a small horizontal distance before it is finally laid in any
+brick wall and pressing it by means of brick hammer, is known as
+(A) Trowelling
+(B) Laying
+(C) Grouting
+(D) Placing
+Answer: Option B
+Question No. 291
+Black cotton soil is unsuitable for foundations because its
+(A) Bearing capacity is low
+(B) Permeability is uncertain
+(C) Particles are cohesive
+(D) Property to undergo a volumetric change due to variation of moisture content
+Answer: Option D
+Question No. 292
+A temporary rigid structure having platforms to enable masons to work at different stages of a
+building, is known as
+(A) Scaffolding
+(B) Dead shore
+(C) Raking shore
+(D) Under pinning
+Answer: Option A
+Question No. 293
+A floor constructed with 3 mm marble chips, is known
+(A) Mosaic floor(B) Terrazzo floor
+(C) Chips floor
+(D) Marble floor
+Answer: Option B
+Question No. 294
+The local swelling of a finished plaster, is termed
+(A) Cracking
+(B) Dubbing
+(C) Blistering
+(D) Hacking
+Answer: Option C
+Question No. 295
+Expansion joints in masonry walls are provided if length exceeds
+(A) 10 m
+(B) 20 m
+(C) 30 m
+(D) 40 m
+Answer: Option D
+Question No. 296
+The stone whose crushing strength is least, is
+(A) Granite
+(B) Chalk
+(C) Marble
+(D) Slate
+Answer: Option B
+Question No. 297
+The portion of a brick cut across the width, is called
+(A) Closer
+(B) Half brick
+(C) Bed
+(D) Bat
+Answer: Option D
+Question No. 298
+The type of bond in which every course contains both headers and stretchers, is called
+(A) English bond
+(B) Flemish bond
+(C) Russian band
+(D) Mixed bond
+Answer: Option BQuestion No. 299
+To support a heavy structure in sandy soil, the type of foundation generally used, is
+(A) Combined footing
+(B) Raft footing
+(C) Pier footing
+(D) Strap footing
+Answer: Option C
+Question No. 300
+The vertical side member of a shutter frame, is known
+(A) Style
+(B) Reveal
+(C) Mullion
+(D) Post
+Answer: Option A

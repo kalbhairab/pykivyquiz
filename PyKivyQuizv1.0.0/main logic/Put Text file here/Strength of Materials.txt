@@ -1,0 +1,2396 @@
+Strength of Materials
+Question No. 01
+According to Lami's theorem
+(A) Three forces acting at a point will be in equilibrium
+(B) Three forces acting at a point can be represented by a triangle, each side being proportional
+to force
+(C) If three forces acting upon a particle are represented in magnitude and direction by the
+sides of a triangle, taken in order, they will be in equilibrium
+(D) If three forces acting at a point are in equilibrium, each force is proportional to the sine of
+the angle between the other two
+Answer: Option D
+Question No. 02
+A number of forces acting at a point will be in equilibrium if
+(A) Their total sum is zero
+(B) Two resolved parts in two directions at right angles are equal
+(C) Sum of resolved parts in any two perpendicular directions are both zero
+(D) All of them are inclined equally
+Answer: Option C
+Question No. 03
+The center of gravity of a triangle lies at the point of
+(A) Concurrence of the medians
+(B) Intersection of its altitudes
+(C) Intersection of bisector of angles
+(D) Intersection of diagonals
+Answer: Option A
+Question No. 04
+Angle of friction is the
+(A) Angle between normal reaction and the resultant of normal reaction and the limiting friction
+(B) Ratio of limiting friction and normal reaction
+(C) The ratio of minimum friction force to the friction force acting when the body is just about
+to move
+(D) The ratio of minimum friction force to friction force acting when the body is in motion
+Answer: Option A
+Question No. 05
+Limiting force of friction is the
+(A) Tangent of angle between normal reaction and the resultant of normal reaction and limiting
+friction
+(B) Ratio of limiting friction and normal reaction(C) The friction force acting when the body is just about to move
+(D) The friction force acting when the body is in motion
+Answer: Option C
+Question No. 06
+The necessary condition for forces to be in equilibrium is that these should be
+(A) Coplanar
+(B) Meet at one point
+(C) Both (A) and (B) above
+(D) All be equal
+Answer: Option C
+Question No. 07
+Which of the following is the example of lever of first order?
+(A) Arm of man
+(B) Pair of scissors
+(C) Pair of clinical tongs
+(D) All of the above
+Answer: Option D
+Question No. 08
+A cable with a uniformly distributed load per horizontal metre run will take the following shape
+(A) Straight line
+(B) Parabola
+(C) Hyperbola
+(D) Elliptical
+Answer: Option B
+Question No. 09
+In determining stresses in frames by methods of sections, the frame is divided into two parts by an
+imaginary section drawn in such a way as not to cut more than
+(A) Two members with unknown forces of the frame
+(B) Three members with unknown forces of the frame
+(C) Four members with unknown forces of the frame
+(D) Three members with known forces of the frame
+Answer: Option B
+Question No. 10
+According to principle of transmissibility of forces, the effect of a force upon a body is
+(A) Maximum when it acts at the center of gravity of a body
+(B) Different at different points in its line of action
+(C) The same at every point in its line of action
+(D) Minimum when it acts at the C.G. of the body
+Answer: Option CQuestion No. 11
+Which of the following do not have identical dimensions?
+(A) Momentum and impulse
+(B) Torque and energy
+(C) Torque and work
+(D) Moment of a force and angular momentum
+Answer: Option D
+Question No. 12
+If a number of forces act simultaneously on a particle, it is possible
+(A) Not a replace them by a single force
+(B) To replace them by a single force
+(C) To replace them by a single force through C.G.
+(D) To replace them by a couple
+Answer: Option B
+Question No. 13
+Two coplanar couples having equal and opposite moments
+(A) Balance each other
+(B) Produce a couple and an unbalanced force
+(C) Are equivalent
+(D) Produce a moment of couple
+Answer: Option D
+Question No. 14
+If a suspended body is struck at the centre of percussion, then the pressure on die axis passing
+through the point of suspension will be
+(A) Maximum
+(B) Minimum
+(C) Zero
+(D) Infinity
+Answer: Option C
+Question No. 15
+Kinetic friction is the
+(A) Tangent of angle between normal reaction and the resultant of normal reaction and the
+limiting friction
+(B) Ratio of limiting friction and normal reaction
+(C) The friction force acting when the body is just about to move
+(D) The friction force acting when the body is in motion
+Answer: Option D
+Question No. 16
+The center of gravity of a uniform lamina lies at
+(A) The center of heavy portion(B) The bottom surface
+(C) The midpoint of its axis
+(D) All of the above
+Answer: Option C
+Question No. 17
+The bending moment at E for the structure shown in below figure, is
+(A) Zero
+(B) 10 Tm
+(C) 20 Tm
+(D) 40 Tm
+Answer: Option A
+Question No. 18
+The maximum twisting moment a shaft can resist, is the product of the permissible shear stress
+and
+(A) Moment of inertia
+(B) Polar moment of inertia
+(C) Polar modulus
+(D) Modulus of rigidly
+Answer: Option C
+Question No. 19
+The deflection of any rectangular beam simply supported, is
+(A) Directly proportional to its weight
+(B) Inversely proportional to its width
+(C) Inversely proportional to the cube of its depth
+(D) Directly proportional to the cube of its length
+Answer: Option C
+Question No. 20
+Pick up the correct statement from the following:
+(A) The point through which the resultant of the shear stresses passes is known as shear centre(B) In the standard rolled channels, the shear centre is on the horizontal line passing through
+and away from the C.G. beyond web
+(C) In equal angles, the shear centre is on the horizontal plane and away from the C.G., outside
+of the leg projection
+(D) All the above
+Answer: Option D
+Question No. 21
+A heavy string attached at two ends at same horizontal level and when central dip is very small
+approaches the following curve
+(A) Catenary
+(B) Parabola
+(C) Hyperbola
+(D) Elliptical
+Answer: Option B
+Question No. 22
+A beam is said to be of uniform strength, if
+(A) B.M. is same throughout the beam
+(B) Deflection is same throughout the beam
+(C) Bending stress is same throughout the beam
+(D) Shear stress is same throughout the beam
+Answer: Option C
+Question No. 23
+Pick up the correct statement from the following:
+(A) The distance of the eccentric axial load from the C.G. beyond which tension develops, is
+known as kern distance
+(B) In visco-elastic material, stress-strain relation is dependent on time
+(C) An orthotropic material has different properties in three mutually perpendicular directions
+(D) All the above
+Answer: Option D
+Question No. 24
+The ratio of limiting friction and normal reaction is known as
+(A) Coefficient of friction
+(B) Angle of friction
+(C) Angle of repose
+(D) Sliding friction
+Answer: Option A
+Question No. 25
+If a three hinged parabolic arch carries a uniformly distributed load on its entire span, every
+section of the arch resists.
+(A) Compressive force(B) Tensile force
+(C) Shear force
+(D) Bending moment
+Answer: Option A
+Question No. 26
+The under mentioned type is simple strain
+(A) Tensile strain
+(B) Compressive strain
+(C) Shear strain
+(D) All the above
+Answer: Option D
+Question No. 27
+If rain is falling in the opposite direction of the movement of a pedestrian, he has to hold his
+umbrella
+(A) More inclined when moving
+(B) Less inclined when moving
+(C) More inclined when standing
+(D) Less inclined when standing
+Answer: Option D
+Question No. 28
+The reaction at support A of the beam shown in below figure, is
+(A) Zero
+(B) 5 T
+(C) 10 T
+(D) 1 T
+Answer: Option A
+Question No. 29
+In a solid arch, shear force acts
+(A) Vertically upwards
+(B) Along the axis of the arch
+(C) Perpendicular to the axis of arch
+(D) Tangentially to the arch
+Answer: Option CQuestion No. 30
+The maximum frictional force which comes into play when a body just begins to slide over another
+surface is called
+(A) Limiting friction
+(B) Sliding friction
+(C) Rolling friction
+(D) Kinematic friction
+Answer: Option A
+Question No. 31
+An arch with three hinges, is a structure
+(A) Statically determinate
+(B) Statically indeterminate
+(C) Geometrically unstable
+(D) Structurally sound but indeterminate
+Answer: Option A
+Question No. 32
+Beams of uniform strength are preferred to those of uniform section because these are
+economical for
+(A) Large spans
+(B) Heavy weights
+(C) Light weights
+(D) Short spans
+Answer: Option A
+Question No. 33
+The M.I. of hollow circular section about a central axis perpendicular to section as compared to its
+M.I. about horizontal axis is
+(A) Same
+(B) Double
+(C) Half
+(D) Four times
+Answer: Option B
+Question No. 34
+The tensile force required to cause an elongation of 0.045 mm in a steel rod of 1000 mm length
+and 12 mm diameter, is (where E = 2 × 106 kg/cm2)
+(A) 166 kg
+(B) 102 kg
+(C) 204 kg
+(D) 74 kg
+Answer: Option BQuestion No. 35
+A long vertical member, subjected to an axial compressive load, is called
+(A) A column
+(B) A strut
+(C) A tie
+(D) A stanchion
+Answer: Option A
+Question No. 36
+In ideal machines
+(A) Mechanical advantage is greater than velocity ratio
+(B) Mechanical advantage is equal to velocity ratio
+(C) Mechanical advantage is less than velocity ratio
+(D) Mechanical advantage is unity
+Answer: Option B
+Question No. 37
+The nature of the stress in horizontal members of the truss shown in below figure may be
+(A) Compressive
+(B) Tensile
+(C) Shear
+(D) Zero
+Answer: Option B
+Question No. 38
+The property of a material by which it can be drawn to a smaller section, due to tension, is called
+(A) Plasticity
+(B) Ductility
+(C) Elasticity
+(D) Malleability
+Answer: Option B
+Question No. 39
+The unit of force in S.I. units is
+(A) Kilogram
+(B) Newton
+(C) Watt(D) Dyne
+Answer: Option B
+Question No. 40
+A bending moment may be defined as:
+(A) Arithmetic sum of the moments of all the forces on either side of the section
+(B) Arithmetic sum of the forces on either side of the section
+(C) Algebraic sum of the moments of all the forces on either side of the section
+(D) None of these
+Answer: Option C
+Question No. 41
+If a circular beam of diameter d experiences a longitudinal strain P/E and a lateral strain 2P/mE,
+the volumetric strain is
+(A) (P/E) + (2P/mE)
+(B) (P/E) - (2P/mE)
+(C) (P/E) + (mE/2P)
+(D) (P/E) - (mE/2P)
+Answer: Option B
+Question No. 42
+The resolved part of the resultant of two forces inclined at an angle in a given direction is equal
+to
+(A) The algebraic sum of the resolved parts of the forces in the given direction
+(B) The sum of the resolved parts of the forces in the given direction
+(C) The difference of the forces multiplied by the cosine of
+(D) The sum of the forces multiplied by the sine of
+Answer: Option A
+Question No. 43
+For structural analysis, Maxwell's reciprocal theorem can be applied to:
+(A) Plastic structures
+(B) Elastic structures
+(C) Symmetrical structures
+(D) All the above
+Answer: Option B
+Question No. 44
+If all the dimensions of a bar are increased in the proportion n : 1, the proportion with which the
+maximum stress produced in the prismatic bar by its own weight, will increase in the ratio
+(A) 1 : n
+(B) n : 1
+(C) 1 : (1/n)
+(D) 1 : n
+Answer: Option BQuestion No. 45
+Which of the following is a vector quantity?
+(A) Energy
+(B) Mass
+(C) Momentum
+(D) Angle
+Answer: Option C
+Question No. 46
+Pick up the incorrect statement
+(A) The cross-sectional area of the welded member is effective
+(B) A welded joint develops strength of its parent metal
+(C) Welded joints provide rigidity
+(D) Welding takes more time than riveting
+Answer: Option D
+Question No. 47
+A 8 metre long simply supported rectangular beam which carries a distributed load 45 kg/m.
+experiences a maximum fibre stress 160 kg/cm2. If the moment of inertia of the beam is 640 cm4,
+the overall depth of the beam is
+(A) 10 cm
+(B) 12 cm
+(C) 15 cm
+(D) 18 cm
+Answer: Option A
+Question No. 48
+A heavy ladder resting on floor and against a vertical wall may not be in equilibrium, if
+(A) The floor is smooth, the wall is rough
+(B) The floor is rough, the wall is smooth
+(C) The floor and wall both are smooth surfaces
+(D) The floor and wall both are rough surfaces
+Answer: Option C
+Question No. 49
+A triangular section having base b, height h, is placed with its base horizontal. If the shear stress at
+a depth y from top is q, the maximum shear stress is
+(A) 3S/bh
+(B) 4S/bh
+(C) 4b/Sh
+(D) 3b/bS
+Answer: Option AQuestion No. 50
+Maximum deflection of a
+(A) Cantilever beam carrying a concentrated load W at its free end is WL3/3EI
+(B) Simply supported beam carrying a concentrated load W at mid-span is WL3/48EI
+(C) Cantilever beam, carrying a uniformly distributed load over span is WL3/8EI
+(D) All the above
+Answer: Option D
+Question No. 51
+From a circular plate of diameter 6 cm is cut out a circle whose diameter is a radius of the plate.
+Find the e.g. of the remainder from the center of circular plate
+(A) 0.5 cm
+(B) 1.0 cm
+(C) 1.5 cm
+(D) 2.5 cm
+Answer: Option A
+Question No. 52
+If a rectangular beam measuring 10 × 18 × 400 cm carries a uniformly distributed load such that
+the bending stress developed is 100 kg/cm2. The intensity of the load per metre length, is
+(A) 240 kg
+(B) 250 kg
+(C) 260 kg
+(D) 270 kg
+Answer: Option B
+Question No. 53
+If two tensile forces mutually perpendicular act on a rectangular parallelepiped bar are equal, the
+resulting elongation of the pipe, is
+(A) (P/E) (1 - m)
+(B) (E/P) (m -1)
+(C) (E/P) (1 - m)
+(D) (P/E) (1 + m)
+Answer: Option A
+Question No. 54
+On a ladder resting on smooth ground and leaning against vertical wall, the force of friction will be
+(A) Towards the wall at its upper end
+(B) Away from the wall at its upper end
+(C) Upwards at its upper end
+(D) Downwards at its upper end
+Answer: Option CQuestion No. 55
+If the rivets in adjacent rows are staggered and outermost row has only one rivet, the
+arrangement of the rivets, is called
+(A) Chain riveting
+(B) Zig-zag riveting
+(C) Diamond riveting
+(D) None of these
+Answer: Option C
+Question No. 56
+The bending moment at C of a portal frame shown in below figure is
+(A) 8 t-m
+(B) 4 t-m
+(C) 28 t-m
+(D) Zero
+Answer: Option D
+Question No. 57
+If three forces acting in one plane upon a rigid body, keep it in equilibrium, then they must either
+(A) Meet in a point
+(B) Be all parallel
+(C) At least two of them must meet
+(D) All the above are correct
+Answer: Option D
+Question No. 58
+In a three hinged arch, the shear force is usually
+(A) Maximum at crown(B) Maximum at springing
+(C) Maximum at quarter points
+(D) Varies with slope
+Answer: Option B
+Question No. 59
+If Z and I are the section modulus and moment of inertia of the section, the shear force F and
+bending moment M at a section are related by
+(A) F = My/I
+(B) F = M/Z
+(C) F = dM/dx
+(D) F Mdx
+Answer: Option C
+Question No. 60
+A pair of smith's tongs is an example of the lever of
+(A) Zeroth order
+(B) First order
+(C) Second order
+(D) Third order
+Answer: Option C
+Question No. 61
+The direction of the reaction at support B of a truss shown in below figure will be
+(A) East of North
+(B) West of North
+(C) East of South
+(D) West of South
+Answer: Option A
+Question No. 62
+A beam of length L supported on two intermediate rollers carries a uniformly distributed load on
+its entire length. If sagging B.M. and hogging B.M. of the beam are equal, the length of each
+overhang, is
+(A) 0.107 L
+(B) 0.207 L
+(C) 0.307 L(D) 0.407 L
+Answer: Option B
+Question No. 63
+The unit of work or energy in S.I. units is
+(A) Newton
+(B) Pascal
+(C) Kilogram meter
+(D) Joule
+Answer: Option D
+Question No. 64
+The shear force on a simply supported beam is proportional to
+(A) Displacement of the neutral axis
+(B) Sum of the forces
+(C) Sum of the transverse forces
+(D) Algebraic sum of the transverse forces of the section
+Answer: Option D
+Question No. 65
+Shear deflection of a cantilever of length L, cross sectional area A and shear modulus G, subjected
+to w/m u.d.l., is
+(A) (3/4) (L²w/GA)
+(B) (3/2) (L²w/GA)
+(C) (2/3) (L3w/GA)
+(D) (3/2) (Lw/GA²)
+Answer: Option A
+Question No. 66
+Which of the following is not the unit of distance?
+(A) Angstrom
+(B) Light year
+(C) Micron
+(D) Milestone
+Answer: Option D
+Question No. 67
+In a bar of large length when held vertically and subjected to a load at its lower end, its ownweight produces additional stress. The maximum stress will be
+(A) At the lower cross-section
+(B) At the built-in upper cross-section
+(C) At the central cross-section
+(D) At every point of the bar
+Answer: Option BQuestion No. 68
+The value of Poisson's ratio always remains
+(A) Greater than one
+(B) Less than one
+(C) Equal to one
+(D) None of these
+Answer: Option B
+Question No. 69
+The B.M. diagram of the beam shown in below figure, is
+(A) A rectangle
+(B) A triangle
+(C) A trapezium
+(D) A parabola
+Answer: Option A
+Question No. 70
+Which of the following is not a vector quantity?
+(A) Weight
+(B) Velocity
+(C) Acceleration
+(D) Force
+Answer: Option A
+Question No. 71
+The greatest eccentricity which a load W can have without producing tension on the cross-section
+of a short column of external diameter D and internal diameter d, is
+(A) 4W/ (D² - d²)
+(B) (D² - d²)/32D
+(C) (D² + d²)/8D
+(D) (D² - d²)/8D
+Answer: Option C
+Question No. 72
+If is the shear force at a section of an I-joist, having web depth and moment of inertia
+about its neutral axis, the difference between the maximum and mean shear stresses in the
+web is,
+(A) Sd²/8I
+(B) Sd²/12I
+(C) Sd²/16I(D) Sd²/24I
+Answer: Option D
+Question No. 73
+Center of gravity of a thin hollow cone lies on the axis at a height of
+(A) One-fourth of the total height above base
+(B) One-third of the total height above base
+(C) One-half of the total height above base
+(D) Three-eighth of the total height above the base
+Answer: Option B
+Question No. 74
+A rectangular bar of width b and height h is being used as a cantilever. The loading is in a plane
+parallel to the side b. The section modulus is
+(A) bh3/12
+(B) bh²/6
+(C) b²h/6
+(D) None of these
+Answer: Option C
+Question No. 75
+A beam is said to be of uniform strength, if
+(A) B.M. is same throughout the beam
+(B) Shear stress is same throughout the beam
+(C) Deflection is same throughout the beam
+(D) Bending stress is same at every section along its longitudinal axis
+Answer: Option D
+Question No. 76
+The coefficient of friction depends on
+(A) Area of contact
+(B) Shape of surfaces
+(C) Strength of surfaces
+(D) Nature of surface
+Answer: Option D
+Question No. 77
+A closely coiled helical spring of radius R, contains n turns and is subjected to an axial loadW. If the
+radius of the coil wire is r and modulus of rigidity of the coil material is C, the stress developed in
+the helical spring is
+(A) WR/ 3
+(B) 2WR/ 3
+(C) 2WR/ 2
+(D) 4WR/ 2
+Answer: Option BQuestion No. 78
+The intensity of direct longitudinal stress in the cross-section at any point distant r from the
+neutral axis, is proportional to
+(A) r
+(B) 1/r
+(C) r2
+(D) 1/r²
+Answer: Option A
+Question No. 79
+The coefficient of friction depends upon
+(A) Nature of surfaces
+(B) Area of contact
+(C) Shape of the surfaces
+(D) All of the above
+Answer: Option A
+Question No. 80
+The force in member U2L2 of the truss shown in below figure, is
+(A) 10 T tension
+(B) 10 T compression
+(C) Zero
+(D) 15 T compression
+Answer: Option B
+Question No. 81
+The ratio of the moments of resistance of a solid circular shaft of diameter D and a hollow shaft
+(external diameter D and internal diameter d), is
+(A) D4/(D4 - d4)
+(B) D3/(D3 - d3)
+(C) (D4 - d4)/D4
+(D) (D3 - d3)/D3
+Answer: Option A
+Question No. 82
+The angle which an inclined plane makes with the horizontal when a body placed on it is about to
+move down is known as angle of(A) Friction
+(B) Limiting friction
+(C) Repose
+(D) Kinematic friction
+Answer: Option C
+Question No. 83
+When loads are applied proportionately to a frame structure containing its members in one plane,
+the structure is called
+(A) Grid frame
+(B) Plane frame
+(C) Space frame
+(D) Truss frame
+Answer: Option C
+Question No. 84
+The maximum stress intensity due to a suddenly applied load is x-times the stress intensity
+produced by the load of the same magnitude applied gradually. The value of x is
+(A) 1
+(B) 2
+(C) 3
+(D) 1/2
+Answer: Option B
+Question No. 85
+The unit of power in S.I. units is
+(A) Newton meter
+(B) Watt
+(C) Joule
+(D) Kilogram meter/sec
+Answer: Option B
+Question No. 86
+The maximum bending moment due to a moving load on a simply supported beam, occurs
+(A) At the mid span
+(B) At the supports
+(C) Under the load
+(D) Anywhere on the beam
+Answer: Option C
+Question No. 87
+Which of the following is not the unit of pressure?
+(A) kg/cm
+(B) atm
+(C) kg/cm²(D) Newton
+Answer: Option D
+Question No. 88
+The force in BD of the truss shown in below figure is:
+(A) 500 kg compressive
+(B) 500 kg tensile
+(C) 1500 kg tensile
+(D) 1500 kg compressive
+Answer: Option A
+Question No. 89
+The maximum resistance against rotation, is offered by the weld at a point
+(A) Most distant
+(B) Least distant
+(C) At either end
+(D) Centrally located
+Answer: Option A
+Question No. 90
+During a tensile test on a ductile material
+(A) Nominal stress at fracture is higher than the ultimate stress
+(B) True stress at fracture is higher than the ultimate stress
+(C) True stress at fracture is the same as the ultimate stress
+(D) None of these
+Answer: Option B
+Question No. 91
+A framed structure is perfect if it contains members equal to
+(A) 2n3
+(B) nl
+(C) 2nl
+(D) 3n²
+Where n = number of joints in a frame
+Answer: Option AQuestion No. 92
+When equal and opposite forces applied to a body, tend to elongate it, the stress so produced, is
+called
+(A) Shear stress
+(B) Compressive stress
+(C) Tensile stress
+(D) Transverse stress
+Answer: Option C
+Question No. 93
+A joint of a frame is subjected to three tensile forces P, Q and R equally inclined to each other.
+If P is 10 tonnes, the other forces will be
+(A) Q = 10 tonnes and R = zero
+(B) R + 10 tonnes and Q = zero
+(C) Q + R = 10 tonnes
+(D) Q and R each is equal to 10 tonnes
+Answer: Option D
+Question No. 94
+In the equation of virtual work, following force is neglected
+(A) Reaction of any smooth surface with which the body is in contact
+(B) Reaction of a rough surface of a body which rolls on it without slipping
+(C) Reaction at a point or an axis, fixed in space, around which a body is constrained to turn
+(D) All of the above
+Answer: Option D
+Question No. 95
+The structure shown in below figure is stable, if
+(A) x y/2
+(B) x = 2y
+(C) = y
+(D) x) = y
+Answer: Option D
+Question No. 96
+Pick up the correct statement from the following:
+(A) The rate of change of bending moment is equal to rate of shear force
+(B) The rate of change of shear force is equal to rate of loading
+(C) Neither (a) nor (b)(D) Both (a) and (b)
+Answer: Option D
+Question No. 97
+Tangent of angle of friction is equal to
+(A) Kinetic friction
+(B) Limiting friction
+(C) Angle of repose
+(D) Coefficient of friction
+Answer: Option D
+Question No. 98
+The type of butt joints in common use, is:
+(A) Single inverted V-butt joint
+(B) Double V-butt joint
+(C) Double U-butt joint
+(D) Single V-butt joint
+Answer: Option A
+Question No. 99
+For keeping the stress wholly compressive the load may be applied on a circular column anywhere
+within a concentric circle of diameter
+(A) d/2
+(B) d/3
+(C) d/4
+(D) d/8
+Answer: Option C
+Question No. 100
+The C.G. of a solid hemisphere lies on the central radius 3r
+(A) At distance from the plane base 3r
+(B) At distance from the plane base 3r
+(C) At distance from the plane base 3r
+(D) At distance from the plane base or
+Answer: Option D
+Question No. 101
+In a loaded beam, the point of contraflexure occurs at a section where
+(A) Bending moment is minimum
+(B) Bending moment is zero or changes sign
+(C) Bending moment is maximum
+(D) Shearing force is maximum
+Answer: Option BQuestion No. 102
+In actual machines
+(A) Mechanical advantage is greater than velocity ratio
+(B) Mechanical advantage is equal to velocity ratio
+(C) Mechanical advantage is less than velocity ratio
+(D) Mechanical advantage is unity
+Answer: Option C
+Question No. 103
+In the given below figure, the rivets with maximum stress, are:
+(A) 1 and 2
+(B) 1 and 3
+(C) 3 and 4
+(D) 2 and 4
+Answer: Option D
+Question No. 104
+If two forces acting at a joint are not along the straight line, then for the equilibrium of the joint
+(A) One of the forces must be zero
+(B) Each force must be zero
+(C) Forces must be equal and of the same sign
+(D) Forces must be equal in magnitude but opposite in sign
+Answer: Option B
+Question No. 105
+Shear deflection of a cantilever of length L, cross sectional area A and shear modulus G, under a
+concentrated load W at its free end, is
+(A) (2/3) (WL/AG)
+(B) (1/3) (WL²/EIA)
+(C) (3/2) (WL/AG)(D) (3/2) (WL²/AG)
+Answer: Option C
+Question No. 106
+Forces are called concurrent when their lines of action meet in
+(A) One point
+(B) Two points
+(C) Plane
+(D) Perpendicular planes
+Answer: Option A
+Question No. 107
+The ratio of the maximum deflections of a beam simply supported at its ends with an isolated
+central load and that of with a uniformly distributed load over its entire length, is
+(A) 3/2
+(B) 15/24
+(C) 24/15
+(D) 2/3
+Answer: Option C
+Question No. 108
+At either end of a plane frame, maximum number of possible bending moments, are
+(A) Zero
+(B) One
+(C) Two
+(D) Three
+Answer: Option A
+Question No. 109
+Which of the following is not the unit of work, energy and heat?
+(A) kcal
+(B) kg m
+(C) kWhr
+(D) hp
+Answer: Option D
+Question No. 110
+If a shaft is rotating N revolutions per minute with an applied torque T kg-m, the horse power
+being transmitted by the shaft, is
+(A) 2 /550
+(B) 2 /750
+(C) 2 /4500
+(D) 2 /55
+Answer: Option CQuestion No. 111
+In a shaft shear stress intensity at a point is not
+(A) Directly proportional to the distance from the axis
+(B) Inversely proportional to the distance from the axis
+(C) Inversely proportional to the polar moment of inertia
+(D) Directly proportional to the applied torque
+Answer: Option B
+Question No. 112
+Center of gravity of a solid cone lies on the axis at the height
+(A) One-fourth of the total height above base
+(B) One-third of the total height above base
+(C) One-half of the total height above base
+(D) Three-eighth of the total height above the base
+Answer: Option A
+Question No. 113
+The force in DB of the truss shown in below figure is
+(A) W compression
+(B) W tension
+(C) 2 W compression
+(D) 5 W tension
+Answer: Option B
+Question No. 114
+A diagram which shows the variations of the axial load for all sections of the span of a beam, is
+called
+(A) Bending moment diagram
+(B) Shear force diagram
+(C) Thrust diagram
+(D) Stress diagram
+Answer: Option C
+Question No. 115
+The resultant of the following three couples 20 kg force, 0.5 m arm, +ve sense 30 kg force, 1 m
+arm, -ve sense 40 kg force, 0.25 m arm, +ve sense having arm of 0.5 m will be
+(A) 20 kg, -ve sense(B) 20 kg, +ve sense
+(C) 10 kg, +ve sense
+(D) 10 kg, -ve sense
+Answer: Option A
+Question No. 116
+A cantilever beam rectangular in cross-section is subjected to an isolated load at its free end. If the
+width of the beam is doubled, the deflection of the free end will be changed in the ratio of
+(A) 8
+(B) 1/8
+(C) 1/2
+(D) 3
+Answer: Option C
+Question No. 117
+In rectangular columns (cross-section b × h), the core is a
+(A) Rectangle of lengths b/2 and h/2
+(B) Square of length b/2
+(C) Rhombus of length h/2
+(D) Rhombus of diagonals b/3 and h/3
+Answer: Option D
+Question No. 118
+Pick up the correct assumption of the theory of simple bending
+(A) The value of the Young's modulus is the same in tension as well as in compression
+(B) Transverse section of a beam remains plane before and after bending
+(C) The material of the beam is homogeneous and isotropic
+(D) All the above
+Answer: Option D
+Question No. 119
+Dynamic friction as compared to static friction is
+(A) Same
+(B) More
+(C) Less
+(D) May be less of more depending on nature of surfaces and velocity
+Answer: Option C
+Question No. 120
+The property of a material by which it can be beaten or rolled into thin plates, is called
+(A) Malleability
+(B) Ductility
+(C) Plasticity
+(D) Elasticity
+Answer: Option AQuestion No. 121
+A closely coiled helical spring of radius R, contains n turns and is subjected to an axial load W. If
+the radius of the coil wire is r and modulus of rigidity of the coil material is C, the deflection of the
+coil is
+(A) WR3n/Cr4
+(B) 2WR3n/Cr4
+(C) 3WR3n/Cr4
+(D) 4WR3n/Cr4
+Answer: Option D
+Question No. 122
+In the lever of third order, load W, effort P and fulcrum F are oriented as follows
+(A) W between P and F
+(B) F between W and P
+(C) P between W and F
+(D) W, P and F all on one side
+Answer: Option A
+Question No. 123
+In the cantilever truss as shown in below figure, the horizontal component of the reaction at A, is
+(A) 30 tonnes
+(B) 60 tonnes
+(C) 90 tonnes
+(D) 120 tonnes
+Answer: Option A
+Question No. 124
+The property by which a body returns to its original shape after removal of the force, is called
+(A) Plasticity
+(B) Elasticity
+(C) Ductility
+(D) Malleability
+Answer: Option BQuestion No. 125
+Forces are called coplanar when all of them acting on body lie in
+(A) One point
+(B) One plane
+(C) Different planes
+(D) Perpendicular planes
+Answer: Option B
+Question No. 126
+The slenderness ratio of a vertical column of a square cross-section of 2.5 cm sides and 300 cm
+length, is
+(A) 200
+(B) 240
+(C) 360
+(D) 416
+Answer: Option D
+Question No. 127
+The stress necessary to initiate yielding, is considerably
+(A) More than that necessary to continue it
+(B) Less than that necessary to continue it
+(C) More than that necessary to stop it
+(D) Less than that necessary to stop it
+Answer: Option A
+Question No. 128
+Which of the following is not a scalar quantity?
+(A) Time
+(B) Mass
+(C) Volume
+(D) Acceleration
+Answer: Option D
+Question No. 129
+Influence lines are drawn for structures
+(A) Of any type
+(B) Statically determinate
+(C) Pin-jointed truss
+(D) None of these
+Answer: Option A
+Question No. 130
+A cast iron T section beam is subjected to pure bending. For maximum compressive stress to be
+three times the maximum tensile stress, centre of gravity of the section from flange side is
+(A) h/4(B) h/3
+(C) h/2
+(D) 2/3 h
+Answer: Option A
+Question No. 131
+The units of moment of inertia of an area are
+(A) kg m²
+(B) m4
+(C) kg/m²
+(D) m3
+Answer: Option B
+Question No. 132
+The radius of gyration of a rectangular section is not proportional to
+(A) Square root of the moment of inertia
+(B) Square root of the inverse of the area
+(C) Square root of the moment of inertia divided by area of the section
+(D) None of these
+Answer: Option D
+Question No. 133
+Ties are load carrying members of a frame, which are subjected to
+(A) Transverse loads
+(B) Axial tension loads
+(C) Axial compressive loads
+(D) Torsional loads
+Answer: Option B
+Question No. 134
+On the ladder resting on the ground and leaning against a smooth vertical wall, the force of
+friction will be
+(A) Downwards at its upper end
+(B) Upwards at its upper end
+(C) Perpendicular to the wall at its upper end
+(D) Zero at its upper end
+Answer: Option D
+Question No. 135
+The phenomenon of slow extension of materials having constant load, i.e. increasing with the time
+is called
+(A) Creeping
+(B) Yielding
+(C) Breaking
+(D) None of theseAnswer: Option A
+Question No. 136
+The maximum deflection of
+(A) A simply supported beam carrying a uniformly increasing load from either end and having
+the apex at the mid span is WL3/60EI
+(B) A fixed ended beam carrying a distributed load over the span is WL3/384EI
+(C) A fixed ended beam carrying a concentrated load at the mid span is WL3/192EI
+(D) All the above
+Answer: Option D
+Question No. 137
+A flywheel on a motor goes from rest to 1000 rpm in 6 sec. The number of revolutions made is
+nearly equal to
+(A) 25
+(B) 50
+(C) 100
+(D) 250
+Answer: Option B
+Question No. 138
+The B.M. of a cantilever beam shown in below figure at A, is
+(A) Zero
+(B) 8 Tm
+(C) 12 Tm
+(D) 20 Tm
+Answer: Option A
+Question No. 139
+A cantilever carries is uniformly distributed load W over its whole length and a force W acts at its
+free end upward. The net deflection of the free end will be
+(A) Zero
+(B) (5/24) (WL3/EI) upward
+(C) (5/24) (WL3/EI) downward
+(D) None of these
+Answer: Option BQuestion No. 140
+The C.G. of a plane lamina will not be at its geometrical centre in the case of a
+(A) Right angled triangle
+(B) Equilateral triangle
+(C) Square
+(D) Circle
+Answer: Option A
+Question No. 141
+Struts are load carrying members of a frame structure which are subjected to
+(A) Axial tension loads
+(B) Axial compressive loads
+(C) Torsional loads
+(D) Transverse loads
+Answer: Option B
+Question No. 142
+Strain energy of a member may be equated to
+(A) Average resistance × displacement
+(B) ½ stress × strain × area of its cross-section
+(C) ½ stress × strain × volume of the member
+(D) ½ (stress)2 × volume of the member + Young's modulus E
+Answer: Option D
+Question No. 143
+A force acting on a body may
+(A) Introduce internal stresses
+(B) Balance the other forces acting on it
+(C) Retard its motion
+(D) All of the above
+Answer: Option D
+Question No. 144
+A simply supported beam (l + 2a) with equal overhangs (a) carries a uniformly distributed load
+over the whole length, the B.M. changes sign if
+(A) l > 2a
+(B) l < 2a
+(C) l = 2a
+(D) l = 4a
+Answer: Option A
+Question No. 145
+The stress in the wall of a cylinder in a direction normal to its longitudinal axis, due to a force
+acting along the circumference, is known as
+(A) Yield stress(B) Longitudinal stress
+(C) Hoop stress
+(D) Circumferential stress
+Answer: Option C
+Question No. 146
+According to principle of moments
+(A) If a system of coplanar forces is in equilibrium, then their algebraic sum is zero
+(B) If a system of coplanar forces is in equilibrium, then the algebraic sum of their moments
+about any point in their plane is zero
+(C) The algebraic sum of the moments of any two forces about any point is equal to moment of
+their resultant about the same point
+(D) Positive and negative couples can be balanced
+Answer: Option B
+Question No. 147
+The ratio of strengths of solid to hollow shafts, both having outside diameter D and hollow having
+inside diameter D/2, in torsion, is
+(A) 1/4
+(B) 1/2
+(C) 1/16
+(D) 15/15
+Answer: Option D
+Question No. 148
+Along the neutral axis of a simply supported beam
+(A) Fibres do not undergo strain
+(B) Fibres undergo minimum strain
+(C) Fibres undergo maximum strain
+(D) None of these
+Answer: Option A
+Question No. 149
+A trolley wire weighs 1.2 kg per meter length. The ends of the wire are attached to two poles 20
+meters apart. If the horizontal tension is 1500 kg find the dip in the middle of the span
+(A) 2.5 cm
+(B) 3.0 cm
+(C) 4.0 cm
+(D) 5.0 cm
+Answer: Option C
+Question No. 150
+In case of an eccentric loading on a bracket subjected to moment M, the tangential force
+developed in any rivet, at right angles to its radius vector r is
+(A) Mr/ r²(B) r²/Mr
+(C) Mr²/ r²
+(D) Mr/ r²
+Answer: Option A
+Question No. 151
+A composite member shown in below figure was formed at 25°C and was made of two
+materials a and b. If the coefficient of thermal expansion of a is more than that of b and the
+composite member is heated upto 45°C, then
+(A) a will be in tension and b in compression
+(B) Both will be in compression
+(C) Both will be in tension
+(D) a will be in compression and b in tension
+Answer: Option D
+Question No. 152
+Coulomb friction is the friction between
+(A) Bodies having relative motion
+(B) Two dry surfaces
+(C) Two lubricated surfaces
+(D) Solids and liquids
+Answer: Option A
+Question No. 153
+The ratio of the moment of inertia of a circular plate and that of a square plate for equal depth, is
+(A) Less than one
+(B) Equal to one
+(C) More than one
+(D) Equal
+Answer: Option D
+Question No. 154
+The principal stresses at a point are 100, 100 and -200 kgf/cm2, the octahedral shear stress at the
+point is:
+(A) 100 kg/cm2
+(B) 200 kg/cm2
+(C) 300 kg/cm2(D) 400 kg/cm2
+Answer: Option A
+Question No. 155
+A sample of metal weighs 219 gms in air, 180 gms in water, 120 gms in an unknown fluid. Then
+which is correct statement about density of metal
+(A) Density of metal can't be determined
+(B) Metal is twice as dense as water
+(C) Metal will float in water
+(D) Metal is twice as dense as unknown fluid
+Answer: Option A
+Question No. 156
+The energy stored in a beam of length subjected to a constant B.M. is
+(A) M²L/2EI
+(B) ML²/2EI
+(C) M²L/EI
+(D) ML²/EI
+Answer: Option A
+Question No. 157
+In a simply supported beam L with a triangular load W varying from zero at one end to the
+maximum value at the other end, the maximum bending moment is
+(A) WL/3
+(B) WL
+(C) WL/4
+(D) WL3
+Answer: Option D
+Question No. 158
+Which is the correct statement about law of polygon of forces?
+(A) If any number of forces acting at a point can be represented by the sides of a polygon taken
+in order, then the forces are in equilibrium
+(B) If any number of forces acting at a point can be represented in direction and magnitude by
+the sides of a polygon, then the forces are in equilibrium
+(C) If a polygon representing forces acting at a point is closed then forces are in equilibrium
+(D) If any number of forces acting at a point can be represented in direction and magnitude by
+the sides of a polygon taken in order, then the forces are in equilibrium
+Answer: Option D
+Question No. 159
+If a member carries a tensile force P on its area of cross-section A, the normal stress introduced on
+(A) (P/A
+(B) (P/A(C) (P/A
+(D) (P/2A
+Answer: Option B
+Question No. 160
+Failure of riveted joints is due to
+(A) Tearing of the plates between the rivet hole and the edge of the plate
+(B) Tearing of plates between rivets
+(C) Shearing of rivets
+(D) All the above
+Answer: Option D
+Question No. 161
+Two non-collinear parallel equal forces acting in opposite direction
+(A) Balance each other
+(B) Constitute a moment
+(C) Constitute a couple
+(D) Constitute a moment of couple
+Answer: Option C
+Question No. 162
+A simply supported wooden beam 150 cm long and having a cross section 16 cm × 24 cm carries a
+concentrated load, at the centre. If the permissible stress ft = 75 kg/cm2 and fs= 10 kg/cm2 the safe
+load is
+(A) 3025 kg
+(B) 3050 kg
+(C) 3075 kg
+(D) 3100 kg
+Answer: Option C
+Question No. 163
+If a steel rod of 20 mm diameter and 5 metres long elongates by 2.275 mm when subjected to an
+axial pull of 3000 kg, the stress developed, is
+(A) 9.5541 kg/cm2
+(B) 95.541 kg/cm2
+(C) 955.41 kg/cm2
+(D) 9554.1 kg/cm2
+Answer: Option C
+Question No. 164
+Least force required to draw a body up the inclined plane is W sin (plane inclination + friction
+angle) applied in the direction
+(A) Along the plane
+(B) Horizontally
+(C) Vertically(D) At an angle equal to the angle of friction to the inclined plane
+Answer: Option D
+Question No. 165
+If a constant section beam is subjected to a uniform bending moment throughout, its length bends
+to
+(A) A circular arc
+(B) A parabolic arc
+(C) A catenary
+(D) None of these
+Answer: Option A
+Question No. 166
+The width b and depth d of a beam cut from a wooden cylindrical log of 100 cm diameter for
+maximum strength are:
+(A) b = 57.73 cm d = 81.65 cm
+(B) b = 81.65 cm d = 57.73 cm
+(C) b = 50.00 cm d = 50.00 cm
+(D) b = 40.00 cm d = 80.00 cm
+Answer: Option A
+Question No. 167
+Which of the following is the locus of a point that moves in such a manner that its distance from a
+fixed point is equal to its distance from a fixed line multiplied by a constant greater than one
+(A) Ellipse
+(B) Hyperbola
+(C) Parabola
+(D) Circle
+Answer: Option B
+Question No. 168
+As compared to uniaxial tension or compression, the strain energy stored in bending is only
+(A) 1/8
+(B) 1/4
+(C) 1/3
+(D) 1/2
+Answer: Option C
+Question No. 169
+Strain energy of any member may be defined as work done on it
+(A) To deform it
+(B) To resist elongation
+(C) To resist shortening
+(D) All the above
+Answer: Option DQuestion No. 170
+Effect of a force on a body depends upon
+(A) Magnitude
+(B) Direction
+(C) Position or line of action
+(D) All of the above
+Answer: Option D
+Question No. 171
+If n is the ratio of internal and external diameters of a hollow shaft, the ratio of the weight of the
+hollow shaft and that of solid shaft of same strength, will be
+(A) (1 - n²)/(1 - n²)1/2
+(B) (1 - n²)/(1 - n4)2/3
+(C) (1 + n3)/(1 + n4)1/2
+(D) (1 + n1)/(1 + n4)2/3
+Answer: Option B
+Question No. 172
+The effect of arching a beam, is
+(A) To reduce the bending moment throughout
+(B) To increase the bending moment throughout
+(C) Nothing on the bending throughout
+(D) All the above
+Answer: Option A
+Question No. 173
+D' Alembert's principle is used for
+(A) Reducing the problem of kinetics to equivalent statics problem
+(B) Determining stresses in the truss
+(C) Stability of floating bodies
+(D) Designing safe structures
+Answer: Option A
+Question No. 174
+The range within which a load can be applied on a rectangular column, to avoid any tensile stress,
+is
+(A) One-half of the base
+(B) One-fifth of the base
+(C) One-fourth of the base
+(D) One-fifth of the base
+Answer: Option B
+Question No. 175
+For the same height, the bottom width for no tension,
+(A) For triangular section is more than rectangular section(B) For rectangular section is more than triangular section
+(C) For triangular section is same as that of a rectangular section
+(D) None of these
+Answer: Option C
+Question No. 176
+Coefficient of friction is the
+(A) Angle between normal reaction and the resultant of normal reaction and the limiting friction
+(B) Ratio of limiting friction and normal reaction
+(C) The friction force acting when the body is just about to move
+(D) The friction force acting when the body is in motion
+Answer: Option B
+Question No. 177
+An arch may be subjected to
+(A) Shear and axial force
+(B) Bending moment and shear force
+(C) Bending moment and axial force
+(D) Thrust, shear force and bending moment
+Answer: Option D
+Question No. 178
+The shape of the bending moment diagram over the length of a beam, carrying a uniformly
+increasing load, is always
+(A) Linear
+(B) Parabolic
+(C) Cubical
+(D) Circular
+Answer: Option C
+Question No. 179
+The C.G. of a right circular solid cone of height h lies at the following distance from the base
+(A) h/2
+(B) J/3
+(C) h/6
+(D) h/4
+Answer: Option D
+Question No. 180
+For a channel section, the shear centre lies at a distance of
+(A) dbt/2I
+(B) d²bt/3I
+(C) d²b²t/4I
+(D) db²t/5I
+Answer: Option CQuestion No. 181
+For the beam shown in below figure, the maximum positive bending moment is nearly equal to
+negative bending moment when L1 is equal to
+(A) 1.0 L
+(B) 0.7 L
+(C) 0.5 L
+(D) 0.35 L
+Answer: Option D
+Question No. 182
+A force is completely defined when we specify
+(A) Magnitude
+(B) Direction
+(C) Point of application
+(D) All of the above
+Answer: Option D
+Question No. 183
+In a three hinged arch, the third hinge is generally kept at
+(A) Crown of the arch
+(B) Midpoint of the crown and left support hinge
+(C) Midpoint of the crown and right support hinge
+(D) None of these
+Answer: Option A
+Question No. 184
+The stiffness factor for a prismatic beam of length L and moment of inertia I, is
+(A) IE/L
+(B) 2EI/L
+(C) 3EI/L
+(D) 4EI/L
+Answer: Option A
+Question No. 185
+Center of percussion is
+(A) The point of C.G.
+(B) The point of metacentre(C) The point of application of the resultant of all the forces tending to cause a body to rotate
+about a certain axis
+(D) Point of suspension
+Answer: Option C
+Question No. 186
+The weakest section of a diamond riveting, is the section which passes through
+(A) First row
+(B) Second row
+(C) Central row
+(D) One rivet hole of end row
+Answer: Option A
+Question No. 187
+If a solid shaft is subjected to a torque at its end such that maximum shear stress does not
+exceed fs the diameter of the shaft will be
+(A) 16T/ fs
+(B) T/ fs)
+(C) (16T/ fs)
+(D) None of these
+Answer: Option C
+Question No. 188
+Pick up wrong statement about friction force for dry surfaces. Friction force is
+(A) Proportional to normal load between the surfaces
+(B) Dependent on the materials of contact surface
+(C) Proportional to velocity of sliding
+(D) Independent of the area of contact surfaces
+Answer: Option C
+Question No. 189
+The shape of the bending moment diagram over the length of a beam, carrying a uniformly
+distributed load is always
+(A) Linear
+(B) Parabolic
+(C) Cubical
+(D) Circular
+Answer: Option B
+Question No. 190
+The maximum load to which a fillet joint of length can be subjected to, is
+(A) 0.7 × S × fillet size × L
+(B) 2 × S × fillet size × L
+(C) Permissible shear stress × fillet size × L
+(D) (S × fillet size × L)/3Answer: Option A
+Question No. 191
+Which of the following is not the unit of energy?
+(A) kg m
+(B) kcal
+(C) watt
+(D) watt hours
+Answer: Option C
+Question No. 192
+In a beam, the neutral plane
+(A) May be its centre
+(B) Passes through the C.G. of the area of cross-section
+(C) Does not change during deformation
+(D) None of these
+Answer: Option C
+Question No. 193
+The moment diagram for a cantilever whose free end is subjected to a bending moment, will be a
+(A) Triangle
+(B) Rectangle
+(C) Parabola
+(D) Cubic parabola
+Answer: Option B
+Question No. 194
+The algebraic sum of the resolved parts of a number of forces in a given direction is equal to the
+resolved part of their resultant in the same direction. This is as per the principle of
+(A) Forces
+(B) Independence of forces
+(C) Dependence of forces
+(D) Resolution of forces
+Answer: Option D
+Question No. 195
+The law which states, "Within elastic limits strain produced is proportional to the stress producing
+it", is known as
+(A) Bernoulli's law
+(B) Stress law
+(C) Hooke's law
+(D) Poisson's law
+Answer: Option CQuestion No. 196
+For a beam of uniform strength keeping its depth constant, the width will vary in proportion to
+(A) Bending moment (M)
+(B)
+(C) M2
+(D) None of these
+Answer: Option A
+Question No. 197
+The product of either force of couple with the arm of the couple is called
+(A) Resultant couple
+(B) Moment of the forces
+(C) Resulting couple
+(D) Moment of the couple
+Answer: Option D
+Question No. 198
+While testing a cast iron beam (2.5 cm × 2.5 cm) in section and a metre long simply supported at
+the ends failed when a 100 kg weight is applied at the centre. The maximum stress induced is:
+(A) 960 kg/cm2
+(B) 980 kg/cm2
+(C) 1000 kg/cm2
+(D) 1200 kg/cm2
+Answer: Option A
+Question No. 199
+Simple bending equation is
+(A) M/I = R/E = F/Y
+(B) I/M = E/R = Y/F
+(C) M/I = E/R = F/Y
+(D) M/I = R/E = Y/F
+Answer: Option C
+Question No. 200
+The algebraic sum of moments of the forces forming couple about any point in their plane is
+(A) Equal to the moment of the couple
+(B) Constant
+(C) Both of above are correct
+(D) Both of above are wrong
+Answer: Option A
+Question No. 201
+and are numbers of members and joints in a frame. It contains redundant members if
+(A) n = 2j - 3
+(B) n = 3j - 2(C) n < 2j - 3
+(D) n > 2j - 3
+Answer: Option D
+Question No. 202
+The equivalent length of a column fixed at both ends, is
+(A) 0.5 l
+(B) 0.7 l
+(C) l
+(D) 1.5 l
+Answer: Option A
+Question No. 203
+Which of the following is not the unit of power?
+(A) kW (kilowatt)
+(B) hp (horse power)
+(C) kcal/sec
+(D) kcal/kg sec
+Answer: Option D
+Question No. 204
+The ratio of elongations of a conical bar due to its own weight and that of a prismatic bar of the
+same length, is
+(A) 1/2
+(B) 1/3
+(C) 1/4
+(D) 1/5
+Answer: Option B
+Question No. 205
+The force in the member DE of the truss shown in below figure will be
+(A) Zero
+(B) 2 W tensile
+(C) 2 W compressive
+(D) 4 W compressive
+Answer: Option CQuestion No. 206
+The possible loading in various members of framed structures are
+(A) Compression or tension
+(B) Buckling or shear
+(C) Shear or tension
+(D) All of the above
+Answer: Option A
+Question No. 207
+A simply supported beam of span L carries a concentrated load W at its mid-span. The maximum
+bending moment M is
+(A) WL/2
+(B) WL/4
+(C) WL/8
+(D) WL/12
+Answer: Option B
+Question No. 208
+The following assumption is not true in the theory of pure torsion:
+(A) The twist along the shaft is uniform
+(B) The shaft is of uniform circular section throughout
+(C) Cross-section of the shaft, which is plane before twist remains plane after twist
+(D) All radii get twisted due to torsion
+Answer: Option D
+Question No. 209
+If three forces acting in different planes can be represented by a triangle, these will be in
+(A) Non-equilibrium
+(B) Partial equilibrium
+(C) Full equilibrium
+(D) None of the above
+Answer: Option A
+Question No. 210
+A simply supported beam carrying a uniformly distributed load over its whole span, is propped at
+the centre of the span so that the beam is held to the level of the end supports. The reaction of
+the prop will be
+(A) Half the distributed load
+(B) 3/8th the distributed load
+(C) 5/8th the distributed load
+(D) Distributed load
+Answer: Option CQuestion No. 211
+Shear force for a cantilever carrying a uniformly distributed load over its length, is
+(A) Triangle
+(B) Rectangle
+(C) Parabola
+(D) Cubic parabola
+Answer: Option B
+Question No. 212
+The weight of a body is due to
+(A) Centripetal force of earth
+(B) Gravitational pull exerted by the earth
+(C) Forces experienced by body in atmosphere
+(D) Gravitational force of attraction towards the centre of the earth
+Answer: Option D
+Question No. 213
+For structural analysis of forces, the method refers to
+(A) Moment-area-theorem
+(B) Three-moment equation
+(C) Maxwell's reciprocal theorem
+(D) None of these
+Answer: Option A
+Question No. 214
+The section modulus of a rectangular section is proportional to
+(A) Area of the section
+(B) Square of the area of the section
+(C) Product of the area and depth
+(D) Product of the area and width
+Answer: Option A
+Question No. 215
+Pick up the incorrect statement from the following:
+(A) The C.G. of a circle is at its center
+(B) The C.G. of a triangle is at the intersection of its medians
+(C) The C.G. of a rectangle is at the intersection of its diagonals
+(D) The C.G. of a semicircle is at a distance of r/2 from the center
+Answer: Option D
+Question No. 216
+According to Unwin's formula, the diameter of a rivet of plate of thickness is :
+(A) d = 6.05 t
+(B) d = 1.5 t + 4
+(C) d = t(D) d = t + 1.5
+Answer: Option A
+Question No. 217
+For a beam having fixed ends, the unknown element of the reactions, is
+(A) Horizontal components at either end
+(B) Vertical components at either end
+(C) Horizontal component at one end and vertical component at the other
+(D) Horizontal and vertical components at both the ends
+Answer: Option D
+Question No. 218
+If a rigid body is in equilibrium under the action of three forces, then
+(A) These forces are equal
+(B) The lines of action of these forces meet in a point
+(C) The lines of action of these forces are parallel
+(D) Both (B) and (C) above
+Answer: Option D
+Question No. 219
+The materials which have the same elastic properties in all directions, are called
+(A) Isotropic
+(B) Brittle
+(C) Homogeneous
+(D) Hard
+Answer: Option A
+Question No. 220
+A solid circular shaft of diameter d is subjected to a torque T. The maximum normal stress induced
+in the shaft, is
+(A) Zero
+(B) 16T/ 3
+(C) 32T/ 3
+(D) None of these
+Answer: Option B
+Question No. 221
+Frictional force encountered after commencement of motion is called
+(A) Post friction
+(B) Limiting friction
+(C) Kinematic friction
+(D) Dynamic friction
+Answer: Option DQuestion No. 222
+A three-hinged arch is said to be:
+(A) Statically determinate structure
+(B) Statically indeterminate structure
+(C) A bent beam
+(D) None of these
+Answer: Option A
+Question No. 223
+The areas of cross-section of a square beam and a circular beam subjected to equal bending
+moments, are same.
+(A) Circular beam is more economical
+(B) Square beam is more economical
+(C) Both the beams are equally strong
+(D) Both the beams are equally economical
+Answer: Option B
+Question No. 224
+A single force and a couple acting in the same plane upon a rigid body
+(A) Balance each other
+(B) Cannot balance each other
+(C) Produce moment of a couple
+(D) Are equivalent
+Answer: Option B
+Question No. 225
+If the shear force along a section of a beam is zero, the bending moment at the section is
+(A) Zero
+(B) Maximum
+(C) Minimum
+(D) Average of maximum-minimum
+Answer: Option B
+Question No. 226
+The moment diagram for a cantilever carrying a concentrated load at its free end, will be
+(A) Triangle
+(B) Rectangle
+(C) Parabola
+(D) Cubic parabola
+Answer: Option A
+Question No. 227
+The forces, which meet at one point, but their lines of action do not lie in a plane, are called
+(A) Coplanar non-concurrent forces
+(B) Non-coplanar concurrent forces(C) Non-coplanar non-concurrent forces
+(D) Intersecting forces
+Answer: Option B
+Question No. 228
+The shear stress at any section of a shaft is maximum
+(A) At the centre of the section
+(B) At a distance r/2 from the centre
+(C) At the top of the surface
+(D) At a distance 3/4 r from the centre
+Answer: Option C
+Question No. 229
+If the width b and depth d of a beam simply supported with a central load are interchanged, the
+deflection at the centre of the beam will be changed in the ratio of
+(A) b/d
+(B) d/b
+(C) (d/b)2
+(D) (b/d)2
+Answer: Option D
+Question No. 230
+The centre of percussion of a solid cylinder of radius r resting on a horizontal plane will be
+(A) r/2
+(B) 2r/3
+(C) r/A
+(D) 3r/2
+Answer: Option D
+Question No. 231
+A three hinged parabolic arch hinged at the crown and springing, has a horizontal span of 4.8 m
+and a central rise of 1 m. It carries a uniformly distributed load of 0.75 tonne per metre over half
+left hand span. The horizontal thrust at the support will be
+(A) 10.8 tonnes
+(B) 1.08 tonnes
+(C) 1.8 tonnes
+(D) 0.8 tonnes
+Answer: Option B
+Question No. 232
+A member which is subjected to reversible tensile or compressive stress may fail at a stress lower
+than the ultimate stress of the material. This property of metal, is called
+(A) Plasticity of the metal
+(B) Elasticity of the metal
+(C) Fatigue of the metal(D) Workability of the metal
+Answer: Option C
+Question No. 233
+A body moves, from rest with a constant acceleration of 5 m per sec. The distance covered in 5 sec
+is most nearly
+(A) 38 m
+(B) 62.5 m
+(C) 96 m
+(D) 124 m
+Answer: Option B
+Question No. 234
+Stress in a beam due to simple bending, is
+(A) Directly proportional
+(B) Inversely proportional
+(C) Curvilinearly related
+(D) None of these
+Answer: Option A
+Question No. 235
+The ratio of the tensile stress developed in the wall of a boiler in the circumferential direction to
+the tensile stress in the axial direction, is
+(A) 4
+(B) 3
+(C) 2
+(D) 1
+Answer: Option C
+Question No. 236
+According to law of triangle of forces
+(A) Three forces acting at a point will be in equilibrium
+(B) Three forces acting at a point can be represented by a triangle, each side being proportional
+to force
+(C) If three forces acting upon a particle are represented in magnitude and direction by the
+sides of a triangle, taken in order, they will be in equilibrium
+(D) If three forces acting at a point are in equilibrium, each force is proportional to the sine of
+the angle between the other two
+Answer: Option C
+Question No. 237
+The deflection due to couple M at the free end of a cantilever length L is
+(A) ML/EI
+(B) 2ML/EI
+(C) ML²/2EI(D) M²L/2EI
+Answer: Option C
+Question No. 238
+The bending moment is maximum on a section where shearing force
+(A) Is maximum
+(B) Is minimum
+(C) Is equal
+(D) Changes sign
+Answer: Option D
+Question No. 239
+Which one of the following statements is not correct?
+(A) The tangent of the angle of friction is equal to coefficient of friction
+(B) The angle of repose is equal to angle of friction
+(C) The tangent of the angle of repose is equal to coefficient of friction
+(D) The sine of the angle of repose is equal to coefficient to friction
+Answer: Option D
+Question No. 240
+For a simply supported beam with a central load, the bending moment is
+(A) Least at the centre
+(B) Least at the supports
+(C) Maximum at the supports
+(D) Maximum at the centre
+Answer: Option D
+Question No. 241
+A member is balanced at its end by two inclined members carrying equal forces. For equilibrium
+the angle between the inclined bars must be
+(A) 3°
+(B) 45°
+(C) 90°
+(D) 120°
+Answer: Option D
+Question No. 242
+When trying to turn a key into a lock, following is applied
+(A) Coplanar force
+(B) Non-coplanar forces
+(C) Couple
+(D) Moment
+Answer: Option CQuestion No. 243
+A reinforced concrete beam is assumed to be made of
+(A) Homogeneous material
+(B) Heterogeneous material
+(C) Isotropic material
+(D) None of these
+Answer: Option B
+Question No. 244
+For a stable frame structure, number of members required, is
+(A) Three times the number of joints minus three
+(B) Twice the number of joints minus three
+(C) Twice the number of joints minus two
+(D) Twice the number of joints minus one
+Answer: Option B
+Question No. 245
+The units of moment of inertia of mass are
+(A) kg m²
+(B) m4
+(C) kg/m²
+(D) kg/m
+Answer: Option A
+Question No. 246
+The reaction at the supports will be vertical to the plane of the support if the frame structure rests
+on
+(A) Roller supports
+(B) Free supports
+(C) Hinged supports
+(D) All the above
+Answer: Option D
+Question No. 247
+If the stress produced by a prismatic bar is equal to the working stress, the area of the crosssection of the prismatic bar, becomes
+(A) Zero
+(B) Infinite
+(C) Maximum
+(D) Minimum
+Answer: Option B
+Question No. 248
+(A) L/2(B) L/3
+(C) 3L/4
+(D) 2L/3
+Answer: Option D
+Question No. 249
+A beam of length L is pinned at both ends and is subjected to a concentrated bending couple of
+moment M at its centre. The maximum bending moment in the beam is
+(A) M
+(B) M/2
+(C) M/3
+(D) ML/2
+Answer: Option A
+Question No. 250
+If b is the width of a plate joined by diamond riveting of diameter d, the efficiency of the joint is
+given by
+(A) (b + d)/b
+(B) (b - d)/b
+(C) (d - b)/d
+(D) (b - d)/d
+Answer: Option B
+Question No. 251
+A projectile is fired at an angle to the vertical. Its horizontal range will be maximum when is
+(A) 0°
+(B) 30°
+(C) 45°
+(D) 60°
+Answer: Option C
+Question No. 252
+For a simply supported beam of length , the bending moment is described as M = a (x- x3/L2),
+x < L; where is a constant. The shear force will be zero at
+(A) The supports
+(B) x = L/2
+(C) x = L
+(D) x = L/3
+Answer: Option C
+Question No. 253
+A column is said to be of medium size if its slenderness ratio is between
+(A) 20 and 32
+(B) 32 and 120
+(C) 120 and 160(D) 160 and 180
+Answer: Option B
+Question No. 254
+The length of a column, having a uniform circular cross-section of 7.5 cm diameter and whose ends
+are hinged, is 5 m. If the value of E for the material is 2100 tonnes/cm2, the permissible maximum
+crippling load will be
+(A) 1.288 tonnes
+(B) 12.88
+(C) 128.8 tonnes
+(D) 288.0
+Answer: Option B
+Question No. 255
+The moment diagram for a cantilever which is subjected to a uniformly distributed load will be a
+(A) Triangle
+(B) Rectangle
+(C) Parabola
+(D) Cubic parabola
+Answer: Option C
+Question No. 256
+If the normal cross-section of a member is subjected to tensile force , the resulting normal
+(A) (P/A
+(B) (P/A
+(C) (P/2A
+(D) (P/2A
+Answer: Option B
+Question No. 257
+In a shaft rotated by a couple, the shear force varies
+(A) From zero at the centre to a maximum at the circumference
+(B) From minimum at the centre of maximum at the circumference
+(C) From maximum at the centre to zero at the circumference
+(D) Equally throughout the section
+Answer: Option A
+Question No. 258
+The shape of the bending moment diagram over the length of a beam, having no external load, is
+always
+(A) Linear
+(B) Parabolic
+(C) Cubical
+(D) CircularAnswer: Option A
+Question No. 259
+The stress at which extension of a material takes place more quickly as compared to the increase
+in load, is called
+(A) Elastic point
+(B) Plastic point
+(C) Breaking point
+(D) Yielding point
+Answer: Option D
+Question No. 260
+A shaft turning 150 r.p.m. is subjected to a torque of 150 kgm. Horse power transmitted by the
+shaft is
+(A)
+(B) 10
+(C) ²
+(D) 1/
+Answer: Option B
+Question No. 261
+In a simply supported beam (l + 2a) with equal overhangs (a) and carrying a uniformly distributed
+load over its entire length, B.M. at the middle point of the beam will be zero if
+(A) l = 2a
+(B) l = 4a
+(C) l < 2a
+(D) l > a
+Answer: Option A
+Question No. 262
+A simply supported beam of span carries a uniformly distributed load . The maximum
+bending moment is
+(A) WL/2
+(B) WL/4
+(C) WL/8
+(D) WL/12
+Answer: Option C
+Question No. 263
+A member which does not regain its original shape after removed of load producing deformation
+is said
+(A) Plastic
+(B) Elastic
+(C) Rigid
+(D) None of theseAnswer: Option A
+Question No. 264
+A solid cube is subjected to equal normal forces on all its faces. The volumetric strain will be xtimes the linear strain in any of the three axes when
+(A) x = 1
+(B) x = 2
+(C) x = 3
+(D) x = 4
+Answer: Option C
+Question No. 265
+A three hinged arch is loaded with an isolated load 1000 kg at a horizontal distance of 2.5 m from
+the crown, 1 m above the level of hinges at the supports 10 metres apart. The horizontal thrust is
+(A) 1250 kg
+(B) 125 kg
+(C) 750 kg
+(D) 2500 kg
+Answer: Option A
+Question No. 266
+A uniform girder simply supported at its ends is subjected to a uniformly distributed load over its
+entire length and is propped at the centre so as to neutralise the deflection. The net B.M. at the
+centre will be
+(A) WL
+(B) WL/8
+(C) WL/24
+(D) WL/32
+Answer: Option D
+Question No. 267
+When a rectangular beam is loaded transversely, the maximum compressive stress develops on
+(A) Bottom fibre
+(B) Top fibre
+(C) Neutral axis
+(D) Every cross-section
+Answer: Option B
+Question No. 268
+In a tension test, the yield stress is 300 kg/cm2, in the octahedral shear stress at the point is:
+(A) 100 kg/cm2
+(B) 150 kg/cm2
+(C) 200 kg/cm
+(D) 250 kg/cm2
+Answer: Option AQuestion No. 269
+Columns of given length, cross-section and material have different values of buckling loads for
+different end conditions. The strongest column is one whose
+(A) One end is fixed and other end is hinged
+(B) Both ends are hinged or pin jointed
+(C) One end is fixed and the other end entirely free
+(D) Both the ends are fixed
+Answer: Option D
+Question No. 270
+A cantilever carrying a uniformly distributed load W over its full length is propped at its free end
+such that it is at the level of the fixed end. The bending moment will be zero at its free end also at
+(A) Midpoint of the cantilever
+(B) Fixed point of the cantilever
+(C) 1/4th length from free end
+(D) 3/4th length from free end
+Answer: Option D
+Question No. 271
+If the depth of a simply supported beam carrying an isolated load at its centre, is doubled, the
+deflection of the beam at the centre will be changed by a factor of
+(A) 2
+(B) 1/2
+(C) 8
+(D) 1/8
+Answer: Option D
+Question No. 272
+The minimum number of rivets for the connection of a gusset plate, is
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+Answer: Option B
+Question No. 273
+The cross sections of the beams of equal length are a circle and a square whose permissible
+bending stress is same under same maximum bending. The ratio of their flexural weights is,
+(A) 1.118
+(B) 1.338
+(C) 1.228
+(D) 1.108
+Answer: Option AQuestion No. 274
+Pick up the correct statement from the following:
+(A) A ductile material has large plastic zone
+(B) A brittle material has no plastic zone
+(C) A rigid material has no plastic zone
+(D) All the above
+Answer: Option D
+Question No. 275
+The section modulus of a rectangular light beam 25 metres long is 12.500 cm3. The beam is simply
+supported at its ends and carries a longitudinal axial tensile load of 10 tonnes in addition to a
+point load of 4 tonnes at the centre. The maximum stress in the bottom most fibre at the mid span
+section, is
+(A) 13.33 kg/cm2 tensile
+(B) 13.33 kg/cm2 compressive
+(C) 26.67 kg/cm2 tensile
+(D) 26.67 kg/cm2 compressive
+Answer: Option C
+Question No. 276
+Stress in members of statically determinate simple frames, can be determined by
+(A) Method of joints
+(B) Method of sections
+(C) Graphical solution
+(D) All the above
+Answer: Option D
+Question No. 277
+The point of contraflexure occurs in
+(A) Cantilever beams only
+(B) Continuous beams only
+(C) Over hanging beams only
+(D) All types of beams
+Answer: Option C
+Question No. 278
+A rectangular beam 20 cm wide is subjected to a maximum shearing force of 10,000 kg, the
+corresponding maximum shearing stress being 30 kg/cm2. The depth of the beam is
+(A) 15 cm
+(B) 20 cm
+(C) 25 cm
+(D) 30 cm
+Answer: Option CQuestion No. 279
+If a member is subjected to a tensile force P, having its normal cross-section A, the resulting shear
+(A) (P/A
+(B) (P/2A
+(C) (P/2A
+(D) (P/A
+Answer: Option B
+Question No. 280
+If a shaft is simultaneously subjected to a toque T and a bending moment M, the ratio of
+maximum bending stress and maximum shearing stress is
+(A) M/T
+(B) T/M
+(C) 2M/T
+(D) 2T/M
+Answer: Option C
+Question No. 281
+The ratio of the effective length of a column and minimum radius of gyration of its cross-sectional
+area, is known
+(A) Buckling factor
+(B) Slenderness ratio
+(C) Crippling factor
+(D) None of these
+Answer: Option B
+Question No. 282
+The region of the cross-section of a column in which compressive load may be applied without
+producing any tensile stress, is known as the core of the cross-section. In circular columns the
+radius of the core, is
+(A) One-half of the radius
+(B) One-third of the radius
+(C) One-quarter of the radius
+(D) One-fifth of the radius
+Answer: Option C
+Question No. 283
+If the width of a simply supported beam carrying an isolated load at its centre is doubled, the
+deflection of the beam at the centre is changed by
+(A) 2 times
+(B) 4 times
+(C) 8 times
+(D) 1/2 times
+Answer: Option CQuestion No. 284
+A cylinder is said to be thin if the ratio of its thickness and diameter, is less than
+(A) 1/25
+(B) 1/20
+(C) 1/15
+(D) 1/10
+Answer: Option D
+Question No. 285
+As the elastic limit reaches, tensile strain
+(A) Increases more rapidly
+(B) Decreases more rapidly
+(C) Increases in proportion to the stress
+(D) Decreases in proportion to the stress
+Answer: Option A
+Question No. 286
+For a given material Young's modulus is 200 GN/m2 and modulus of rigidity is 80 GN/m2. The value
+of Poisson's ratio is
+(A) 0.15
+(B) 0.20
+(C) 0.25
+(D) 0.30
+Answer: Option C
+Question No. 287
+The rise of a parabolic arch at quarter points, is equal to
+(A) 1/3 times the rise of the crown
+(B) 1/4 times the rise of the crown
+(C) 1/2 times the rise of the crown
+(D) 3/4 times the rise of the crown
+Answer: Option D
+Question No. 288
+The number of points of contraflexure in a simple supported beam carrying uniformly distributed
+load, is
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+Answer: Option A
+Question No. 289
+When two plates butt together and are riveted with two cover plates with two rows of rivets, the
+joint is known as(A) Lap joint
+(B) Butt joint
+(C) Single riveted single cover butt joint
+(D) Double riveted double cover butt joint
+Answer: Option D
+Question No. 290
+If the width of a simply supported beam carrying an isolated load at its centre is doubled, the
+deflection of the beam at the centre is changed by
+(A) 1/2
+(B) 1/8
+(C) 2
+(D) 8
+Answer: Option A
+Question No. 291
+The moment diagram for a cantilever carrying linearly varying load from zero at its free end and to
+maximum at the fixed end will be a
+(A) Triangle
+(B) Rectangle
+(C) Parabola
+(D) Cubic parabola
+Answer: Option D
+Question No. 292
+When a rectangular beam is loaded longitudinally, shear develops on
+(A) Bottom fibre
+(B) Top fibre
+(C) Middle fibre
+(D) Every-horizontal plane
+Answer: Option D
+Question No. 293
+For a simply supported beam carrying uniformly distributed load W on it entire length L, the
+maximum bending moment is
+(A) WL/4
+(B) WL/8
+(C) WL/2
+(D) WL/3
+Answer: Option B
+Question No. 294
+Along the principal plan subjected to maximum principal stress
+(A) Maximum shear stress acts
+(B) Minimum shear stress acts(C) No shear stress acts
+(D) None of these
+Answer: Option C
+Question No. 295
+The width of a beam of uniform strength having a constant depth d length L, simply supported at
+the ends with a central load W is
+(A) 2WL/3fd²
+(B) 3WL/2fd²
+(C) 2fL/3Wd4
+(D) 3fL²/2Wd
+Answer: Option B
+Question No. 296
+The distance between the centres of adjacent rivets in the same row, is called
+(A) Pitch
+(B) Lap
+(C) Gauge
+(D) Staggered pitch
+Answer: Option A
+Question No. 297
+Hooke's law states that stress and strain are
+(A) Directly proportional
+(B) Inversely proportional
+(C) Curvilinearly related
+(D) None of these
+Answer: Option A
+Question No. 298
+For a beam, if fundamental equations of statics are not sufficient to determine all the reactive
+forces at the supports, the structure is said to be
+(A) Determinate
+(B) Statically determinate
+(C) Statically indeterminate
+(D) None of these
+Answer: Option C
+Question No. 299
+The tension coefficient of any member is
+(A) Force divided by the length
+(B) Tension divided by the length
+(C) Tension per unit area
+(D) Tension in the member
+Answer: Option BQuestion No. 300
+Rankine-Golden formula accounts for direct as well as buckling stress and is applicable to
+(A) Very long columns
+(B) Long columns
+(C) Short columns
+(D) Intermediate columns
+Answer: Option D
+Question No. 301
+The neutral axis of a beam cross-section must
+(A) Pass through the centroid of the section
+(B) Be equidistant from the top of bottom films
+(C) Be an axis of symmetry of the section
+(D) None of these
+Answer: Option A
+Question No. 302
+In a continuous bending moment curve the point where it changes sign, is called
+(A) Point of inflexion
+(B) Point of contraflexure
+(C) Point of virtual hinge
+(D) All the above
+Answer: Option D
+Question No. 303
+The equivalent length of a column fixed at one end and free at the other end, is
+(A) 0.5 l
+(B) 0.7 l
+(C) 2 l
+(D) 1.5 l
+Answer: Option C
+Question No. 304
+For a given material, if E, C, K and m are Young's modulus, shearing modulus, bulk modulus and
+Poisson ratio, the following relation does not hold good
+(A) E = 9KC/3K + C
+(B) E = 2K (1 + 2/m)
+(C) E = 2C (1 + 1/m)
+(D) E = 3C (1 - 1/m)
+Answer: Option C
+Question No. 305
+A short masonry pillar is 60 cm x 60 cm in cross-section, the core of the pillar is a square whose
+side is
+(A) 17.32 cm(B) 14.14 cm
+(C) 20.00 cm
+(D) 22.36 cm
+Answer: Option B
+Question No. 306
+The ratio of the maximum deflection of a cantilever beam with an isolated load at its free end and
+with a uniformly distributed load over its entire length, is
+(A) 1
+(B) 24/15
+(C) 3/8
+(D) 8/3
+Answer: Option D
+Question No. 307
+The slenderness ratio of a vertical column of square cross- section of 10 cm side and 500 cm long,
+is
+(A) 117.2
+(B) 17.3
+(C) 173.2
+(D) 137.2
+Answer: Option C
+Question No. 308
+A steel rod of 2 cm diameter and 5 metres long is subjected to an axial pull of 3000 kg. If E = 2.1 ×
+106, the elongation of the rod will be
+(A) 2.275 mm
+(B) 0.2275 mm
+(C) 0.02275 mm
+(D) 2.02275 mm
+Answer: Option B
+Question No. 309
+A rectangular log of wood is floating in water with a load of 100 N at its centre. The maximum
+shear force in the wooden log is
+(A) 50 N at each end
+(B) 50 N at the centre
+(C) 100 N at the centre
+(D) None of these
+Answer: Option C
+Question No. 310
+The maximum compressive stress at the top of a beam is 1600 kg/cm2 and the corresponding
+tensile stress at its bottom is 400 kg/cm2. If the depth of the beam is 10 cm, the neutral axis from
+the top, is(A) 2 cm
+(B) 4 cm
+(C) 6 cm
+(D) 8 cm
+Answer: Option D
+Question No. 311
+At either end of a plane frame, maximum number of possible transverse shear forces, are
+(A) One
+(B) Two
+(C) Three
+(D) Four
+Answer: Option A
+Question No. 312
+In a square beam loaded longitudinally, shear develops
+(A) On middle fibre along horizontal plane
+(B) On lower fibre along horizontal plane
+(C) On top fibre along vertical plane
+(D) Equally on each fibre along horizontal plane
+Answer: Option D
+Question No. 313
+Reactions at the supports of a structure can be determined by equating the algebraic sum of
+(A) Horizontal forces to zero
+(B) Vertical forces to zero
+(C) Moment about any point to zero
+(D) All the above
+Answer: Option D
+Question No. 314
+The phenomenon of slow growth of strain under a steady tensile stress, is called
+(A) Yielding
+(B) Creeping
+(C) Breaking
+(D) None of these
+Answer: Option B
+Question No. 315
+If the stress in each cross-section of a pillar is equal to its working stress, it is called
+(A) Body of equal
+(B) Body of equal section
+(C) Body of equal strength
+(D) None of these
+Answer: Option CQuestion No. 316
+Maximum deflection of a cantilever due to pure bending moment M at its free end, is
+(A) ML²/3EI
+(B) ML²/4EI
+(C) ML²/6EI
+(D) ML²/2EI
+Answer: Option D
+Question No. 317
+The maximum deflection of a simply supported beam of length L with a central load W, is
+(A) WL²/48EI
+(B) W²L/24EI
+(C) WL3/48EI
+(D) WL²/8EI
+Answer: Option C
+Question No. 318
+An open-ended cylinder of radius and thickness is subjected to internal pressure . The
+Young's modulus for the material is and Poisson's ratio is . The longitudinal strain is
+(A) Zero
+(B) pr/TE
+(C) pr/2TE
+(D) None of these
+Answer: Option A
+Question No. 319
+Euler's formula states that the buckling load for a column of length , both ends hinged and
+whose least moment of inertia and modulus of elasticity of the material of the column
+are and respectively, is given by the relation
+(A) P = ²EI/l²
+(B) P = /EI
+(C) P = /l²
+(D) P = ²EI/l3
+Answer: Option A
+Question No. 320
+In a three hinged arch, the bending moment will be zero
+(A) At right hinge only
+(B) At left hinge only
+(C) At both right and left hinges
+(D) At all the three hinges
+Answer: Option DQuestion No. 321
+A simply supported beam carries two equal concentrated loads W at distances L/3 from either
+support. The maximum bending moment
+(A) WL/3
+(B) WL/4
+(C) 5WL/4
+(D) 3WL/12
+Answer: Option A
+Question No. 322
+If the beam is supported so that there are only three unknown reactive elements at the supports.
+These can be determined by using the following fundamental equation of statics
+(A) H = 0
+(B) V = 0
+(C) H H = 0
+(D) H V M = 0
+Answer: Option D
+Question No. 323
+For a cantilever with a uniformly distributed load W over its entire length L, the maximum bending
+moment is
+(A) WL
+(B) ½ WL
+(C) WL
+(D) ½ WL2
+Answer: Option B
+Question No. 324
+To ascertain the maximum permissible eccentricity of loads on circular columns, the rule generally
+followed, is
+(A) Middle half rule of columns
+(B) Middle third rule of columns
+(C) Middle fourth rule of columns
+(D) None of these
+Answer: Option C
+Question No. 325
+A shaft 9 m long is subjected to a torque 30 t-m at a point 3 m distant from either end. The
+reactive torque at the nearer end will be
+(A) 5 tonnes metre
+(B) 10 tonnes metre
+(C) 15 tonnes metre
+(D) 20 tonnes metre
+Answer: Option DQuestion No. 326
+Every material obeys the Hooke's law within its
+(A) Elastic limit
+(B) Plastic point
+(C) Limit of proportionality
+(D) None of these
+Answer: Option C
+Question No. 327
+If the length of a cantilever carrying an isolated load at its free end is doubled, the deflection of
+the free end will increase by
+(A) 8
+(B) 1/8
+(C) 1/3
+(D) 2
+Answer: Option B
+Question No. 328
+If is the internal pressure in a thin cylinder of diameter and thickness , the developed hoop
+stress, is
+(A) pd/2t
+(B) pd/4t
+(C) pd/t
+(D) 2pd/t
+Answer: Option A

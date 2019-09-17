@@ -1,0 +1,2592 @@
+Highway Engineering
+Question No. 01
+Group index method of design of flexible pavement is
+(A) A theoretical method
+(B) An empirical method based on physical properties of sub-grade soil
+(C) An empirical method based on strength characteristics of sub-grade soil
+(D) A semi empirical method
+Answer: Option B
+Question No. 02
+Which of the following is considered to be the highest quality construction in the group of black
+top pavements?
+(A) Mastic asphalt
+(B) Sheet asphalt
+(C) Bituminous carpet
+(D) Bituminous concrete
+Answer: Option D
+Question No. 03
+Los Angeles testing machine is used to conduct
+(A) Abrasion test
+(B) Impact test
+(C) Attrition test
+(D) Crushing strength test
+Answer: Option A
+Question No. 04
+When the width of car parking space and width of street are limited, generally preferred parking
+system is
+(A) Parallel parking
+(B) 45° angle parking
+(C) 65° angle parking
+(D) 90° angle parking
+Answer: Option A
+Question No. 05
+When the bituminous surfacing is done on already existing black top road or over existing cement
+concrete road, the type of treatment given is
+(A) Seal coat
+(B) Tack coat
+(C) Prime coat
+(D) Spray of emulsionAnswer: Option B
+Question No. 06
+In the penetration macadam construction, the bitumen is
+(A) Sprayed after the aggregates are spread and compacted
+(B) Premixed with aggregates and then spread
+(C) Sprayed before the aggregates are spread and compacted
+(D) None of the above
+Answer: Option A
+Question No. 07
+The drain which is provided parallel to roadway to intercept and divert the water from hill slopes
+is known as
+(A) Sloping drain
+(B) Catch-water drain
+(C) Side drain
+(D) Cross drain
+Answer: Option B
+Question No. 08
+The function of an expansion joint in rigid pavements is to
+(A) Relieve warping stresses
+(B) Relieve shrinkage stresses
+(C) Resist stresses due to expansion
+(D) Allow free expansion
+Answer: Option D
+Question No. 09
+Select the correct statement.
+(A) More the value of group index, less thickness of pavement will be required
+(B) More the value of CBR, greater thickness of pavement will be required
+(C) Minimum and maximum values of group index can be 0 and 20 respectively
+(D) All of the above
+Answer: Option C
+Question No. 10
+Penetration test on bitumen is used for determining its
+(A) Grade
+(B) Viscosity
+(C) Ductility
+(D) Temperature susceptibility
+Answer: Option A
+Question No. 11
+In soils having same values of plasticity index, if liquid limit is increased, then(A) Compressibility and permeability decrease and dry strength increases
+(B) Compressibility, permeability and dry strength decrease
+(C) Compressibility, permeability and dry strength increase
+(D) Compressibility and permeability increase and dry strength decreases
+Answer: Option D
+Question No. 12
+The maximum limit of water absorption for aggregate suitable for road construction is
+(A) 0.4 %
+(B) 0.6 %
+(C) 0.8 %
+(D) 1.0 %
+Answer: Option B
+Question No. 13
+The critical combination of stresses for corner region in cement concrete roads is
+(A) Load stress + warping stress frictional stress
+(B) Load stress + warping stress + frictional stress
+(C) Load stress + warping stress
+(D) Load stress + frictional stress
+Answer: Option C
+Question No. 14
+In highway construction, rolling starts from
+(A) Sides and proceed to center
+(B) Center and proceed to sides
+(C) One side and proceed to other side
+(D) Any of the above
+Answer: Option A
+Question No. 15
+The most economical lighting layout which is suitable for narrow roads is
+(A) Single side lighting
+(B) Staggered system
+(C) Central lighting system
+(D) None of the above
+Answer: Option A
+Question No. 16
+The ideal shape of a transition curve, is
+(A) Clothoid
+(B) Cubic spiral
+(C) Cubic parabola
+(D) Lamniscate
+Answer: Option AQuestion No. 17
+The full width of land acquired before finalising a highway, alignment is known
+(A) Width of formation
+(B) Right of way
+(C) Carriage way
+(D) Roadway
+Answer: Option B
+Question No. 18
+Tyre pressure influences the
+(A) Total depth of pavement
+(B) Quality of surface course
+(C) Both the above
+(D) None of the above
+Answer: Option B
+Question No. 19
+Any gradient on a road is said to be an exceptional gradient, if it is
+(A) More than ruling gradient
+(B) Less than average gradient
+(C) More than floating gradient
+(D) Less than minimum gradient or more than maximum gradient
+Answer: Option D
+Question No. 20
+During last phase of the reconnaissance, details of the grade line is recorded on 2 metre poles to
+indicate
+(A) Direction of the proposed alignment
+(B) Distance between the previous and forward pegs
+(C) Relative elevations of pegs
+(D) All the above
+Answer: Option D
+Question No. 21
+The most suitable equipment for compacting clayey soils is a
+(A) Smooth wheeled roller
+(B) Pneumatic tyred roller
+(C) Sheep foot roller
+(D) Vibrator
+Answer: Option C
+Question No. 22
+Pick up the correct statement from the following:
+(A) Seasonal cycle of traffic volume during April and November, is usually near the annual
+average(B) Mid-winter seasonal cycle of traffic is least
+(C) Mid-summer seasonal cycle of traffic is highest
+(D) All the above
+Answer: Option D
+Question No. 23
+Three points A, B and C 500 m apart on a straight road have 500 m, 505 m and 510 m as their
+reduced levels. The road is said to have
+(A) No gradient between A and C
+(B) A positive gradient between A and C
+(C) A negative gradient between A and C
+(D) A negative gradient between A and B
+Answer: Option D
+Question No. 24
+Select the correct statement.
+(A) Quantity of binder required for tack coat is less than that required for prime coat
+(B) Prime coat treatment is given for plugging the voids in water bound macadam during
+bituminous road construction
+(C) Seal coat is the final coat over certain previous bituminous pavements
+(D) A bitumen primer is a high viscosity cutback
+Answer: Option D
+Question No. 25
+The minimum design speed of various types of highways in plain terrain is the same as the ruling
+design speed of
+(A) Rolling terrain
+(B) Mountainous terrain
+(C) Steep terrain
+(D) None of these
+Answer: Option A
+Question No. 26
+Excessive camber on pavements may cause
+(A) Deterioration of central portion
+(B) Slip of the speedy vehicles towards the edges
+(C) Erosion of the berms
+(D) All the above
+Answer: Option D
+Question No. 27
+In hill roads the side drains arc provided
+(A) Only on the hill side of road
+(B) Only on the opposite side of hill
+(C) On both sides of road(D) None of the above
+Answer: Option A
+Question No. 28
+Selection of the routes, of highways depends upon
+(A) Feasibility of attaining ruling gradient
+(B) Avoidance of cutting hard rocks
+(C) Minimum number of bridges
+(D) All the above
+Answer: Option D
+Question No. 29
+Maximum number of vehicles that can pass a given point on a lane during one hour without
+creating unreasonable delay, is known as
+(A) Traffic density of lane
+(B) Basic capacity of lane
+(C) Probable capacity of lane
+(D) Practical capacity of lane
+Answer: Option D
+Question No. 30
+A traffic rotary is justified where
+(A) Number of intersecting roads is between 4 and 7
+(B) Space is limited and costly
+(C) When traffic volume is less than 500 vehicles per hour
+(D) When traffic volume is more than 5000 vehicles per hour
+Answer: Option A
+Question No. 31
+Pick up the correct statement from the following:
+(A) Minimum desirable width of medians on rural highways is 5 metres
+(B) Minimum width of medians should be 3 metres
+(C) On long bridges and viaducts, the width of medians should be 1.5 m
+(D) All the above
+Answer: Option D
+Question No. 32
+Pick up the correct statement from the following:
+(A) The cross fall of the shoulder should be at least 0.5% steeper than camber
+(B) On super-elevated sections, the shoulders should be provided a cross fall equal to camber
+(C) Earthen roads in general are provided steepest cross-fall
+(D) All the above
+Answer: Option DQuestion No. 33
+If aggregate impact value is 20 to 30 percent, then it is classified as
+(A) Exceptionally strong
+(B) Strong
+(C) Satisfactory for road surfacing
+(D) Unsuitable for road surfacing
+Answer: Option C
+Question No. 34
+Design of horizontal curves on highways, is based on
+(A) Design speed of vehicles
+(B) Permissible friction on the road surface
+(C) Permissible centrifugal ratio
+(D) All the above
+Answer: Option D
+Question No. 35
+Set-back distance is the distance between
+(A) Road land boundary and building line
+(B) Road land boundary and control line
+(C) Building line and control line
+(D) Road land boundary and control line
+Answer: Option A
+Question No. 36
+RC-2, MC-2 and SC-2 correspond to
+(A) Same viscosity
+(B) Viscosity in increasing order from RC-2 to SC-2
+(C) Viscosity in decreasing order from RC-2 to SC-2
+(D) None of the above
+Answer: Option A
+Question No. 37
+Speed regulations on roads is decided on the basis of
+(A) 60 percentile cumulative frequency
+(B) 75 percentile cumulative frequency
+(C) 80 percentile cumulative frequency
+(D) 85 percentile cumulative frequency
+Answer: Option D
+Question No. 38
+At intersection of roads, the traffic volume study is carried out to ascertain the number of vehicles
+(A) Moving along straights
+(B) Turning left
+(C) Turning right(D) All the above
+Answer: Option D
+Question No. 39
+Flexible pavement distribute the wheel load
+(A) Directly to sub-grade
+(B) Through structural action
+(C) Through a set of layers to the sub-grade
+(D) None of the above
+Answer: Option C
+Question No. 40
+The most commonly adopted method to provide super-elevation on roads, is by pivoting the road
+surface about
+(A) Outer edge so that the inner edge is lowered
+(B) Crown so that outer edge is raised and inner edge is lowered
+(C) Inner edge so that outer edge is raised
+(D) None of these
+Answer: Option C
+Question No. 41
+When load is applied on concrete pavement
+(A) Away from edges, the maximum bending moment is negative
+(B) Away from edges, the maximum bending moment cause compression
+(C) On the edges, the maximum stress is parallel to the edge of the slab
+(D) None of these
+Answer: Option C
+Question No. 42
+The fundamental factor in the selection of pavement type is
+(A) Climatic condition
+(B) Type and intensity of traffic
+(C) Sub-grade soil and drainage conditions
+(D) Availability of funds for the construction project
+Answer: Option B
+Question No. 43
+If the coefficient of friction on the road surface is 0.15 and a maximum super-elevation 1 in 15 is
+provided, the maximum speed of the vehicles on a curve of 100 metre radius, is
+(A) 32.44 km/hour
+(B) 42.44 kg/hour
+(C) 52.44 km/hour
+(D) 62.44 km/hour
+Answer: Option CQuestion No. 44
+Pick up the correct statement from the following:
+(A) Various geometric design features and generally guided by ruling design speed
+(B) The design speed for a given highway should preferably be uniform
+(C) Abrupt change in the design speed should not be permitted
+(D) All the above
+Answer: Option D
+Question No. 45
+For the construction of water bound macadam roads, the correct sequence of operations after
+spreading coarse aggregates is
+(A) Dry rolling, wet rolling, application of screening and application of filler
+(B) Dry rolling, application of filler, wet rolling and application of screening
+(C) Dry rolling, application of screening, wet rolling and application of filler
+(D) Dry rolling, application of screening, application of filler and wet rolling
+Answer: Option C
+Question No. 46
+In case of a multi-lane road, overtaking is generally permitted
+(A) From right
+(B) From left
+(C) From both sides right and left
+(D) Not at all
+Answer: Option C
+Question No. 47
+If degree of a road curve is defined by assuming the standard length of an arc as 30 metres, the
+radius of 1° curve is equal
+(A) 1719 m
+(B) 1146 m
+(C) 1046 m
+(D) 1619 m
+Answer: Option A
+Question No. 48
+The walls which are necessary on the hill side of roadway where earth has to be retained from
+slipping is known as
+(A) Retaining wall
+(B) Breast wall
+(C) Parapet wall
+(D) None of the above
+Answer: Option B
+Question No. 49
+If cross slope of a country is greater than 60%, the terrain is classified as(A) Rolling
+(B) Mountainous
+(C) Steep
+(D) Plain
+Answer: Option C
+Question No. 50
+The length of a transition curve, is governed by
+(A) Rate of change of radial acceleration
+(B) Rate of change of super-elevation
+(C) Both (a) and (b)
+(D) Neither (a) nor (b)
+Answer: Option C
+Question No. 51
+When a number of roads are meeting at a point and only one of the roads is important, then the
+suitable shape of rotary is
+(A) Circular
+(B) Tangent
+(C) Elliptical
+(D) Turbine
+Answer: Option B
+Question No. 52
+A gradient along which the vehicle does not require any tractive effort to maintain a specified
+speed, is known as
+(A) Ruling gradient
+(B) Pushing gradient
+(C) Floating gradient
+(D) Minimum gradient
+Answer: Option C
+Question No. 53
+In welded wire mesh, the longitudinal wire is placed at
+(A) 10 cm centres
+(B) 15 cm centres
+(C) 20 cm centres
+(D) 25 cm centres
+Answer: Option B
+Question No. 54
+Percentage of free carbon in bitumen is
+(A) More than that in tar
+(B) Less than that in tar
+(C) Equal to that in tar(D) None of the above
+Answer: Option B
+Question No. 55
+Pavement is said to be flexible if it contains
+(A) Water bound macadam surface
+(B) Stabilised soil base constructed of lime cement or tar
+(C) Bitumen-bound stone layer of varying aggregates
+(D) All the above
+Answer: Option D
+Question No. 56
+Hill roads are
+(A) Provided camber along spur curves
+(B) Provided camber along valley curves
+(C) Seldom provided a camber
+(D) None of these
+Answer: Option C
+Question No. 57
+The method of design of flexible pavement as recommended by IRC is
+(A) Group index method
+(B) CBR method
+(C) Westergaard method
+(D) Benkelman beam method
+Answer: Option B
+Question No. 58
+A district road with a bituminous pavement has a horizontal curve of 1000 m for a design speed of
+75 km ph. The super-elevation is
+(A) 1 in 40
+(B) 1 in 50
+(C) 1 in 60
+(D) 1 in 70
+Answer: Option A
+Question No. 59
+The head of public works department of any Indian state, is
+(A) Transport Minister
+(B) Chief Engineer
+(C) Superintending Engineer
+(D) Executive Engineer
+Answer: Option BQuestion No. 60
+Tie bars in cement concrete pavements are at
+(A) Expansion joints
+(B) Contraction joints
+(C) Warping joints
+(D) Longitudinal joints
+Answer: Option D
+Question No. 61
+As per recommendations of I.R.C., traffic volume study is carried out for rural roads for 7 days
+continuously during
+(A) Harvesting
+(B) Lean season
+(C) Harvesting and lean season
+(D) None of these
+Answer: Option C
+Question No. 62
+Formation width of a hill road is the distance between
+(A) Outer end of side drain to outer end of parapet wall
+(B) Outer end of side drain to inner end of parapet wall
+(C) Inner end of side drain to outer end of parapet wall
+(D) Inner end of side drain to inner end of parapet wall
+Answer: Option A
+Question No. 63
+The camber of shoulders in water bound macadam roads is
+(A) Equal to the cross slope of pavement
+(B) Less than the cross slope of pavement
+(C) Greater than the cross slope of pavement
+(D) Zero
+Answer: Option A
+Question No. 64
+Traffic surveys are carried out
+(A) To know the type of traffic
+(B) To determine the facilities to traffic regulations
+(C) To design proper drainage system
+(D) All the above
+Answer: Option D
+Question No. 65
+The difference in gradients after full super-elevation and the initial alignment of a road, is known
+as
+(A) Ruling gradient(B) Rising gradient
+(C) Compensated gradient
+(D) Differential gradient
+Answer: Option D
+Question No. 66
+The camber for hill roads in case of bituminous surfacing is adopted as
+(A) 2 %
+(B) 2.5 %
+(C) 3 %
+(D) 4 %
+Answer: Option B
+Question No. 67
+If C is basic capacity per lane, V is velocity in km/hour, S is stopping distance plus length of the
+vehicles in metres, the formula C = 1000V/S is applicable to
+(A) District roads
+(B) Two lane roads
+(C) Two lane roads in one direction
+(D) None of these
+Answer: Option C
+Question No. 68
+To prevent movement of moisture from sub-grade to road pavement on embankments about 0.6
+m to 1 m higher than water table, the thickness of cut off layer of coarse sand used, is
+(A) 15 cm
+(B) 20 cm
+(C) 30 cm
+(D) None of these
+Answer: Option D
+Question No. 69
+The direct interchange ramp involves
+(A) Diverging to the right side and merging from left
+(B) Diverging to the left side and merging from right
+(C) Diverging to the right side and merging from right
+(D) Diverging to the left side and merging from left
+Answer: Option C
+Question No. 70
+Design of flexible pavements is based on
+(A) Mathematical analysis
+(B) Empirical formulae
+(C) A compromise of pure theory and pure empirical formula
+(D) None of theseAnswer: Option C
+Question No. 71
+The total value of extra widening required at a horizontal curve on a two lane hill road of radius 42
+m for a design speed of 50 kmph and for vehicles with wheel base 6 m, is
+(A) 0.500 m
+(B) 0.589 m
+(C) 1.089 m
+(D) 0.089 m
+Answer: Option C
+Question No. 72
+Which of the following represents hardest grade of bitumen?
+(A) 30/40
+(B) 60/70
+(C) 80/100
+(D) 100/120
+Answer: Option A
+Question No. 73
+The weight of vehicles affects
+(A) Pavement thickness
+(B) Ruling gradient
+(C) Limiting gradient
+(D) All the above
+Answer: Option D
+Question No. 74
+Pick up the correct statement from the following:
+(A) The height of head light above road surface, is taken as 0.75 m
+(B) The beam of head light is up to one degree upwards from the grade of road
+(C) While designing the valley curve, the height of the object is assumed nil
+(D) All the above
+Answer: Option D
+Question No. 75
+The number of repetitions, which the pavement thickness designed for a given wheel load should
+be able to support during the life pavement is
+(A) 1000
+(B) 10,000
+(C) 1,00,000
+(D) 10,00,000
+Answer: Option DQuestion No. 76
+According to the recommendations of Nagpur Conference, the width formation of an ideal
+National Highway in hard rock cutting, is
+(A) 8.9 m
+(B) 7.9 m
+(C) 6.9 m
+(D) 6.5 m
+Answer: Option B
+Question No. 77
+Setting out of Lemniscate transition curves, is done with
+(A) Perpendicular offsets
+(B) Radial offsets
+(C) Deflection angles
+(D) Polar deflection angles
+Answer: Option D
+Question No. 78
+Maximum daily traffic capacity of bituminous pavements is
+(A) 500 tonnes per day
+(B) 1000 tonnes per day
+(C) 1500 tonnes per day
+(D) 2000 tonnes per day
+Answer: Option C
+Question No. 79
+The head light of vehicles should be such that its lower beam illuminates objects at
+(A) 10 m
+(B) 20 m
+(C) 30 m
+(D) 40 m
+Answer: Option C
+Question No. 80
+The gradients of trace cuts for hilly roads, are kept
+(A) Equal to ruling gradient
+(B) 10 to 20 per cent easier than ruling gradients
+(C) 10 to 20 per cent steeper than ruling gradients
+(D) None of these
+Answer: Option B
+Question No. 81
+Which of the following represents a carpet of sand-bitumen mix without coarse aggregates?
+(A) Mastic asphalt
+(B) Sheet asphalt(C) Bituminous carpet
+(D) Bituminous concrete
+Answer: Option B
+Question No. 82
+Reinforcement in cement concrete slab of road pavements, is placed
+(A) Longitudinally
+(B) Transversely
+(C) Longitudinally and transversely
+(D) In the form of welded wire mesh
+Answer: Option D
+Question No. 83
+The ability of a driver to stop the vehicle moving with the designed speed, depends upon:
+(A) Perception time
+(B) Brake reaction time
+(C) Efficiency of the brakes
+(D) All the above
+Answer: Option D
+Question No. 84
+Maximum number of vehicles can be parked with
+(A) Parallel parking
+(B) 30° angle parking
+(C) 45° angle parking
+(D) 90° angle parking
+Answer: Option D
+Question No. 85
+On concrete roads, the camber generally provided, is
+(A) 1 in 20 to 1 in 24
+(B) 1 in 30 to 1 in 48
+(C) 1 in 36 to 1 in 48
+(D) 1 in 60 to 1 in 72
+Answer: Option D
+Question No. 86
+If d is the economic designed depth of a slab, the thickness of the cement concrete pavement slab
+at interior, is kept
+(A) 1.275 d
+(B) 1.125 d
+(C) 0.85 d
+(D) 0.75 d
+Answer: Option CQuestion No. 87
+The ductility value of bitumen for suitability in road construction should not be less than
+(A) 30 cm
+(B) 40 cm
+(C) 50 cm
+(D) 60 cm
+Answer: Option C
+Question No. 88
+If L is the length of a moving vehicle and R is the radius of curve, the extra mechanical width b to
+be provided on horizontal curves,
+(A) L/R
+(B) L/2R
+(C) L²/2R
+(D) L/3R
+Answer: Option C
+Question No. 89
+Interior thickness of concrete road slab for design wheel load 6300 kg and permissible flexural
+stress 21 kg/cm2, is
+(A) 17.0 cm
+(B) 25.5 cm
+(C) 34.0 cm
+(D) 42.5 cm
+Answer: Option B
+Question No. 90
+For rapid curing cutbacks, the oil used is
+(A) Gasoline
+(B) Kerosene oil
+(C) Light diesel
+(D) Heavy diesel
+Answer: Option A
+Question No. 91
+The width of different roads as recommended in Nagpur plan by the Indian Road Conference for
+hilly region, is
+(A) Same for National Highways
+(B) Different for National Highways
+(C) Same for State Highways
+(D) Same for Major District roads
+Answer: Option B
+Question No. 92
+To prevent a head-on-collision of vehicles travelling in opposite directions along four-lane roads(A) Markings on the road are provided
+(B) Physical dividers are provided
+(C) Area dividers are provided
+(D) Medians of wide area are provided
+Answer: Option D
+Question No. 93
+The maximum thickness of expansion joint in rigid pavements is
+(A) 0
+(B) 25 mm
+(C) 50 mm
+(D) 100 mm
+Answer: Option B
+Question No. 94
+Length of vehicles does not affect
+(A) Extra widening
+(B) Minimum radius of turning
+(C) Passing sight distance
+(D) Width of shoulders
+Answer: Option D
+Question No. 95
+The type of curves generally provided on highways, is
+(A) Critical curve
+(B) Transition curve
+(C) Vertical curve
+(D) All the above
+Answer: Option D
+Question No. 96
+The thickness of bituminous carpet varies from
+(A) 20 to 25 mm
+(B) 50 to 75 mm
+(C) 75 to 100 mm
+(D) 100 to 120 mm
+Answer: Option A
+Question No. 97
+The advantage of providing super-elevation on roads, is
+(A) Higher speed of vehicles
+(B) Increased volume of traffic
+(C) Reduced maintenance cost of the roads
+(D) All the above
+Answer: Option DQuestion No. 98
+Gradient resistance of moving vehicles along down slopes, is
+(A) + 7 kg/tonne
+(B) + 9 kg/tonne
+(C) - 9 kg/tonne
+(D) - 7 kg/tonne
+Answer: Option C
+Question No. 99
+As per IRC recommendations, the average level of illumination on important roads carrying fast
+traffic is
+(A) 10 Lux
+(B) 15 Lux
+(C) 20 Lux
+(D) 30 Lux
+Answer: Option D
+Question No. 100
+Camber in pavements is provided by
+(A) Straight line method
+(B) Parabola method
+(C) Straight at the edges and parabolic at the crown
+(D) All the above
+Answer: Option D
+Question No. 101
+Over taking time required for a vehicle with design speed 50 km ph and overtaking acceleration
+1.25 m/sec2 to overtake a vehicle moving at a speed 30 km ph, is
+(A) 5.0 secs
+(B) 6.12 secs
+(C) 225.48 secs
+(D) 30 secs
+Answer: Option B
+Question No. 102
+The group index for a soil, whose liquid limit is 40 percent, plasticity index is 10 percent and
+percentage passing 75 micron IS sieve
+(A) 0
+(B) 3
+(C) 5
+(D) 7
+Answer: Option A
+Question No. 103
+According to Indian Road Congress, the width of carriageway, is(A) 3.75 m for single lane
+(B) 7.0 m for two lanes without raised kerbs
+(C) 7.5 m for two lanes with raised kerbs
+(D) All the above
+Answer: Option D
+Question No. 104
+For night travel, the length of a valley curve should be such that the head light beam distance is
+the same as
+(A) Stopping sight distance
+(B) Overtaking sight distance
+(C) Sum of (a) and (b)
+(D) Difference of (a) and (b)
+Answer: Option A
+Question No. 105
+The binder normally used in flexible pavement construction is
+(A) Cement
+(B) Lime
+(C) Bitumen
+(D) None of the above
+Answer: Option C
+Question No. 106
+Intermediate catch water drains are provided only, if
+(A) Catchment area of the watershed above road is large
+(B) Intensity of rainfall is heavy
+(C) Single catch water drain is inadequate
+(D) All the above
+Answer: Option D
+Question No. 107
+In retaining and breast walls, weep holes are provided at
+(A) 50 cm vertical height and 50 cm centre to centre horizontally
+(B) 100 cm vertical height and 100 cm centre to centre horizontally
+(C) 100 cm vertical height and 120 cm centre to centre horizontally
+(D) 120 cm vertical height and 100 cm centre to centre horizontally
+Answer: Option C
+Question No. 108
+In highway construction on super-elevated curves, the rolling shall proceed from
+(A) Sides towards the centre
+(B) Centre towards the sides
+(C) Lower edge towards the upper edge
+(D) Upper edge towards the lower edgeAnswer: Option C
+Question No. 109
+An upgrade g1% is followed by a downgrade g2%. The equation of the parabolic curve of
+length L to be introduced, is given by
+(A) y = g [(g - g L] x²
+(B) y = [(g g L] x²
+(C) y = [(g - g L] x²
+(D) y = [(g g L] x²
+Answer: Option B
+Question No. 110
+Pick up the correct statement from the following:
+(A) Borrow pits are located outside the right of way
+(B) Borrow pits may be located on either side of the right of way
+(C) Spoil bank is located on one side of the right of way
+(D) All the above
+Answer: Option D
+Question No. 111
+Which of the following tests measures the toughness of road aggregates?
+(A) Crushing strength test
+(B) Abrasion test
+(C) Impact test
+(D) Shape test
+Answer: Option C
+Question No. 112
+Reconnaissance is best done with the help of
+(A) Aerial photographic survey
+(B) Cadastral surveys
+(C) Topographical surveys
+(D) Triangulation surveys
+Answer: Option A
+Question No. 113
+To ensure that bullock carts may not overturn on curves, the maximum value of super-elevation,
+recommended by I.R.C., is
+(A) 1 in 10
+(B) 1 in 12
+(C) 1 in 15
+(D) 1 in 20
+Answer: Option CQuestion No. 114
+If the group index value of sub-grade is between 5 and 9, then the sub-grade is treated as
+(A) Good
+(B) Fair
+(C) Poor
+(D) Very poor
+Answer: Option C
+Question No. 115
+An Executive Engineer of roads, executes works under direct control of
+(A) Superintending Engineer
+(B) Secretary to the Govt
+(C) Chief Engineer
+(D) None of these
+Answer: Option A
+Question No. 116
+The distance travelled by revolving the wheel of a vehicle more than its circumferential
+movement, is known as
+(A) Slip
+(B) Skid
+(C) Neither (a) nor (b)
+(D) Both (a) and (b)
+Answer: Option B
+Question No. 117
+The suitable surfacing material for a bridge deck slab is
+(A) Sheet asphalt
+(B) Bituminous carpet
+(C) Mastic asphalt
+(D) Rolled asphalt
+Answer: Option C
+Question No. 118
+If the velocity of moving vehicles on a road is 24 km/per hour, stopping distance is 19 metres and
+average length of vehicles is 6 metres, the basic capacity of lane, is
+(A) 500 vehicles per hour
+(B) 700 vehicles per hour
+(C) 1000 vehicles per hour
+(D) 1250 vehicles per hour
+Answer: Option C
+Question No. 119
+Traffic census is carried out for
+(A) Speed and delay study(B) Road parking study
+(C) Traffic volume study
+(D) All the above
+Answer: Option D
+Question No. 120
+In CBR test the value of CBR is calculated at
+(A) 2.5 mm penetration only
+(B) 5.0 mm penetration only
+(C) 7.5 mm penetration only
+(D) Both 2.5 mm and 5.0 mm penetrations
+Answer: Option D
+Question No. 121
+If the radii of a compound curve and a reverse curve are respectively the same, the length of
+common tangent
+(A) Of compound curve will be more
+(B) Of reverse curve will be more
+(C) Of both curves will be equal
+(D) None of these
+Answer: Option C
+Question No. 122
+The best compromise between the increase of the length of a highway and reduction in its load
+carrying capacity, is the ruling gradient
+(A) 1 in 10
+(B) 1 in 15
+(C) 1 in 20
+(D) 1 in 25
+Answer: Option C
+Question No. 123
+Bottom most layer of pavement is known as
+(A) Wearing course
+(B) Base course
+(C) Sub-base course
+(D) Sub-grade
+Answer: Option D
+Question No. 124
+The number of vehicles moving in a specified direction on a roadway that pass a given point during
+specified unit of time, is called
+(A) Traffic volume
+(B) Traffic density
+(C) Basic capacity(D) Traffic capacity
+Answer: Option A
+Question No. 125
+Ruling gradient on hill roads 300 m above M.S.L. is kept
+(A) 4 %
+(B) 5 %
+(C) 7 %
+(D) 8 %
+Answer: Option B
+Question No. 126
+The aggregates required for one kilometre length of water bound macadam road per meter width
+and for 10 mm thickness is
+(A) 8 cubic meter
+(B) 10 cubic meter
+(C) 12 cubic meter
+(D) 15 cubic meter
+Answer: Option C
+Question No. 127
+The minimum value of camber provided for thin bituminous surface hill roads, is
+(A) 2.2 %
+(B) 2.5 %
+(C) 3.0 %
+(D) 3.5 %
+Answer: Option B
+Question No. 128
+Roundabouts are not suitable if number of vehicles exceed
+(A) 3000
+(B) 4000
+(C) 5000
+(D) 6000
+Answer: Option A
+Question No. 129
+The minimum design speed for hairpin bends in hill roads is taken as
+(A) 20 kmph
+(B) 30 kmph
+(C) 40 kmph
+(D) 50 kmph
+Answer: Option AQuestion No. 130
+Thickness of a pavement may be reduced considerably by
+(A) Compaction of soil
+(B) Stabilisation of soil
+(C) Drainage of soil
+(D) Combination of all the above
+Answer: Option D
+Question No. 131
+To compensate the loss of tractive force of vehicles along curves of radius R, the percentage
+reduction of gradient, is
+(A) 50/R
+(B) 75/R
+(C) 100/R
+(D) 125/R
+Answer: Option B
+Question No. 132
+The maximum allowable Los Angeles abrasion value for high quality surface course is
+(A) 10 %
+(B) 20 %
+(C) 30 %
+(D) 45 %
+Answer: Option C
+Question No. 133
+The minimum ratio of the radii of two circular curves of a compound curve, is kept
+(A) 1.25
+(B) 1.5
+(C) 1.75
+(D) 2.0
+Answer: Option B
+Question No. 134
+The distance travelled by a moving vehicle during perception and brake reaction times, is known
+as
+(A) Sight distance
+(B) Stopping distance
+(C) Lag distance
+(D) None of these
+Answer: Option C
+Question No. 135
+Rigidity factor for a tyre pressure greater than 7 kg/cm² is
+(A) Equal to 1(B) Less than 1
+(C) Greater than 1
+(D) Zero
+Answer: Option B
+Question No. 136
+The formula for calculating the depth of concrete pavements suggested by Gold beck, is
+(A) d = 3W/ max
+(B) d W/ max)
+(C) d W/ max)
+(D) d W/ max)
+Answer: Option B
+Question No. 137
+polar angle is
+(A)
+(B)
+(C)
+(D)
+Answer: Option D
+Question No. 138
+Most suitable material for highway embankments is
+(A) Granular soil
+(B) Organic soil
+(C) Silts
+(D) Clays
+Answer: Option A
+Question No. 139
+The road foundation for modern highways construction, was developed by
+(A) Tresguet
+(B) Telford
+(C) Tresguet and Telford simultaneously
+(D) Telford and Macadam simultaneously
+Answer: Option D
+Question No. 140
+Longitudinal pavement lines marked broken in white paint
+(A) Are for the guidance of the drivers
+(B) Are not to be crossed over
+(C) May be crossed over at the discretion of the driver
+(D) All the above
+Answer: Option CQuestion No. 141
+The recommended grade of tar for grouting purpose is
+(A) RT-1
+(B) RT-2
+(C) RT-3
+(D) RT-5
+Answer: Option D
+Question No. 142
+According to Highway Research Board of U.S.A. practical land width, is
+(A) 2.7 m
+(B) 3.0 m
+(C) 3.3 m
+(D) 3.6 m
+Answer: Option D
+Question No. 143
+If the radius of a main curve is 300 m and length of the transition curve is 100 m, the angle with
+tangent to locate the junction point, is
+(A) 1° 11'
+(B) 2° 11'
+(C) 3° 11'
+(D) 4° 11'
+Answer: Option C
+Question No. 144
+Which of the following premix methods is used for base course?
+(A) Bituminous carpet
+(B) Mastic asphalt
+(C) Sheet asphalt
+(D) Bituminous bound macadam
+Answer: Option D
+Question No. 145
+Pick up the correct statement from the following:
+(A) During reconnaissance, the general route of the alignment is selected
+(B) After reconnaissance, a trace is cut for the alignment
+(C) Last stage is the detailed surveys for desired geometries' of the highway
+(D) All the above
+Answer: Option D
+Question No. 146
+The statement, regarding the size of stones used at the wearing surface. "The size of a stone used
+on a road must be in due proportion to the space occupied by a wheel of ordinary dimensions on a
+smooth level surface. The point of contact will be found to be longitudinal about 2.5 cm and everypiece of stone put into the road which exceeds 2.5 cm in any of its dimension is mischievous" was
+made by
+(A) Telford
+(B) Macadam
+(C) Tresguet
+(D) Sully
+Answer: Option B
+Question No. 147
+Bitumen of grade 80/100 means
+(A) Its penetration value is 8 mm
+(B) Its penetration value is 10 mm
+(C) Its penetration value is 8 to 10 mm
+(D) Its penetration value is 8 to 10 cm
+Answer: Option C
+Question No. 148
+Pick up the correct statement from the following:
+(A) Safety fences are provided on either side of a roadway if embankments are in excess of 6
+metres
+(B) Safety fences are provided on outside of the curves of radii less than 750 m if the
+embankments are between 3 metres and 6 metres
+(C) Guard stones are provided at 2.5 metres intervals if embankments are between 1.6 metres
+to 3 metres
+(D) All the above
+Answer: Option D
+Question No. 149
+I.R.T.D.A. (Indian Roads and Transport Development Association) was set up at Bombay in
+(A) 1907
+(B) 1917
+(C) 1027
+(D) 1937
+Answer: Option C
+Question No. 150
+The maximum spacing of contraction joints in rigid pavements is
+(A) 2.5 m
+(B) 3.5 m
+(C) 4.5 m
+(D) 5.5 m
+Answer: Option C
+Question No. 151
+If N is deviation angle, the length L, of a parabolic vertical curve for safe stopping distance S, is(A) NS²/4.4 if L > S
+(B) 2S - 4.4/N if L < S
+(C) 2S - 4.4/N if L > S
+(D) Both (a) and (b)
+Answer: Option D
+Question No. 152
+A single lane carriage way whenever changes to two-lane carriage way, is affected through a taper
+of
+(A) 1 in 10
+(B) 1 in 15
+(C) 1 in 20
+(D) 1 in 15 to 1 in 20
+Answer: Option D
+Question No. 153
+Softening point of bitumen to be used for read construction at a place where maximum
+temperature is 40°C should be
+(A) Less than 40°C
+(B) Greater than 40°C
+(C) Equal to 40°C
+(D) None of the above
+Answer: Option B
+Question No. 154
+According to IRC : 52-1973, for a single lane National Highway in hilly region,
+(A) Width of the carriageway must be 3.75 m
+(B) Shoulders on either side must be 1.25 m
+(C) Total width of the road-way must be 6.25 m
+(D) Total of the above
+Answer: Option D
+Question No. 155
+If a Lemniscate curve of transition throughout is introduced to connect two parallel roads, the
+maximum polar angle of the curve, is
+(A) 10°
+(B) 15°
+(C) 20°
+(D) 30°
+Answer: Option D
+Question No. 156
+Minimum thickness of a layer of fine sand required to cut off capillary rise of water completely,
+should be
+(A) 40 cm(B) 52 cm
+(C) 64 cm
+(D) 76 cm
+Answer: Option D
+Question No. 157
+The standard equation of a cubical spiral transition curve provided on roads, is
+(A) y = l²/6RL
+(B) y = x3/6RL
+(C) y = x2/6RL
+(D) y = x/6RL
+Answer: Option B
+Question No. 158
+If N is the algebraic difference of grades, S is the head light beam distance in metres, the length (L)
+of a valley curve, is
+(A) NS²/4
+(B) NS²/6
+(C) NS²/9.6
+(D) NS²/4.8
+Answer: Option A
+Question No. 159
+To prevent compressive stresses in a rigid concrete pavement, the joint provided, is
+(A) Expansion joint
+(B) Contraction joint
+(C) Hinged joint
+(D) All the above
+Answer: Option D
+Question No. 160
+Along high ways confirmatory route markers are generally fixed
+(A) Before the crossing on the left side
+(B) After the crossing on the left side
+(C) Before the crossing on the right side
+(D) After the crossing on the right side
+Answer: Option B
+Question No. 161
+If the width of carriage way is 12.5 metres, outer edge 50 cm higher than the inner edge, the
+required super elevation is
+(A) 50 cm
+(B) 1 in 25
+(C) 1 in 400
+(D) 1 in 40Answer: Option B
+Question No. 162
+If N is the net difference of grades, S is the minimum overtaken sight distance in metres, the
+length (L) of a summit curve, is
+(A) NS/4
+(B) NS²/4
+(C) NS²/4.8
+(D) NS²/9.6
+Answer: Option D
+Question No. 163
+Super-elevation on roads in snow bound areas, should generally not exceed
+(A) 15 %
+(B) 12 %
+(C) 10 %
+(D) 7 %
+Answer: Option D
+Question No. 164
+Passing zones are generally not provided on
+(A) Summit curves
+(B) Horizontal curves
+(C) Two lane highways
+(D) All the above
+Answer: Option D
+Question No. 165
+In a braking test, a vehicle travelling at 36 km ph was stopped at a braking distance of 8.0 m. The
+average value of the vehicle's skid resistance (friction coefficient) is
+(A) 0.64
+(B) 6.25
+(C) 0.16
+(D) None of these
+Answer: Option C
+Question No. 166
+The first stage of deciding the alignment of a hill road, is
+(A) Reconnaissance
+(B) Detailed survey
+(C) Trace-out
+(D) Preliminary survey
+Answer: Option AQuestion No. 167
+The normal road land width for a National or State highway, in open areas should be
+(A) 45 m
+(B) 30 m
+(C) 24 m
+(D) 20 m
+Answer: Option A
+Question No. 168
+Floating gradients are generally provided
+(A) Along maximum gradients
+(B) Along minimum gradients
+(C) At summit curves
+(D) At valley curves
+Answer: Option C
+Question No. 169
+If cross slope of a country is upto 10% the terrain is classified as
+(A) Plain
+(B) Rolling
+(C) Mountainous
+(D) Steep
+Answer: Option A
+Question No. 170
+Area of steel required per metre width of pavement for a length of 20 m for design wheel load
+6300 kg and permissible stress in steel 1400 kg/cm2, is
+(A) 70 kg/sq cm
+(B) 80 kg/sq cm
+(C) 90 kg/sq cm
+(D) 100 kg/sq cm
+Answer: Option C
+Question No. 171
+In case of a hair pin bend of a highway,
+(A) Minimum radius of inner curve is 14 m
+(B) Minimum radius of transition is 15 m
+(C) Circular compound curve may be provided
+(D) All the above
+Answer: Option D
+Question No. 172
+The minimum vertical clearance of overhanging cliffs or any other structure above the surface of a
+hill road, should be
+(A) 3 m(B) 4 m
+(C) 5 m
+(D) 6 m
+Answer: Option C
+Question No. 173
+The camber on pavements, is provided by
+(A) Straight line method
+(B) Parabolic method
+(C) Straight line and parabolic at crown
+(D) Elliptical method
+Answer: Option C
+Question No. 174
+One-way streets are generally provided in crowded cities as, these
+(A) Are inexpensive means of traffic flow
+(B) Reduce delays to vehicles
+(C) Permit higher speed
+(D) All the above
+Answer: Option D
+Question No. 175
+The width of the right of way, is influenced by
+(A) Formation width
+(B) Shoulders or berms
+(C) Classification of road
+(D) All the above
+Answer: Option D
+Question No. 176
+The maximum distance of the apex of a vertical curve of length L from the point of intersection of
+two grades + g1%, and - g2% (g1 > g2), is
+(A) L(g - g
+(B) L(g - g
+(C) L(g g
+(D) L(g - g
+Answer: Option C
+Question No. 177
+Pick up the incorrect statement from the following. On highways circular curves may be
+(A) Simple curves
+(B) Compound curves
+(C) Reverse curves
+(D) Vertical curves
+Answer: Option DQuestion No. 178
+The desirable camber for straight roads with thin bituminous surfacing, is
+(A) 1 in 33 to 1 in 25
+(B) 1 in 40 to 1 in 33
+(C) 1 in 150 to 1 in 140
+(D) 1 in 160 to 1 in 140
+Answer: Option C
+Question No. 179
+If brakes of vehicles are effective, the vehicle-running at 30 km/hour comes to a stop in
+(A) 10 metres
+(B) 12 metres
+(C) 15 metres
+(D) 18 metres
+Answer: Option B
+Question No. 180
+From the point of tangency before an intersection, the route markers are fixed at a distance of
+(A) 15 m to 30 m
+(B) 20 m to 35 m
+(C) 40 m to 50 m
+(D) 100 m to 150
+Answer: Option D
+Question No. 181
+The minimum super-elevation in rolling terrain in plains, is limited to
+(A) 4 %
+(B) 5 %
+(C) 6 %
+(D) 7 %
+Answer: Option D
+Question No. 182
+In ideal pavement is constructed with
+(A) Bricks
+(B) Hard soil
+(C) Portland cement concrete
+(D) Tar
+Answer: Option C
+Question No. 183
+Pick up the incorrect statement from the following. If water cement ratio is
+(A) Increased, strength of concrete increases
+(B) Decreased, strength of concrete increases
+(C) Increased, strength of concrete is not affected(D) None of these
+Answer: Option C
+Question No. 184
+Design of horizontal and vertical alignments, super-elevation, sight distance and grades, is worst
+affected by
+(A) Width of the vehicle
+(B) Length of the vehicle
+(C) Height of the vehicle
+(D) Speed of the vehicle
+Answer: Option D
+Question No. 185
+For a comfortable travel on Highways, the centrifugal ratio should not exceed
+(A) 0.10
+(B) 0.15
+(C) 0.20
+(D) 0.25
+Answer: Option D
+Question No. 186
+Border Roads Organisation for hilly regions (India), was formed in
+(A) 1947
+(B) 1954
+(C) 1958
+(D) 1960
+Answer: Option D
+Question No. 187
+For a poorly graded sub-grade soil, thickness of sub-base, is
+(A) 10 cm
+(B) 15 cm
+(C) 20 cm
+(D) 30 cm
+Answer: Option D
+Question No. 188
+The usual width of parapet walls along Highways in hilly region, is
+(A) 50 cm
+(B) 60 cm
+(C) 70 cm
+(D) 80 cm
+Answer: Option BQuestion No. 189
+In scanty rainfall regions, the camber provided will be
+(A) Nil
+(B) Flatter
+(C) Steeper
+(D) None of these
+Answer: Option B
+Question No. 190
+In water bound macadam roads, binding material, is
+(A) Sand
+(B) Stone dust
+(C) Cement
+(D) Brick dust
+Answer: Option B
+Question No. 191
+Design of flexible pavement, involves
+(A) Wheel loads
+(B) Intensity of traffic
+(C) Climate of the region
+(D) Sub-grade conditions
+Answer: Option C
+Question No. 192
+Increase in traffic volume, due to increase in transport vehicles, is known as
+(A) Development traffic
+(B) Normal traffic growth
+(C) Generated traffic growth
+(D) Current traffic
+Answer: Option C
+Question No. 193
+Width of a rotary round should be equal to
+(A) Twice the width of narrowest radial road
+(B) Width of the widest road
+(C) Width of the widest road plus the width of one lane
+(D) Width of the widest road plus 2 metres
+Answer: Option C
+Question No. 194
+Volume of traffic which would immediately use a new road or an improved one when opened to
+traffic, is known
+(A) Development traffic
+(B) Current traffic(C) General traffic
+(D) Normal traffic growth
+Answer: Option D
+Question No. 195
+Volume of traffic which is due to improvement carried out in adjacent area, is known as
+(A) Development traffic
+(B) Generated traffic growth
+(C) Normal traffic growth
+(D) Current traffic
+Answer: Option A
+Question No. 196
+Maximum number of passenger cars that can pass a given point on a road during one hour under
+the most ideal road way and traffic conditions, is known as
+(A) Traffic density
+(B) Basic capacity of traffic lane
+(C) Possible capacity of traffic lane
+(D) All the above
+Answer: Option B
+Question No. 197
+Reference pillars fixed on the centre line of a proposed road, provide the following information:
+(A) Reduced distance (R.D.)
+(B) Horizontal distance of road from the centre line
+(C) Reduced level at the top of pillar
+(D) All the above
+Answer: Option D
+Question No. 198
+In an ideal transition curve, the radius of curvature
+(A) Is constant
+(B) At any point is directly proportional to its distance from the point of commencement
+(C) Is inversely proportional to the radius of main curve
+(D) Is directly proportional to the radius of main curve
+Answer: Option C
+Question No. 199
+Alignment of highways in hilly regions, is decided on
+(A) Long stretch of very hard cutting
+(B) Number of river crossings
+(C) Natural unstable areas
+(D) All the above
+Answer: Option DQuestion No. 200
+The desirable camber for straight cement concrete roads, is
+(A) 1 in 33 to 1 in 25
+(B) 1 in 40 to 1 in 33
+(C) 1 in 150 to 1 in 140
+(D) 1 in 160 to 1 in 140
+Answer: Option D
+Question No. 201
+In case of cement concrete pavements, pick up the incorrect statement
+(A) Tractive resistance is low
+(B) Initial cost of construction is high
+(C) Initial cost of construction is low
+(D) Visibility during nights is high
+Answer: Option C
+Question No. 202
+If D is the degree of a curve, the percentage reduction of gradient, is
+(A) 0.01 D
+(B) 0.02 D
+(C) 0.03 D
+(D) 0.04 D
+Answer: Option D
+Question No. 203
+Pick up the incorrect statement from the following:
+(A) Highways are always constructed in straight line
+(B) Highways may be provided horizontal curves
+(C) Highways may be provided vertical curves
+(D) Highways may be provided both horizontal and vertical curves
+Answer: Option A
+Question No. 204
+Pick up the correct statement from the following:
+(A) Long tangent sections exceeding 3 km in length should be avoided
+(B) Curve length should be at least 150 metres for a deflection angle of 5 degree
+(C) For every degree decrease in the deflection angle, 30 metre length of curve to be increased
+(D) All the above
+Answer: Option D
+Question No. 205
+Minimum number of 50 kg cement bags per cubic metre of concrete for a mix corresponding to
+crushing strength 280 kg/cm2 at 28 days, are
+(A) 5.0
+(B) 6.5(C) 7.0
+(D) 7.5
+Answer: Option B
+Question No. 206
+For Indian conditions, the water bound macadam roads, are suitable if daily traffic does not
+exceed
+(A) 2000 tonnes
+(B) 2500 tonnes
+(C) 3000 tonnes
+(D) 3500 tonnes
+Answer: Option A
+Question No. 207
+Indian Road Congress (I.R.C.) was founded and constituted with its head quarters at New Delhi, in
+(A) 1924
+(B) 1927
+(C) 1930
+(D) 1934
+Answer: Option D
+Question No. 208
+The steepest gradient permitted on roads which, in ordinary conditions, does not exceed, is
+known
+(A) Ruling gradient
+(B) Maximum gradient
+(C) Exceptional gradient
+(D) Floating gradient
+Answer: Option B
+Question No. 209
+When each particle of aggregates is thinly coated with cement paste, a heterogeneous solid is
+formed, which is known as
+(A) Hydration
+(B) Gel
+(C) Concrete
+(D) None of these
+Answer: Option C
+Question No. 210
+Width of the shoulders of carriage way is generally kept
+(A) 100 cm
+(B) 125 cm
+(C) 150 cm
+(D) 250 cmAnswer: Option D
+Question No. 211
+Reduction of load capacity in a ruling gradient of
+(A) 1 in 10, is 10%
+(B) 1 in 15, is 15%
+(C) 1 in 20, is 10%
+(D) 1 in 25, is 25%
+Answer: Option C
+Question No. 212
+The width of road pavements, depends upon
+(A) Width of traffic lane
+(B) Number of traffic
+(C) Width of median strip
+(D) All the above
+Answer: Option D
+Question No. 213
+While calculating the overtaking sight distance, the height of the object above road surface, is
+assumed
+(A) 50 cm
+(B) 75 cm
+(C) 100 cm
+(D) 120 cm
+Answer: Option D
+Question No. 214
+Minimum thickness of the base of a flexible pavement, is
+(A) 10 cm
+(B) 15 cm
+(C) 20 cm
+(D) 25 cm
+Answer: Option A
+Question No. 215
+Widening of the roads on curves in hilly region, is done
+(A) On the outer side
+(B) On the inner side
+(C) On the outer and inner sides equally
+(D) Less on outer side and more on inner side
+Answer: Option B
+Question No. 216
+Side drains on both sides of a hill road, are essential when the road is(A) Along the spur curves
+(B) Along the re-entrant curves
+(C) In cutting
+(D) None of these
+Answer: Option C
+Question No. 217
+The wall constructed for the stability of a back filling portion of a road on the downhill side, is
+known as
+(A) Retaining wall
+(B) Breast wall
+(C) Parapet wall
+(D) All the above
+Answer: Option A
+Question No. 218
+If V is speed of a moving vehicle, r is radius of the curve, g is the acceleration due to gravity, W is
+the width of the carriageway, the super elevation is
+(A) WV/gr
+(B) W²V/gr
+(C) WV²/gr
+(D) WV/gr²
+Answer: Option C
+Question No. 219
+In a right angle bend of a road provided with a transition throughout, the maximum polar angle
+will be
+(A) 10°
+(B) 15°
+(C) 20°
+(D) 30°
+Answer: Option B
+Question No. 220
+If V is the design speed in km/hour and R is the radius of the curve of a hill road, the superelevation
+(A) e = V / 127 R
+(B) e = V² / 127 R
+(C) e = V ²/ 225 R
+(D) e = V / 225 R
+Answer: Option C
+Question No. 221
+Along a hill road, a side drain is provided on
+(A) Outer side of a spur curve(B) Outer side of a re-entrant curve
+(C) Outer side of both (a) and (b)
+(D) Inner side of both (a) and (b)
+Answer: Option D
+Question No. 222
+The total length of a valley formed by two gradients - 3% and + 2% curve between the two tangent
+points to provide a rate of change of centrifugal acceleration 0.6 m/sec2, for a design speed 100
+kmph, is
+(A) 16.0 m
+(B) 42.3 m
+(C) 84.6 m
+(D) None of these
+Answer: Option C
+Question No. 223
+If V is speed in km/hour and R is radius of the curve, the super-elevation e is equal to
+(A) V²/125 R
+(B) V²/225 R
+(C) V²/325 R
+(D) V²/25 R
+Answer: Option B
+Question No. 224
+The weaving length of a roadway is the distance
+(A) Between the channelizing islands
+(B) Equal to half circumference
+(C) Equal to total width of adjoining radial roads
+(D) Equal to diameter of rotary
+Answer: Option A
+Question No. 225
+Following type of pavement is generally known as flexible pavement
+(A) Water-bound macadam roads
+(B) Stabilised soil roads
+(C) Road constructed with various layers of building material well compacted
+(D) All the above
+Answer: Option D
+Question No. 226
+First operation during the detailed survey of a hill road, is
+(A) Hydrological and soil surveys
+(B) Adjustment of alignment along with curves
+(C) Derivation of longitudinal and cross-sections
+(D) Fixation of Bench MarksAnswer: Option D
+Question No. 227
+Pick up the incorrect statement from the following. The width of the right-of-way is decided so as
+to accommodate
+(A) Formation width
+(B) Side slopes
+(C) Horizontal curve
+(D) Vertical curve
+Answer: Option D
+Question No. 228
+The type of transition curves generally provided on hill roads, is
+(A) Circular
+(B) Cubic parabola
+(C) Lemniscate
+(D) Spiral
+Answer: Option D
+Question No. 229
+When a number of hair pin bends are introduced, a minimum intervening distance in between is
+kept
+(A) 20 m
+(B) 40 m
+(C) 60 m
+(D) 100 m
+Answer: Option C
+Question No. 230
+If cross slope of a country is 10% to 25%, the terrain is classified as
+(A) Rolling
+(B) Mountainous
+(C) Steep
+(D) Plain
+Answer: Option A
+Question No. 231
+For the design of cement concrete pavement for corner loading, Indian Road Congress
+recommends the use of
+(A) Westergaard's formula
+(B) Kelly's formula
+(C) Goldbeck's formula
+(D) Picker's formula
+Answer: Option DQuestion No. 232
+On the recommendations of Indian Road Congress, the ruling gradient in plains, is
+(A) 1 in 15
+(B) 1 in 20
+(C) 1 in 30
+(D) 1 in 45
+Answer: Option C
+Question No. 233
+The tangent length of a simple circular curve of radius R
+(A) R tan
+(B) R tan
+(C) R sin
+(D) R sin
+Answer: Option B
+Question No. 234
+While calculating the sight distances, the driver's eye above road surface, is assumed
+(A) 90 cm
+(B) 100 cm
+(C) 110 cm
+(D) 120 cm
+Answer: Option D
+Question No. 235
+On earth roads, the camber should preferably be
+(A) 1 in 20 to 1 in 24
+(B) 1 in 30 to 1 in 48
+(C) 1 in 15 to 1 in 20
+(D) 1 in 10 to 1 in 15
+Answer: Option A
+Question No. 236
+At a road junction, 7 cross conflict points are severe if
+(A) Both are one-way roads
+(B) Both are two-way roads
+(C) One is two-way road and other is one-way road
+(D) None of these
+Answer: Option C
+Question No. 237
+The safe length L of a valley curve for night travel is
+(A) 2S - (1.50 + 0.035 S)/N if L < S
+(B) NS²/(1.50 + 0.035 S) if L > S
+(C) Neither (a) nor (b)(D) Both (a) and (b)
+Answer: Option D
+Question No. 238
+Road width 8.8 m of two lane National highways or State highways in mountainous terrain
+(A) Excludes the width of parapet (0.6 m)
+(B) Excludes the width of side drain (0.6 m)
+(C) Excludes the width of parapet and side drain
+(D) Includes the width of parapet and side drain
+Answer: Option C
+Question No. 239
+The radius of curvature provided along a transition curve, is
+(A) Minimum at the beginning
+(B) Same throughout its length
+(C) Equal to the radius of circular curve
+(D) Varying from infinity to the radius of circular curve
+Answer: Option D
+Question No. 240
+The normal road width of National and State highways
+(A) Is kept 45 m
+(B) In plain and rolling terrain built-up area, is 30 m
+(C) In mountainous built-up area is 20 m
+(D) All the above
+Answer: Option D
+Question No. 241
+If R
+angle of any point, its radial distance is
+(A) 3 R
+(B) 3 R
+(C) 3 R
+(D) 3 R
+Answer: Option A
+Question No. 242
+Raising of outer edge of a road with respect to inner edge, is known
+(A) Super elevation
+(B) Cant
+(C) Banking
+(D) All the above
+Answer: Option DQuestion No. 243
+The G.T. road from Lahore to Calcutta in undivided India, was constructed during
+(A) 3495-3500 BC
+(B) 265-270 BC
+(C) 1540-1545 AD
+(D) 1440-1450 AD
+Answer: Option C
+Question No. 244
+Endoscope is used to determine
+(A) Spot speed
+(B) Average speed
+(C) Travel time
+(D) None of these
+Answer: Option A
+Question No. 245
+The minimum road width is taken
+(A) 9 m
+(B) 12 m
+(C) 16 m
+(D) 20 m
+Answer: Option A
+Question No. 246
+Newly constructed pavement with ordinary Portland cement attains its working strength after
+(A) 7 days
+(B) 14 days
+(C) 21 days
+(D) 28 days
+Answer: Option D
+Question No. 247
+The maximum comfortable retardation applied to moving vehicles, is
+(A) 3.42 m/sec2
+(B) 4.42 m/sec2
+(C) 5.56 m/sec2
+(D) 7.80 m/sec2
+Answer: Option A
+Question No. 248
+For a vehicle moving with a speed of 80 km per hour, the brake reaction time, in ordinary cases, is
+(A) 1 sec
+(B) 1.5 sec
+(C) 2.0 sec(D) 2.5 sec
+Answer: Option D
+Question No. 249
+Horizontal curves on highways are provided
+(A) To break the monotony of driving
+(B) To discourage the tendency to increase speed
+(C) To decrease the mental strain on drivers
+(D) All the above
+Answer: Option D
+Question No. 250
+Bottom-most component of a flexible pavement, is
+(A) Sub-grade
+(B) Sub-base
+(C) Base
+(D) Base course
+Answer: Option A
+Question No. 251
+For a properly designed vehicle, the resistance generally ignored, is
+(A) Wind resistance
+(B) Rolling resistance
+(C) Grade resistance
+(D) Axle resistance
+Answer: Option D
+Question No. 252
+If the difference in elevation of an edge of the pavement 9 m wide and its crown is 15 cm, the
+camber of the pavement, is
+(A) 1 in 60
+(B) 1 in 45
+(C) 1 in 30
+(D) 1 in 15
+Answer: Option C
+Question No. 253
+A subsidiary area in a carriageway placed so as to control the movement of the traffic, is
+(A) Median strip
+(B) Island
+(C) Flower bed
+(D) Refuge
+Answer: Option BQuestion No. 254
+Traffic engineering only includes
+(A) Planning of regulatory measures
+(B) Design and application of control devices
+(C) Analysis of traffic characteristics
+(D) All the above
+Answer: Option D
+Question No. 255
+The traffic manoeuvre means
+(A) Diverging
+(B) Merging
+(C) Crossing
+(D) All the above
+Answer: Option D
+Question No. 256
+If A is the projected area of a vehicle in square metres, V is speed of the vehicles in kilometres per
+hour and C is a constant, then the wind resistance R to the moving vehicles, is given by
+(A) R = CAV
+(B) R = CAV2
+(C) R = CAV3
+(D) R = C2AV
+Answer: Option B
+Question No. 257
+If the radius of curvature of a hill road is 50 m, the percentage grade compensation should be
+(A) 60/R
+(B) 70/R
+(C) 75/R
+(D) 80/R
+Answer: Option C
+Question No. 258
+The efficiency of the brakes of a vehicle depends upon
+(A) Condition of road surface
+(B) Condition of the tyres
+(C) Presence of the show moisture
+(D) All the above
+Answer: Option D
+Question No. 259
+On a pavement with parabolic camber, the angle of inclination of the vehicles will be
+(A) More at the crown
+(B) Less at the edges(C) More at the edges
+(D) Same at the edges as well as at the crown
+Answer: Option C
+Question No. 260
+Deviation of the alignment of a trace cut may be permitted in areas involving
+(A) Land slides
+(B) Sand dunes
+(C) Dens
+(D) None of these
+Answer: Option A
+Question No. 261
+For a 6.6 m wide two lane pavement, berms are provided on either side having a width of
+(A) 1.00 m
+(B) 1.25 m
+(C) 1.50 m
+(D) 1.75 m
+Answer: Option C
+Question No. 262
+The wall constructed for the stability of an excavated portion of a road on the hill side, is known as
+(A) Retaining wall
+(B) Breast wall
+(C) Parapet wall
+(D) All the above
+Answer: Option B
+Question No. 263
+Which one of the following transportation systems is not used for the conveyance of passengers in
+India?
+(A) Railways
+(B) Roads
+(C) Shipping
+(D) Pipe lines
+Answer: Option D
+Question No. 264
+If W is the weight of a vehicle negotiating an upgrade 1 : S along a track having co-efficient of
+T is given by
+(A) T = p / ( + S)
+(B) p = T / ( + S)
+(C) S = p / ( + T)
+(D) = p / (T + S)
+Answer: Option DQuestion No. 265
+The normal road land width for a major district road in open area, is
+(A) 45 m
+(B) 25 m
+(C) 15 m
+(D) 12 m
+Answer: Option B
+Question No. 266
+Driving vehicles on wet surfaced roads, is dangerous because it may
+(A) Skid
+(B) Slip
+(C) Overturn
+(D) All the above
+Answer: Option B
+Question No. 267
+If the rate of change of the super-elevation along a curved portion of a 7 metre wide road is 1 in
+150 and the maximum super-elevation allowed is 1 in 15, the maximum length of the transition
+curve to be provided at either end, is
+(A) 65 m
+(B) 70 m
+(C) 75 m
+(D) 80 m
+Answer: Option B
+Question No. 268
+Transverse joints are provided at distances varying from
+(A) 10 m to 15 m
+(B) 12 m to 18 m
+(C) 16 m to 24 m
+(D) 17 m to 27 m
+Answer: Option D
+Question No. 269
+Concrete pavement is provided if daily traffic per lane exceeds
+(A) 500 tonnes
+(B) 750 tonnes
+(C) 1000 tonnes
+(D) 1250 tonnes
+Answer: Option C
+Question No. 270
+While designing hair pin bends on highways, the minimum
+(A) Designed speed is 20 km/hour(B) Gradient is 1 in 40
+(C) Gradient is 1 in 200
+(D) All the above
+Answer: Option D
+Question No. 271
+If the width of a pavement slab is 7.5 m, thickness 20 cm and working stress 1400 kg/cm2, spacing
+of 10 mm tie bars for the longitudinal joint, is
+(A) 10 cm
+(B) 20 cm
+(C) 30 cm
+(D) 40 cm
+Answer: Option C
+Question No. 272
+If no super elevation is provided on a road along curves, pot holes may develop at
+(A) Inner edge of the road
+(B) Outer edge of the road
+(C) Centre of the road
+(D) Nowhere on the road
+Answer: Option B
+Question No. 273
+The safe stopping sight distance D, may be computed from the equation
+(A) D = 0.278 Vt + V²/254f
+(B) D = 0.254 Vt + V²/278f
+(C) D = 0.254 Vt + V²/225f
+(D) D = 0.225 Vt + V²/254f
+Answer: Option A
+Question No. 274
+Normal formation width of a hill road for one-way traffic, is
+(A) 3.6 m
+(B) 4.8 m
+(C) 6.6 m
+(D) 7.2 m
+Answer: Option B
+Question No. 275
+Before providing super-elevation on roads, the portion of the carriageway between the crown and
+the outer edge is made
+(A) To have a reduced fall
+(B) Horizontal
+(C) To have slope of the camber on the other half of the carriageway
+(D) None of theseAnswer: Option C
+Question No. 276
+If the rate of change of grade permitted along a vertical curve is r and total change of grade is g%,
+the length L of the curve to be provided, is
+(A) L = (r × 100/g) m
+(B) L = (g × 100/r) m
+(C) L = (r + g) × 100m
+(D) L = [100/(r + g)] m
+Answer: Option B
+Question No. 277
+The standard equation of a cubic parabolic transition curve provided on roads, is
+(A) y = x3/6 RL
+(B) y = x/6 RL
+(C) y = l²/6 RL
+(D) y = l3/6 RL
+Answer: Option A
+Question No. 278
+The traffic carrying capacity of a single lane, depends on
+(A) Type of the vehicles
+(B) Level crossings
+(C) Road intersections
+(D) All the above
+Answer: Option D
+Question No. 279
+In complex situations, total time required for a driver to form a judgement and to act, may be
+taken as
+(A) 1.0 sec
+(B) 1.5 sec
+(C) 2.0 sec
+(D) 3.0 sec
+Answer: Option D
+Question No. 280
+Full amount of extra width of a pavement on the curve, is provided at
+(A) Beginning of the transition curve
+(B) Centre of the transition curve
+(C) Beginning of the circular curve
+(D) Centre of the circular curve
+Answer: Option CQuestion No. 281
+For the movement of vehicles at an intersection of two roads, without any interference, the type
+of grade separator generally preferred to, is
+(A) Delta
+(B) Trumpet
+(C) Diamond interchange
+(D) Clover leaf
+Answer: Option D
+Question No. 282
+Minimum radius of curvature of National Highways or State highways in hill region free from
+snow, is kept
+(A) 60 m
+(B) 50 m
+(C) 33 m
+(D) 30 m
+Answer: Option B
+Question No. 283
+Width of vehicles affects the width of
+(A) Lanes
+(B) Shoulders
+(C) Parking spaces
+(D) All the above
+Answer: Option D
+Question No. 284
+The width formation of a road means the width of
+(A) Carriageway
+(B) Pavement and shoulders
+(C) Embankment at ground level
+(D) Embankment at the top level
+Answer: Option D
+Question No. 285
+The maximum safe speed on roads, depends on the
+(A) Type of road surface
+(B) Type of curves
+(C) Sight distance
+(D) All the above
+Answer: Option D
+Question No. 286
+An exceptional grade may be provided upto 1 in 12 along hill roads, if the length does not exceed
+(A) 45 m per km(B) 60 m per km
+(C) 75 m per km
+(D) 90 m per km
+Answer: Option B
+Question No. 287
+Shoulders for high traffic volume roads, should
+(A) Be stable throughout the year to be used by vehicles in the case of emergency
+(B) Support and protect the ends of carriage ways
+(C) Not allow entrance of water to sub-grade
+(D) All the above
+Answer: Option D
+Question No. 288
+If the designed speed on a circular curve of radius 1400 m is 80 km/hour, no super-elevation is
+provided, if the camber, is
+(A) 4 %
+(B) 3 %
+(C) 2 %
+(D) 1.7 %
+Answer: Option C
+Question No. 289
+If d is the thickness of a concrete pavement, the equivalent radius b of resisting section for an
+interior loading, is
+(A) b = d2) - 0.675 d
+(B) b = d2) + 0.675 d
+(C) b = d2) - 3.675 d
+(D) b = d2) - 0.675 d
+Answer: Option D
+Question No. 290
+Roughness index of roads, is expressed as
+(A) Size of the stone on the pavement
+(B) Number of patches on the pavement
+(C) Cumulative deformation of surface per horizontal distance
+(D) Type of the road surface
+Answer: Option C
+Question No. 291
+To indicate proper control of consistency of a freshly mixed concrete for pavement construction,
+the slump should be between
+(A) 3 to 5 cm
+(B) 4 to 6 cm
+(C) 5 to 7 cm(D) 7 to 10 cm
+Answer: Option D
+Question No. 292
+If the cross slope of a country is 25% to 60%, the terrain is classified as
+(A) Plain
+(B) Rolling
+(C) Steep
+(D) Mountainous
+Answer: Option D
+Question No. 293
+To prevent movement of moisture from sub-grade to road pavement at the same level as that of
+water-table, thickness of a cut off layer of coarse sand, is
+(A) 15 cm
+(B) 20 cm
+(C) 30 cm
+(D) 45 cm
+Answer: Option A
+Question No. 294
+Retaining walls are generally constructed with dry rubble stones with 60 cm top width and
+(A) 1 : 2 front batter
+(B) 1 : 3 front batter
+(C) 1 : 4 front batter
+(D) 1 : 5 front batter
+Answer: Option B
+Question No. 295
+Pick up the incorrect statement from the following:
+(A) Tresguet did not provide the top camber for the drainage of surface water
+(B) Tresguet provided the top camber for the drainage of surface water
+(C) Telford provided two layers of stones in the central 5.4 m width and one layer was provided
+on the sides
+(D) Macadam provided a camber to the formation at the dug-up state, to drain percolated water
+Answer: Option A
+Question No. 296
+In cement concrete pavements, tensile stress is due to:
+(A) Bending or deflection under wheel loads
+(B) Difference in temperature of the top and bottom of pavement
+(C) Contraction of slab during falling temperature
+(D) All the above
+Answer: Option DQuestion No. 297
+If L is the length of vehicles in metres, C is the clear distance between two consecutive vehicles
+(stopping sight distance), V is the speed of vehicles in km/hour, the maximum number N of
+vehicles/hour, is
+(A) N = 1000 V / (L + C)
+(B) N = (L + C) / 1000 V
+(C) N = 1000 L / (C + V)
+(D) N = 1000 C / (L + V)
+Answer: Option A
+Question No. 298
+Extra widening required at a horizontal curve on a single lane hill road of radius 80 m for a design
+speed of 50 km ph and for a vehicle with wheel base 6.0 m is
+(A) 0.225 m
+(B) 0.589 m
+(C) 1.250 m
+(D) None of these
+Answer: Option B
+Question No. 299
+When an up gradient of a highway meets a downgrade, the vertical curve provided, is known as
+(A) Valley curve
+(B) Sag curve
+(C) Summit curve
+(D) All the above
+Answer: Option C
+Question No. 300
+Customers prefer parking of their vehicles at
+(A) 90° to aisles
+(B) 85° to aisles
+(C) 80° to aisles
+(D) 75° to aisles
+Answer: Option D
+Question No. 301
+Parapet walls along hill roads, are provided
+(A) To retain the back filling
+(B) To prevent the hill from sliding
+(C) To prevent the wheels of the vehicle from coming on the retaining wall
+(D) None of these
+Answer: Option C
+Question No. 302
+An ideal vertical curve is(A) True spiral
+(B) Cubic spiral
+(C) Cubic parabola
+(D) None of these
+Answer: Option D
+Question No. 303
+For calculating the tractive force along an upgrade of an asphalt road, the most probable value of
+the co-efficient of traction resistance is assumed
+(A) 1/10
+(B) 1/20
+(C) 1/30
+(D) 1/100
+Answer: Option D
+Question No. 304
+If the ruling gradient on any highway is 3%, the gradient provided on the curve of 300 metre
+radius, is
+(A) 2.00 %
+(B) 2.25 %
+(C) 2.50 %
+(D) 2.75 %
+Answer: Option D
+Question No. 305
+If P is the number of vehicles per day at last census, r is the increase in traffic and n is the number
+of years passed after last census, number of vehicles A per day for design, is
+(A) P (1 + r)n
+(B) P (1 - r)n
+(C) P (1 + r)-n+5
+(D) P (1 + r)5n
+Answer: Option C
+Question No. 306
+The period of long term plan for the development of roads in India, known as Bombay Plan (Aug.
+1958), is
+(A) 5 years
+(B) 10 years
+(C) 15 years
+(D) 20 years
+Answer: Option D
+Question No. 307
+California Bearing Ratio method of designing flexible pavements is more accurate as it involves
+(A) Characteristics of soils(B) Traffic intensities
+(C) Character of the road making materials
+(D) None of these
+Answer: Option C
+Question No. 308
+The absolute minimum radius of horizontal curve for a design speed 60 kmph is
+(A) 131 m
+(B) 210 m
+(C) 360 m
+(D) None of these
+Answer: Option D
+Question No. 309
+If V is the design speed of vehicles in km/hour, the change of radial acceleration in metres/sec3, is
+(A) 65/(70 + V)
+(B) 60/(70 + V)
+(C) 70/(65 + V)
+(D) 70/(60 + V)
+Answer: Option C
+Question No. 310
+If the number of lanes on the carriageway of a road is more than two, the total width of lane ways
+is equal to 3.0 m
+(A) + 0.60 m
+(B) + 0.70 m
+(C) + 0.90 m
+(D) + 1.50 m
+Answer: Option B
+Question No. 311
+The convexity provided to the carriageway between the crown and edge of the pavement, is
+known as
+(A) Super-elevation
+(B) Camber
+(C) Height of the pavement
+(D) None of these
+Answer: Option B
+Question No. 312
+If N is the algebraic difference of grades, S is the minimum sight distance in metres, the length (L)
+of a summit curve is
+(A) NS/4
+(B) NS²/4
+(C) N²S/4(D) (NS)²/4
+Answer: Option B
+Question No. 313
+If the elevations along a road increase, the slope of the road along the longitudinal direction, is
+known as
+(A) Gradient
+(B) Grade
+(C) Positive grade
+(D) Negative grade
+Answer: Option A
+Question No. 314
+Cement grouted pavement is classified as
+(A) Rigid pavement
+(B) Semi-rigid pavement
+(C) Flexible pavement
+(D) None of these
+Answer: Option B
+Question No. 315
+Non-passing sight distance along a road is the longest distance at which the driver of a moving
+vehicle, may see an obstacle on the pavement
+(A) 10 cm high
+(B) 25 cm high
+(C) 50 cm high
+(D) 100 cm high
+Answer: Option A
+Question No. 316
+The perpendicular offset from the tan-get to the central point of the circular curve, is
+(A)
+(B)
+(C) R (1 -
+(D) R (1 -
+Answer: Option C
+Question No. 317
+The width of pavement in addition to a gravelled berm 1 m on either side for a two directional
+traffic recommended by Nagpur Conference of Chief Engineers, is
+(A) 4.7 m
+(B) 5.7 m
+(C) 6.7 m
+(D) 7.7 m
+Answer: Option CQuestion No. 318
+Minimum stopping distance for moving vehicles on road with a design speed of 80 km/hour, is
+(A) 80 m
+(B) 100 m
+(C) 120 m
+(D) 150 m
+Answer: Option C
+Question No. 319
+The top height of a route marker above crown level is
+(A) 1.50 m
+(B) 1.75 m
+(C) 2.00 m
+(D) 2.25 m
+Answer: Option D
+Question No. 320
+Along horizontal curves, if centrifugal force exceeds lateral friction, vehicles may
+(A) Skid
+(B) Slip
+(C) Not be affected
+(D) None of these
+Answer: Option A
+Question No. 321
+Pick up the incorrect statement from the following. The super-elevation on roads is
+(A) Directly proportional to width of pavement
+(B) Directly proportional to velocity of vehicles
+(C) Inversely proportional to acceleration due to gravity
+(D) Inversely proportional to the radius of curvature
+Answer: Option B
+Question No. 322
+For clear distinct vision, images of obstructions should fall on the retina with a cone of
+(A) 2°
+(B) 3°
+(C) 4°
+(D) 5°
+Answer: Option D
+Question No. 323
+The basic formula for determination of pavement thickness was first suggested by
+(A) Spangler
+(B) Picket
+(C) Kelly(D) Goldbeck
+Answer: Option D
+Question No. 324
+If metres is the distance between extreme axles of a vehicle, its gross load should not exceed
+(A) 1525 (L + 4.3) - 14.7 L2
+(B) 1526 (L + 5.3) - 14.7 L2
+(C) 1525 (L + 6.3) - 14.7 L2
+(D) 1525 (L + 7.3) - 14.7 L2
+Answer: Option D
+Question No. 325
+If x% is the gradient of an alignment and y% is the gradient after proper super-elevation along a
+curved portion of a highway, the differential grade along the curve, is
+(A) (x + y) %
+(B) (x - y) %
+(C) (y - x) %
+(D) (y + x) %
+Answer: Option C
+Question No. 326
+If At is the area of steel cross-section, t is working stress, L is width of road and W is weight of slab
+per square metre, the spacing of the tie bars for a longitudinal joint, is
+(A) (100 At × t)/WL
+(B) 100 At/tWL
+(C) (100 WAt × t)/tL
+(D) 100 WL/Att
+Answer: Option D
+Question No. 327
+The shape of a vertical curve, is
+(A) Parabolic
+(B) Elliptical
+(C) Circular
+(D) Spiral
+Answer: Option A
+Question No. 328
+If L is the length of the transition curves provided on either side of a circular curve of radius R, the
+maximum angle of deflection with tangent for the junctions of the transition curve and circular
+curve, is
+(A) L/R
+(B) L/2R
+(C) L/3R
+(D) None of theseAnswer: Option D
+Question No. 329
+The inventor of road making as a building science, was
+(A) Sully
+(B) Tresguet
+(C) Telford
+(D) Macadam
+Answer: Option A
+Question No. 330
+The desirable camber for straight roads with water bound macadam or gravel surface, is
+(A) 1 in 33 to 1 in 25
+(B) 1 in 40 to 1 in 33
+(C) 1 in 150 to 1 in 140
+(D) 1 in 160 to 1 in 140
+Answer: Option B
+Question No. 331
+The pavement width of a road depends upon
+(A) Terrain
+(B) Type of traffic
+(C) Number of lanes
+(D) All the above
+Answer: Option C
+Question No. 332
+At a road junction, 16 cross conflict points are severe, if
+(A) Both are one-way roads
+(B) Both are two-way roads
+(C) One is two-way road and other is one-way road
+(D) None of these
+Answer: Option B
+Question No. 333
+Road makers along roads from the edge of a kerb should not be less than
+(A) 40 cm
+(B) 45 cm
+(C) 50 cm
+(D) 60 cm
+Answer: Option D
+Question No. 334
+In India the modes of transportation, in the order of their importance, are
+(A) Air transport, shipping, roads, railways(B) Shipping, roads, railways, air transport
+(C) Roads, railways, air transport, shipping
+(D) Railways, roads, shipping, air transport
+Answer: Option D
+Question No. 335
+The absolute minimum sight distance required for stopping a vehicle moving with a speed of 80
+kmph, is
+(A) 120 m
+(B) 200 m
+(C) 640 m
+(D) None of these
+Answer: Option A
+Question No. 336
+The usual width of side drains along Highways in hilly region, is
+(A) 50 cm
+(B) 60 cm
+(C) 70 cm
+(D) 100 cm
+Answer: Option B
+Question No. 337
+Design of highways is based on
+(A) Axle loads
+(B) Axle spacings
+(C) Wheel bases
+(D) All the above
+Answer: Option D
+Question No. 338
+The width of the right of way in urban area, is kept between 24 m to 60 m for
+(A) National Highways
+(B) State Highways
+(C) Both (a) and (b)
+(D) None of these
+Answer: Option D
+Question No. 339
+Thickness of broken centre line markings for a four lane road, is generally kept
+(A) 10 cm
+(B) 12 cm
+(C) 15 cm
+(D) 18 cm
+Answer: Option CQuestion No. 340
+On the recommendations of Nagpur Conference, the minimum width of a village road may be
+(A) 2.45 m
+(B) 2.75 m
+(C) 3.66 m
+(D) 4.90 m
+Answer: Option A
+Question No. 341
+If N is deviation angle the length L of a parabolic vertical curve for overtaking sight distance S, is
+(A) NS²/9.6 if L > S
+(B) NS²/9.6 if L < S
+(C) 2S - 9.6/N if L < S
+(D) Both (A) and (C)
+Answer: Option D
+Question No. 342
+Maximum super-elevation on hill roads should not exceed
+(A) 5 %
+(B) 7 %
+(C) 8 %
+(D) 10 %
+Answer: Option D
+Question No. 343
+If R is the radius of a main curve and L is the length of the transition curve, the shift of the curve, is
+(A) L/24 R
+(B) L2/24 R
+(C) L3/24 R
+(D) L4/24 R
+Answer: Option B
+Question No. 344
+The length of the side of warning sign boards of roads is
+(A) 30 cm
+(B) 40 cm
+(C) 45 cm
+(D) 50 cm
+Answer: Option C
+Question No. 345
+Minimum permissible speed on high speed roads, is decided on the basis of
+(A) 15 percentile cumulative frequency
+(B) 20 percentile cumulative frequency
+(C) 30 percentile cumulative frequency(D) 40 percentile cumulative frequency
+Answer: Option A
+Question No. 346
+For the administration of road transport, a Motor Vehicle Act was enacted in
+(A) 1927
+(B) 1934
+(C) 1939
+(D) 1947
+Answer: Option C
+Question No. 347
+For maximum strength and durability minimum percentage of cement, by weight is
+(A) 15 %
+(B) 20 %
+(C) 25 %
+(D) 30 %
+Answer: Option D
+Question No. 348
+Stability of hill slopes depends upon
+(A) Nature of the slope
+(B) Angle of the slope
+(C) Geological conditions
+(D) All the above
+Answer: Option D
+Question No. 349
+The correct formula for calculating super-elevation for the hill roads, is
+(A) e = V²/254 R
+(B) e = V²/225 R
+(C) e = V²/278 R
+(D) e = V²/114 R
+Answer: Option B
+Question No. 350
+Curves in the same direction separated by short tangents, are called
+(A) Simple circular curves
+(B) Compound curves
+(C) Transition curves
+(D) Broken-back curves
+Answer: Option D
+Question No. 351
+The minimum width of the pavement of a National Highway should be(A) 4.7 m
+(B) 5.7 m
+(C) 6.7 m
+(D) 7.7 m
+Answer: Option B
+Question No. 352
+On most smooth hard surfaced roads, rolling resistance to moving vehicles, ranges from
+(A) 5 kg to 7 kg/tonne
+(B) 7 kg to 9 kg/tonne
+(C) 9 kg to 11 kg/tonne
+(D) 11 kg to 13 kg/tonne
+Answer: Option C
+Question No. 353
+Minimum radius of a simple circular curve deflecting through 5°, is
+(A) 1618.9 m
+(B) 1816.9 m
+(C) 1718.9 m
+(D) 1817.9 m
+Answer: Option C
+Question No. 354
+Depth of reinforcement below the surface of a concrete pavement, is generally kept
+(A) 5 cm
+(B) 6 cm
+(C) 7 m
+(D) 9 m
+Answer: Option A
+Question No. 355
+Degree of a road curve is defined as the angle in degrees subtended at the centre by an arc of
+(A) 10 metres
+(B) 20 metres
+(C) 25 metres
+(D) 30 metres
+Answer: Option B
+Question No. 356
+Thickness of broken line markings on multi-lane road for lanes is generally kept
+(A) 10 cm
+(B) 12 cm
+(C) 15 cm
+(D) 18 cm
+Answer: Option AQuestion No. 357
+If V is the velocity in kmph, t
+the stopping distance S of the vehicle, is
+(A) 0.28V²t + V/0.01
+(B) 0.28Vt + V²/0.1
+(C) 0.28Vt + 0.01
+(D) 0.28Vt + 0.01 V²/
+Answer: Option C
+Question No. 358
+If present A.D.T. is 5000 vehicles and annual increase is 10%, the average future flow after 5 years
+will be
+(A) 6050 vehicles
+(B) 7050 vehicles
+(C) 8050 vehicles
+(D) 9050 vehicles
+Answer: Option C
+Question No. 359
+Pick up the correct statement from the following:
+(A) Detailed survey is carried out for a strip of land about 30 m at sharp curves
+(B) Levels are taken along the trace cut at an interval of 20 m
+(C) Contour interval is generally adopted at 2 metres vertical interval
+(D) All the above
+Answer: Option D
+Question No. 360
+The maximum radial distance of a Lemniscate curve, having maximum polar angle a, is
+(A) 3 R
+(B) 3 R sin2
+(C) 3 R
+(D) 3 R
+Answer: Option C
+Question No. 361
+The minimum cross fall of shoulders is kept
+(A) 0.5 %
+(B) 1.0 %
+(C) 1.5 %
+(D) 3 %
+Answer: Option D
+Question No. 362
+The ratio of maximum deviation angle and maximum polar deflection angle of a Lemniscate curve,
+is(A) 2
+(B) 3
+(C) 4
+(D) 5
+Answer: Option B
+Question No. 363
+Roadway width for a National highways and State highways (two-lanes) is
+(A) 12 m
+(B) 9 m
+(C) 9.5 m
+(D) 15 m
+Answer: Option A
