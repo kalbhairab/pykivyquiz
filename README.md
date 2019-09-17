@@ -3,10 +3,14 @@
 Descripiton
 This is a quiz app written with python3 and Kivy.
 
+#Make apk
+I can't make apk using windows and it didn't work using vm. So if anyone make apk. Plz email me at niroula.saurav38@gmail.com
+
+
 If you want to run app. Then download "main.py", "question_answer.py" and "Test.ky".
 
-
-1. Put txt file in "Put text file here" folder encoding should be utf-8
+#If you want to make any new type of app from this app then
+1. Put txt file in "Put text file here" folder encoding should be utf-8 and pattern should be as text file put there
 2. open "1. run first.py" and run.
 	you will get "2. copy_paste.py" and "question_answer.py".
 3. open "2. copy_paste.py" and copy the items as described in cmt in "main.py" and "Test.kv" file.
