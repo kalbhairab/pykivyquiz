@@ -10,3 +10,16 @@
 note:- make test.kv in small letter as linux is case sensitive
 
 
+To make Apk
+============
+
+1. download oracle virtualbox
+2. download ubuntu iso image
+3. run ubuntu in virtualbox
+4. download install-kivy-buildozer-dependencies.sh
+5. open terminal in ubuntu where above file is located
+6. paste these in terminal
+	chmod +x install-kivy-buildozer-dependencies.sh
+	./install-kivy-buildozer-dependencies.sh
+7. If Android dependencies are outdated execute:
+	buildozer android update
