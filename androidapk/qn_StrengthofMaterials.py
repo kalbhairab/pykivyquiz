@@ -1,0 +1,1 @@
+qn_StrengthofMaterials=0
