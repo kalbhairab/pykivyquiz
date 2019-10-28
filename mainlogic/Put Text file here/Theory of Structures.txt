@@ -1,0 +1,1325 @@
+Theory of Structures
+Question No. 01
+P EI/L² is the equation of Euler's crippling load if
+(A) Both the ends are fixed
+(B) Both the ends are hinged
+(C) One end is fixed and other end is free
+(D) One end is fixed and other end is hinged
+Answer: Option A
+Question No. 02
+Pick up the correct statement from the following:
+(A) The structural member subjected to compression and whose dimensions are small as
+compared to its length, is called a stmt
+(B) The vertical compression members are generally known as columns or stanchions
+(C) Deflection in lateral direction of a long column, is generally known as buckling
+(D) All the above
+Answer: Option D
+Question No. 03
+For calculating the allowable stress of long columns 0 y/n [1 - a (1/r)²]is the empirical formula,
+known as
+(A) Straight line formula
+(B) Parabolic formula
+(C) Perry's formula
+(D) Rankine's formula
+Answer: Option B
+Question No. 04
+Maximum principal stress theory for the failure of a material at elastic point, is known
+(A) Guest's or Trecas' theory
+(B) St. Venant's theory
+(C) Rankine's theory
+(D) Von Mises' theory
+Answer: Option C
+Question No. 05
+Pick up the correct statement from the following:
+(A) The moment of inertia is calculated about the axis about which bending takes place
+(B) If tensile stress is less than axial stress, the section experiences compressive stress
+(C) If tensile stress is equal to axial stress, the section experiences compressive stress
+(D) All the above
+Answer: Option DQuestion No. 06
+A composite beam is composed of two equal strips one of brass and other of steel. If the
+temperature is raised
+(A) Steel experiences tensile force
+(B) Brass experiences compressive force
+(C) Composite beam gets subjected to a couple
+(D) All the above
+Answer: Option D
+Question No. 07
+A shaft subjected to a bending moment M and a torque T, experiences
+(A) Maximum bending stress = 32M d3
+(B) Maximum shear stress = 16 T d3
+(C) Both (a) and (b)
+(D) Neither (a) nor (b)
+Answer: Option C
+Question No. 08
+A two hinged parabolic arch of span l and rise h carries a load varying from zero at the left end to
+thrust is
+(A) /4h
+(B) /8h
+(C) /12h
+(D) /16h
+Answer: Option D
+Question No. 09
+The horizontal thrust on the ends of a two hinged semicircular arch of radius carrying
+(A)
+(B) A uniforml 4/3
+(C)
+end, is
+(D) All the above
+Answer: Option D
+Question No. 10
+Maximum strain theory for the failure of a material at the elastic limit, is known as
+(A) Guest's or Trecas' theory
+(B) St. Venant's theory
+(C) Rankine's theory
+(D) Haig's theory
+Answer: Option BQuestion No. 11
+Slenderness ratio of a long column, is
+(A) Area of cross-section divided by radius of gyration
+(B) Area of cross-section divided by least radius of gyration
+(C) Radius of gyration divided by area of cross-section
+(D) Length of column divided by least radius of gyration
+Answer: Option D
+Question No. 12
+A close coil helical spring when subjected to a moment M having its axis along the axis of the helix
+(A) It is subjected to pure bending
+(B) Its mean diameter will decrease
+(C) Its number of coils will increase
+(D) All the above
+Answer: Option A
+Question No. 13
+The ratio of the stresses produced by a suddenly applied load and by a gradually applied load on a
+bar, is
+(A) 1/4
+(B) 1/2
+(C) 1
+(D) 2
+Answer: Option D
+Question No. 14
+Maximum shear stress theory for the failure of a material at the elastic limit, is known
+(A) Guest's or Trecas' theory
+(B) St. Venant's theory
+(C) Rankine's theory
+(D) Haig's theory
+Answer: Option A
+Question No. 15
+A cantilever of length is subjected to a bending moment at its free end. If EI is the flexural
+rigidity of the section, the deflection of the free end, is
+(A) ML/EI
+(B) ML/2EI
+(C) ML²/2EI
+(D) ML²/3EI
+Answer: Option D
+Question No. 16
+Pick up the correct statement from the following:
+(A) For channels, the shear centre does not coincide its centroid(B) The point of intersection of the bending axis with the cross section of the beam, is called
+shear centre
+(C) For I sections, the shear centre coincides with the centroid of the cross section of the beam
+(D) All the above
+Answer: Option D
+Question No. 17
+Keeping breadth constant, depth of a cantilever of length of uniform strength loaded with
+uniformly distributed load varies from zero at the free end and
+(A) 2w l at the fixed end
+(B) w l) at the fixed end
+(C) w l) at the fixed end
+(D) 3w l at the fixed end
+Answer: Option B
+Question No. 18
+If a three hinged parabolic arch, (span l, rise h) is carrying a uniformly distributed load w/unit
+length over the entire span,
+(A) Horizontal thrust is wl2/8h
+(B) S.F. will be zero throughout
+(C) B.M. will be zero throughout
+(D) All the above
+Answer: Option D
+Question No. 19
+The force in BC of the truss shown in the given figure, is
+(A) 3.0 t compression
+(B) 3.0 t tension
+(C) t tension
+(D) t compression
+Answer: Option C
+Question No. 20
+P = /L² is the equation for Euler's crippling load if
+(A) Both the ends are fixed
+(B) Both the ends are hinged
+(C) One end is fixed and other end is free
+(D) One end is fixed and other end is hingedAnswer: Option B
+Question No. 21
+The degree of indeterminacy of the frame in the given figure, is
+(A) Zero
+(B) 1
+(C) 2
+(D) 3
+Answer: Option B
+Question No. 22
+The forces in the members of simple trusses, may be analysed by
+(A) Graphical method
+(B) Method of joints
+(C) Method of sections
+(D) All the above
+Answer: Option D
+Question No. 23
+A simply supported beam A carries a point load at its mid span. Another identical beam B carries
+the same load but uniformly distributed over the entire span. The ratio of the maximum
+deflections of the beams A and B, will be
+(A) 2/3
+(B) 3/2
+(C) 5/8
+(D) 8/5
+Answer: Option D
+Question No. 24
+A road of uniform cross-section A and length L
+force P. The Young's Modulus E of the material, is
+(A) E = /A. L
+(B) E = /P. L
+(C) E = P. L/
+(D) E = P. A/
+Answer: Option CQuestion No. 25
+In case of a simply supported I-section beam of span L and loaded with a central load W, the
+length of elasto-plastic zone of the plastic hinge, is
+(A) L/2
+(B) L/3
+(C) L/4
+(D) L/5
+Answer: Option D
+Question No. 26
+The yield moment of a cross section is defined as the moment that will just produce the yield
+stress in
+(A) The outer most fibre of the section
+(B) The inner most fibre of the section
+(C) The neutral fibre of the section
+(D) The fibre everywhere
+Answer: Option A
+Question No. 27
+If Ix and Iy are the moments of inertia of a section about X and Y axes, the polar moment of inertia
+of the section, is
+(A) (IX + IY)/2
+(B) (IX - IY)/2
+(C) IX + IY
+(D) (IX/IY)
+Answer: Option C
+Question No. 28
+A simply supported beam carries varying load from zero at one end and w at the other end. If the
+length of the beam is a, the maximum bending moment will be
+(A) wa/27
+(B) wa²/27
+(C) w²a
+(D) wa²
+Answer: Option D
+Question No. 29
+If E, N, K and 1/m are modulus of elasticity, modulus of rigidity. Bulk modulus and Poisson ratio of
+the material, the following relationship holds good
+(A) E = 3K (1 - 2/m)
+(B) E = 2N (1 + 1/m)
+(C) (3/2)K (1 - 2/m) = N (1 + 1/m)
+(D) All the above
+Answer: Option DQuestion No. 30
+The forces acting on the bar as shown in the given figure introduce
+(A) Compressive stress
+(B) Tensile stress
+(C) Shear stress
+(D) None of these
+Answer: Option C
+Question No. 31
+Gradually applied static loads do not change with time their
+(A) Magnitude
+(B) Direction
+(C) Point of application
+(D) All the above
+Answer: Option D
+Question No. 32
+The tangential component of stre
+obtained by multiplying the normal stress by
+(A)
+(B)
+(C)
+(D) sin2
+Answer: Option D
+Question No. 33
+A body is said to be in equilibrium if
+(A) It moves horizontally
+(B) It moves vertically
+(C) It rotates about its C.G.
+(D) None of these
+Answer: Option D
+Question No. 34
+Pick up the incorrect statement from the following: The torsional resistance of a shaft is directly
+proportional to
+(A) Modulus of rigidity(B) Angle of twist
+(C) Reciprocal of the length of the shaft
+(D) Moment of inertia of the shaft section
+Answer: Option D
+Question No. 35
+The forces acting normally on the cross section of a bar shown in the given figure introduce
+(A) Compressive stress
+(B) Tensile stress
+(C) Shear stress
+(D) None of these
+Answer: Option B
+Question No. 36
+The ratio of circumferential stress to the longitudinal stress in the walls of a cylindrical shell, due
+to flowing liquid, is
+(A) ½
+(B) 1
+(C) 1½
+(D) 2
+Answer: Option D
+Question No. 37
+The load on a spring per unit deflection, is called
+(A) Stiffness
+(B) Proof resilience
+(C) Proof stress
+(D) Proof load
+Answer: Option A
+Question No. 38
+A compound bar consists of two bars of equal length. Steel bar cross-section is 3500 mm2and that
+of brass bar is 3000 mm2. These are subjected to a compressive load 100,000 N. If Eb = 0.2
+MN/mm2 and Eb = 0.1 MN/mm2, the stresses developed are:(A) b = 10 N/mm2 s = 20 N/mm2
+(B) b = 8 N/mm2 s = 16 N/mm2
+(C) b = 6 N/mm2 s = 12 N/mm2
+(D) b = 5 N/mm2 s = 10 N/mm2
+Answer: Option A
+Question No. 39
+A close coil helical spring of mean diameter D consists of n coils of diameter d. If it carries an axial
+load W, the energy stored in the spring, is
+(A) 4WD²n/d4N
+(B) 4W²Dn/d4N
+(C) 4W²D3n/d4N
+(D) 4W²D3n²/d4N
+Answer: Option C
+Question No. 40
+The degree of indeterminacy of the frame in the given figure, is
+(A) 1
+(B) 2
+(C) 3
+(D) Zero
+Answer: Option C
+Question No. 41
+1 2respectively, the
+(A) 1 2
+(B) 1 2 2 cos2
+(C) 1 - 2
+(D) 1 2) si
+Answer: Option B
+Question No. 42
+The moment of inertia of a triangular section (height h, base b) about its base, is
+(A) bh²/12
+(B) b²h/12
+(C) bh3/12(D) b3h/12
+Answer: Option C
+Question No. 43
+Shear centre of a half circular section of radius and of constant thickness, lies at a distance
+of from the centre where is
+(A)
+(B)
+(C)
+(D)
+Answer: Option D
+Question No. 44
+The assumption in the theory of bending of beams is:
+(A) Material is homogeneous
+(B) Material is isotropic
+(C) Young's modulus is same in tension as well as in compression
+(D) All the above
+Answer: Option D
+Question No. 45
+For determining the force in the member AB of the truss shown in the given figure by method of
+sections, the section is made to pass through AB, AD and ED and the moments are taken about
+(A) Joint C
+(B) Joint B
+(C) Joint D
+(D) Joint A
+Answer: Option C
+Question No. 46
+A concentrated load P is supported by the free end of a quadrantal ring AB whose end B is fixed.
+The ratio of the vertical to horizontal deflections of the end A, is
+(A)
+(B) /2
+(C) /3
+(D) /4Answer: Option B
+Question No. 47
+The ratio of crippling loads of a column having both the ends fixed to the column having both the
+ends hinged, is
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+Answer: Option D
+Question No. 48
+A load of 1960 N is raised at the end of a steel wire. The minimum diameter of the wire so that
+stress in the wire does not exceed 100 N/mm2 is:
+(A) 4.0 mm
+(B) 4.5 mm
+(C) 5.0 mm
+(D) 5.5 mm
+Answer: Option C
+Question No. 49
+of th
+(A) 45°
+(B) 30°
+(C) 60°
+(D) 90°
+Answer: Option A
+Question No. 50
+The maximum deflection due to a uniformly distributed load w/unit length over entire span of a
+cantilever of length l and of flexural rigidly EI, is
+(A) wl3/3EI
+(B) wl4/3EI
+(C) wl4/8EI
+(D) wl4/12EI
+Answer: Option C
+Question No. 51
+A compound truss may be formed by connecting two simple rigid frames, by
+(A) Two bars
+(B) Three bars
+(C) Three parallel bars
+(D) Three bars intersecting at a point
+Answer: Option BQuestion No. 52
+The forces acting normally on the cross section of a bar shown in the given figure introduce
+(A) Compressive stress
+(B) Tensile stress
+(C) Shear stress
+(D) None of these
+Answer: Option A
+Question No. 53
+A spring of mean radius 40 mm contains 8 action coils of steel (N = 80000 N/mm2), 4 mm in
+diameter. The clearance between the coils being 1 mm when unloaded, the minimum compressive
+load to remove the clearance, is
+(A) 25 N
+(B) 30 N
+(C) 35 N
+(D) 40 N
+Answer: Option C
+Question No. 54
+If a solid shaft (diameter 20 cm, length 400 cm, N = 0.8 × 105 N/mm2) when subjected to a twisting
+moment, produces maximum shear stress of 50 N/mm2, the angle of twist in radians, is
+(A) 0.001
+(B) 0.002
+(C) 0.0025
+(D) 0.003
+Answer: Option C
+Question No. 55
+The strain energy stored in a spring when subjected to greatest load without being permanently
+distorted, is called
+(A) Stiffness
+(B) Proof resilience
+(C) Proof stress
+(D) Proof load
+Answer: Option BQuestion No. 56
+To determine the force in BD of the truss shown in the given figure a section is passed
+through BD, CD and CE, and the moments are taken about
+(A) A joint
+(B) B joint
+(C) C joint
+(D) D joint
+Answer: Option C
+Question No. 57
+The strain energy due to volumetric strain
+(A) Is directly proportional to the volume
+(B) Is directly proportional to the square of exerted pressure
+(C) Is inversely proportional to Bulk modulus
+(D) All the above
+Answer: Option D
+Question No. 58
+A simply supported uniform rectangular bar breadth b, depth d and length L carries an isolated
+load W at its mid-span. The same bar experiences an extension e under same tensile load. The
+ratio of the maximum deflection to the elongation, is
+(A) L/d
+(B) L/2d
+(C) (L/2d)²
+(D) (L/3d)²
+Answer: Option C
+Question No. 59
+A simply supported beam which carries a uniformly distributed load has two equal overhangs. To
+have maximum B.M. produced in the beam least possible, the ratio of the length of the overhang
+to the total length of the beam, is
+(A) 0.207
+(B) 0.307
+(C) 0.407
+(D) 0.508
+Answer: Option AQuestion No. 60
+In the truss shown in given figure the force in member DC is
+(A) 100 t compressive
+(B) 100 t tensile
+(C) Zero
+(D) Indeterminate
+Answer: Option C
+Question No. 61
+Pick up the correct statement from the following:
+(A) A wire wound in spiral form, is called a helical spring
+(B) The pitch of a close coil spring, is very small
+(C) The angle made by the coil with horizontal, is called the angle of helix
+(D) All the above
+Answer: Option D
+Question No. 62
+The ratio of lateral strain to axial strain of a homogeneous material, is known
+(A) Yield ratio
+(B) Hooke's ratio
+(C) Poisson's ratio
+(D) Plastic ratio
+Answer: Option C
+Question No. 63
+A short column (30 cm × 20 cm) carries a load P1 at 4 cm on one side and another load P2at 8 cm on
+the other side along a principal section parallel to longer dimension. If the extreme intensity on
+either side is same, the ratio of P1 to P2 will be
+(A) 2/3
+(B) 3/2
+(C) 8/5
+(D) 5/8
+Answer: Option CQuestion No. 64
+The force in BF of the truss shown in given figure, is
+(A) 4t tension
+(B) 4t compression
+(C) 4.5t tension
+(D) 4.5t compression
+Answer: Option D
+Question No. 65
+For beams breadth is constant,
+(A) Depth d M
+(B) Depth d
+(C) Depth d 3
+(D) Depth d 1/M
+Answer: Option B
+Question No. 66
+The ratio of maximum shear stress to average shear stress of a circular beam, is
+(A) 2/3
+(B) 3/2
+(C) 3/4
+(D) 4/3
+Answer: Option D
+Question No. 67
+For calculating the permissible stress 0 y /[(1 + a(l/r)²] is the empirical formula, known as
+(A) Straight line formula
+(B) Parabolic formula
+(C) Perry's formula
+(D) Rankine's formula
+Answer: Option D
+Question No. 68
+Pick up the correct statement from the following:
+(A) In a loaded beam, the moment at which the first yield occurs is called yield moment(B) In a loaded beam, the moment at which the entire section of the beam becomes fully
+plastic, is called plastic moment
+(C) In a fully plastic stage of the beam, the neutral axis divides the section in two sections of
+equal area
+(D) All the above
+Answer: Option D
+Question No. 69
+For a strongest rectangular beam cut from a circular log, the ratio of the width and depth, is
+(A) 0.303
+(B) 0.404
+(C) 0.505
+(D) 0.707
+Answer: Option D
+Question No. 70
+Pick up the correct statement from the following:
+(A) Mcg = M M2 + r2) where letters carry their usual meanings
+(B) Tcp = m2 + T2)where letters carry their usual meanings
+(C) The torque which when acting alone would produce maximum shear stress equal to the
+maximum shear stress caused by the combined bending and torsion, is called equivalent
+torque
+(D) All the above
+Answer: Option D
+Question No. 71
+m1 and m2 are the members of two individual simple trusses of a compound truss. The compound
+truss will be rigid and determinate if
+(A) m = m1 + m2
+(B) m = m1 + m2 + 1
+(C) m = m1 + m2 + 2
+(D) m = m1 + m2 + 3
+Answer: Option D
+Question No. 72
+The maximum B.M. due to an isolated load in a three hinged parabolic arch, (span l and rise h)
+having one of its hinges at the crown, occurs on either side of the crown at a distance
+(A) l/4
+(B) h/4
+(C) l
+(D) l
+Answer: Option CQuestion No. 73
+The greatest load which a spring can carry without getting permanently distorted, is called
+(A) Stiffness
+(B) Proof resilience
+(C) Proof stress
+(D) Proof load
+Answer: Option D
+Question No. 74
+The force in AC of the truss shown in the given figure, is
+(A) 5t tension
+(B) 4t tension
+(C) 4t compression
+(D) 5t compression
+Answer: Option B
+Question No. 75
+A bar L metre long and having its area of cross-section A, is subjected to a gradually applied tensile
+load W. The strain energy stored in the bar is
+(A) WL/2AE
+(B) WL/AE
+(C) W²L/AE
+(D) W²L/2AE
+Answer: Option D
+Question No. 76
+The maximum bending moment for a simply supported beam with a uniformly distributed
+load w/unit length, is
+(A) WI/2
+(B) WI²/4
+(C) WI²/8
+(D) WI²/12
+Answer: Option C
+Question No. 77
+An isolated load W is acting at a distance a from the left hand support, of a three hinged arch of
+span 2l and rise h hinged at the crown, the horizontal reaction at the support, is
+(A) Wa/h(B) Wa/2h
+(C) 2W/ha
+(D) 2h/Wa
+Answer: Option B
+Question No. 78
+The force in CD of the truss shown in given figure, is
+(A) 3t compression
+(B) 3t tension
+(C) Zero
+(D) 1.5t compression
+Answer: Option C
+Question No. 79
+At any point of a beam, the section modulus may be obtained by dividing the moment of inertia of
+the section by
+(A) Depth of the section
+(B) Depth of the neutral axis
+(C) Maximum tensile stress at the section
+(D) Maximum compressive stress at the section
+Answer: Option B
+Question No. 80
+The ratio of the area of cross-section of a circular section to the area of its core, is
+(A) 4
+(B) 8
+(C) 12
+(D) 16
+Answer: Option D
+Question No. 81
+The ratio of maximum and average shear stresses on a rectangular section, is
+(A) 1
+(B) 1.25
+(C) 1.5
+(D) 2.5
+Answer: Option CQuestion No. 82
+In the truss shown in the given figure, the force in member BC is
+(A) 100 t compressive
+(B) 100 t tensile
+(C) Zero
+(D) Indeterminate
+Answer: Option C
+Question No. 83
+If a concrete column 200 × 200 mm in cross-section is reinforced with four steel bars of 1200
+mm2 total cross-sectional area. Calculate the safe load for the column if permissible stress in
+concrete is 5 N/mm2 and Es is 15 Ec
+(A) 264 MN
+(B) 274 MN
+(C) 284 MN
+(D) 294 MN
+Answer: Option C
+Question No. 84
+In plastic analysis, the shape factor for rectangular section, is
+(A) 1.4
+(B) 1.5
+(C) 1.6
+(D) 1.7
+Answer: Option B
+Question No. 85
+A masonry dam (density = 20,000 N/m3) 6 m high, one metre wide at the top and 4 m wide at the
+base, has vertical water face. The minimum stress at the base of the dam when the reservoir is
+full, will be
+(A) 75 N/m2
+(B) 750 N/m2
+(C) 7500 N/m2
+(D) 75000 N/m2
+Answer: Option CQuestion No. 86
+A material is said to be perfectly elastic if
+(A) It regains its original shape on removal of the load
+(B) It regains its original shape partially on removal of the load
+(C) It does not regain its original shape at all
+(D) None of these
+Answer: Option A
+Question No. 87
+A shaft rotating N.R.M. under a torque T, transmits a power
+(A) /30 Newton metres/sec
+(B) /30 Newton metres/min
+(C) /60 Newton metres/min
+(D) /60 Newton metres/sec
+Answer: Option A
+Question No. 88
+If Q is load factor, S is shape factor and F is factor of safety in elastic design, the following:
+(A) Q = S + F
+(B) Q = S - F
+(C) Q = F - S
+(D) Q = S × F
+Answer: Option D
+Question No. 89
+The maximum deflection due to a load W at the free end of a cantilever of length L and having
+flexural rigidity EI, is
+(A) WL²/2EI
+(B) WL²/3EI
+(C) WL3/2EI
+(D) WL3/3EI
+Answer: Option D
+Question No. 90
+Pick up the correct statement from the following:
+(A) For a uniformly distributed load, the shear force varies linearly
+(B) For a uniformly distributed load, B.M. curve is a parabola
+(C) For a load varying linearly, the shear force curve is a parabola
+(D) All the above
+Answer: Option D
+Question No. 91
+The ratio of the length and depth of a simply supported rectangular beam which experiences
+maximum bending stress equal to tensile stress, due to same load at its mid span, is
+(A) 1/2(B) 2/3
+(C) 1/4
+(D) 1/3
+Answer: Option B
+Question No. 92
+A simply supported rolled steel joist 8 m long carries a uniformly distributed load over it span so
+that the maximum bending stress is 75 N/mm². If the slope at the ends is 0.005 radian and the
+value of E = 0.2 × 106 N/mm2, the depth of the joist, is
+(A) 200 mm
+(B) 250 mm
+(C) 300 mm
+(D) 400 mm
+Answer: Option D
+Question No. 93
+The force in EC of the truss shown in the given figure, is
+(A) Zero
+(B) 5t tension
+(C) 5t compression
+(D) 4t tension
+Answer: Option C
+Question No. 94
+The area of the core of a column of cross sectional area A, is
+(A) (1/3) A
+(B) (1/6) A
+(C) (1/12) A
+(D) (1/18) A
+Answer: Option D
+Question No. 95
+If and are external and internal diameters of a circular shaft respectively, its polar moment
+of inertia, is
+(A) D4 - d4)
+(B) D4 - d4)(C) D4 - d4)
+(D) D4 - d4)
+Answer: Option D
+Question No. 96
+The force in AD of the truss shown in given figure, is
+(A) 4.0t compression
+(B) 3.0t compression
+(C) 0.5t compression
+(D) 0.5t tension
+Answer: Option C
+Question No. 97
+The equivalent length of a column of length L, having one end fixed and other end hinged, is
+(A) 2L
+(B) L
+(C) L/2
+(D) L
+Answer: Option D
+Question No. 98
+By applying the static equations i.e. H V M = 0, to a determinate structure, we may
+determine
+(A) Supporting reactions only
+(B) Shear forces only
+(C) Bending moments only
+(D) All the above
+Answer: Option D
+Question No. 99
+A lift of weight W is lifted by a rope with an acceleration f. If the area of cross-section of the rope
+is A, the stress in the rope is
+(A) [W (1 + f/G)]/A
+(B) (1 - g/f)/A
+(C) [W (2 + f/G)]/A
+(D) [W (2 + g/f)]/AAnswer: Option A
+Question No. 100
+Co-efficient of wind resistance of a circular surface, is
+(A) 1/2
+(B) 1/3
+(C) 2/3
+(D) 3/2
+Answer: Option C
+Question No. 101
+The equation of a parabolic arch of span and rise , is given by
+(A) y = h/l² × (1 - x)
+(B) y = 2h/l² × (1 - x)
+(C) y = 3h/l² × (1 - x)
+(D) y = 4h/l² × (1 - x)
+Answer: Option D
+Question No. 102
+A rectangular column shown in the given figure carries a load P having eccentricities ex
+and e
+y along X and Y axes. The stress at any point (x, y) is
+(A) (p/bd) [1 + (12ey. y/d²) + (12ex. x/d²)]
+(B) p [1 + (6ey. y/b) + (6ex. x/b)]
+(C) (p/bd) [1 + (6ey. y/d) + (6ex. x/b)]
+(D) (p/bd) [1 + (ey. y/d) + (ex. x/d)]
+Answer: Option A
+Question No. 103
+In case of principal axes of a section
+(A) Sum of moment of inertia is zero
+(B) Difference of moment inertia is zero
+(C) Product of moment of inertia is zero
+(D) None of these
+Answer: Option CQuestion No. 104
+A simply supported beam carries a varying load from zero at one end and w at the other end. If
+the length of the beam is a, the shear force will be zero at a distance x from least loaded point
+where x is
+(A) a/2
+(B) a/3
+(C) a
+(D) a
+Answer: Option C
+Question No. 105
+The locus of the end point of the resultant of the normal and tangential components of the stress
+on an inclined plane, is
+(A) Circle
+(B) Parabola
+(C) Ellipse
+(D) Straight line
+Answer: Option C
+Question No. 106
+The shape factor of standard rolled beam section varies from
+(A) 1.10 to 1.20
+(B) 1.20 to 1.30
+(C) 1.30 to 1.40
+(D) 1.40 to 1.50
+Answer: Option A
+Question No. 107
+In the cable shown in the given figure, the minimum tension occurs at
+(A) A
+(B) B
+(C) C
+(D) Between A and C
+Answer: Option C
+Question No. 108
+Principal planes are subjected to
+(A) Normal stresses only
+(B) Tangential stresses only(C) Normal stresses as well as tangential stresses
+(D) None of these
+Answer: Option A
+Question No. 109
+Ab and Ac are the cross sections of bronze and copper bars of equal lengt b c are their
+respective stresses due to load P. If Pb and Pc are the loads shared by them, (where Eb and Ec are
+their modulii).
+(A) b c = Eb /Ec
+(B) P = Pb + Pc
+(C) P = Ab b + Ac b
+(D) All the above
+Answer: Option D
+Question No. 110
+A rolled steel joist is simply supported at its ends and carries a uniformly distributed load which
+causes a maximum deflection of 10 mm and slope at the ends of 0.002 radian. The length of the
+joist will be,
+(A) 10 m
+(B) 12 m
+(C) 14 m
+(D) 16 m
+Answer: Option D
+Question No. 111
+If the strain energy stored per unit volume in a hollow shaft subjected to a pure torque
+when t attains maximum shear stress fs the ratio of inner diameter to outer diameter, is 17/64
+(fs/N)
+(A) 1/2
+(B) 1/3
+(C) 1/4
+(D) 1/5
+Answer: Option C
+Question No. 112
+H V are the algebraic sums of the forces resolved horizontally and vertically respectively,
+M is the algebraic sum of the moments of forces about any point, for the equilibrium of the
+body acted upon
+(A) H = 0
+(B) V = 0
+(C) M = 0
+(D) All the above
+Answer: Option DQuestion No. 113
+The eccentricity (e) of a hollow circular column, external diameter 25 cm, internal diameter 15 cm
+for an eccentric load 100 t for non-development of tension, is
+(A) 2.75 cm
+(B) 3.00 cm
+(C) 3.50 cm
+(D) 4.25 cm
+Answer: Option D
+Question No. 114
+A steel rod of sectional area 250 sq. mm connects two parallel walls 5 m apart. The nuts at the
+ends were tightened when the rod was heated to 100°C. If steel = 0.000012/C°, Esteel = 0.2
+MN/mm2, the tensile force developed at a temperature of 50°C, is
+(A) 80 N/mm2
+(B) 100 N/mm2
+(C) 120 N/mm2
+(D) 150 N/mm2
+Answer: Option C
+Question No. 115
+In the truss shown in given figure, the force in member BD is
+(A) 100 t compressive
+(B) 100 t tensile
+(C) Zero
+(D) Indeterminate
+Answer: Option A
+Question No. 116
+P = /4L² is the equation of Euler's crippling load, if
+(A) Both the ends are fixed
+(B) Both the ends are hinged
+(C) One end is fixed and other end is free
+(D) One end is fixed and other end is hinged
+Answer: Option CQuestion No. 117
+The moment of inertia of a circular section about any diameter D, is
+(A) /64
+(B) 4/32
+(C) 3/64
+(D) 4/64
+Answer: Option D
+Question No. 118
+The S.F. diagram of a loaded beam shown in the given figure is that of
+(A) A simply supported beam with isolated central load
+(B) A simply supported beam with uniformly distributed load
+(C) A cantilever with an isolated load at the free end
+(D) A cantilever with a uniformly distributed load
+Answer: Option D
+Question No. 119
+If M, I, R, E, F, and Y are the bending moment, moment of inertia, radius of curvature, modulus of
+elasticity stress and the depth of the neutral axis at section, then
+(A) M/I = R/E = F/Y
+(B) I/M = R/E = F/Y
+(C) M/I = E/R = E/Y
+(D) M/I = E/R = Y/F
+Answer: Option C
+Question No. 120
+Shear strain energy theory for the failure of a material at elastic limit, is due to
+(A) Rankine
+(B) Guest or Trecas
+(C) St. Venant
+(D) Von Mises
+Answer: Option D
+Question No. 121
+1 2respectively,
+the tangent
+(A) 1 2
+(B) 1 2 cos2
+(C) 1 - 2(D) 1 2
+Answer: Option C
+Question No. 122
+The radius of gyration of a section of area A and least moment of inertia I about the centroidal
+axis, is
+(A) A/I
+(B) I/A
+(C) /A)
+(D) /I)
+Answer: Option C
+Question No. 123
+The locus of the moment of inertia about inclined axes to the principal axis, is
+(A) Straight line
+(B) Parabola
+(C) Circle
+(D) Ellipse
+Answer: Option D
+Question No. 124
+Beams composed of more than one material, rigidly connected together so as to behave as one
+piece, are known as
+(A) Compound beams
+(B) Indeterminate beams
+(C) Determinate beams
+(D) Composite beams
+Answer: Option D
+Question No. 125
+A steel plate d × b is sandwiched rigidly between two timber joists each D × B/2 in section. The
+steel will be (where Young's modulus of steel is m times that of the timber).
+(A) BD² + mbd²)/6D]
+(B) BD3 + mbd3)/6D]
+(C) BD² + mbd3)/4D]
+(D) BD² + mbd²)/4D]
+Answer: Option B
+Question No. 126
+The general expression for the B.M. of a beam of length l is the beam carries M = (wl/2) x - (wx²/2)
+(A) A uniformly distributed load w/unit length
+(B) A load varying linearly from zero at one end to w at the other end
+(C) An isolated load at mid span
+(D) None of theseAnswer: Option A
+Question No. 127
+In a shaft, the shear stress is not directly proportional to
+(A) Radius of the shaft
+(B) Angle of twist
+(C) Length of the shaft
+(D) Modulus of rigidity
+Answer: Option C
+Question No. 128
+In the truss, the force in the member AC is
+(A) 6.25 t compressive
+(B) 8.75 t tensile
+(C) t tensile
+(D) t compressive
+Answer: Option D
+Question No. 129
+The maximum deflection of a simply supported beam of span L, carrying an isolated load at the
+centre of the span; flexural rigidity being EI, is
+(A) WL3/3EL
+(B) WL3/8EL
+(C) WL3/24EL
+(D) WL3/48EL
+Answer: Option D
+Question No. 130
+The point of contraflexure is the point where
+(A) B.M. changes sign
+(B) B.M. is maximum
+(C) B.M. is minimum
+(D) S.F. is zero
+Answer: Option AQuestion No. 131
+A steel bar 20 mm in diameter simply-supported at its ends over a total span of 40 cm carries a
+load at its centre. If the maximum stress induced in the bar is limited to N/mm2, the bending
+strain energy stored in the bar, is
+(A) 411 N mm
+(B) 511 N mm
+(C) 611 N mm
+(D) 711 N mm
+Answer: Option C
+Question No. 132
+Keeping the depth d constant, the width of a cantilever of length l of uniform strength loaded with
+a uniformly distributed load w varies from zero at the free end and
+(A) (2w/ × l² at the fixed end
+(B) (3w/ × l² at the fixed end
+(C) (3w/ × l² at the fixed end
+(D) (5w/ × l² at the fixed end
+Answer: Option C
+Question No. 133
+The equivalent length is of a column of length having both the ends fixed, is
+(A) 2L
+(B) L
+(C) L/2
+(D) L
+Answer: Option C
+Question No. 134
+For calculating the allowable stress of long columns. The empirical formula 0 y/n) (1 - a l/r), is
+known as
+(A) Straight line formula
+(B) Parabolic formula
+(C) Perry's formula
+(D) Rankine's formula
+Answer: Option A
+Question No. 135
+The equivalent length of a column of length L having one end fixed and the other end free, is
+(A) 2L
+(B) L
+(C) L/2
+(D) L
+Answer: Option AQuestion No. 136
+For determining the support reactions at A and B of a three hinged arch, points B and Care joined
+and produced to intersect the load line at D and a line parallel to the load line through A at D'.
+Distances AD, DD' and AD' when measured were 4 cm, 3 cm and 5 cm respectively. The angle
+between the reactions at A and B is
+(A) 30°
+(B) 45°
+(C) 60°
+(D) 90°
+Answer: Option D
+Question No. 137
+The deflection of a uniform circular bar of diameter d and length , which extends by an
+amount under a tensile pull , when it carries the same load at its mid-span, is
+(A) el/2d
+(B) e²l/3d²
+(C) el²/3d²
+(D) e²l²/3d²
+Answer: Option C
+Question No. 138
+The ratio of the maximum deflections of a simply supported beam with a central load W and of a
+cantilever of same length and with a load W at its free end, is
+(A) 1/8
+(B) 1/10
+(C) 1/12
+(D) 1/16
+Answer: Option D
+Question No. 139
+The radius of gyration of a rectangular section (depth D, width B) from a centroidal axis parallel to
+the width is
+(A) D/2
+(B) D
+(C) D
+(D) D
+Answer: Option C
+Question No. 140
+A square column carries a load P at the centroid of one of the quarters of the square. If a is the
+side of the main square, the combined bending stress will be
+(A) p/a²
+(B) 2p/a²
+(C) 3p/a²
+(D) 4p/a²Answer: Option C
+Question No. 141
+The moment of inertia of a rectangular section of width and depth about an axis passing
+through C.G. and parallel to its width is
+(A) BD²/6
+(B) BD3/6
+(C) BD3/12
+(D) B²D/6
+Answer: Option C
+Question No. 142
+The normal component of a force inclined thro
+(A)
+(B)
+(C)
+(D)
+Answer: Option D
+Question No. 143
+The ratio of the section modulus of a square section of side B and that of a circular section of
+diameter D, is
+(A) 2 /15
+(B) 3 /16
+(C) 3 /8
+(D) /16
+Answer: Option B
+Question No. 144
+A material may fail if
+(A) 0
+(B) Maximum strain exceeds 0/E
+(C) Maximum shear stress exceeds 0/2
+(D) All the above
+Answer: Option D
+Question No. 145
+The ratio of tangential and normal compone
+direction of the force is:
+(A)
+(B)
+(C)
+(D)
+Answer: Option CQuestion No. 146
+A shaft is subjected to bending moment M and a torque T simultaneously. The ratio of the
+maximum bending stress to maximum shear stress developed in the shaft, is
+(A) M/T
+(B) T/M
+(C) 2M/T
+(D) 2T/M
+Answer: Option C
+Question No. 147
+The maximum height of a masonry dam of a triangular section whose base width is b and specific
+gravity s, is
+(A)
+(B) b.s
+(C)
+(D) s b
+Answer: Option A
+Question No. 148
+A bar of square section of area a2 is held such that its one of its diameters is vertical. The
+maximum shear stress will develop at a depth h where h is
+(A)
+(B)
+(C)
+(D)
+Answer: Option B
+Question No. 149
+A cantilever of length 2 cm and depth 10 cm tapers in plan from a width 24 cm to zero at its free
+end. If the modulus of elasticity of the material is 0.2 × 106 N/mm2, the deflection of the free end,
+is
+(A) 2 mm
+(B) 3 mm
+(C) 4 mm
+(D) 5 mm
+Answer: Option D
+Question No. 150
+The locus of reaction of a two hinged semi-circular arch, is
+(A) Straight line
+(B) Parabola
+(C) Circle
+(D) Hyperbola
+Answer: Option AQuestion No. 151
+0. At its elastic limit, the following
+statement is true,
+(A) Strain is equal to 0/E
+(B) Maximum shear stress = 0/2
+(C) Strain energy = 0²/2E × volume
+(D) All the above
+Answer: Option D
+Question No. 152
+A truss containing j joints and m members, will be a simple truss if
+(A) m = 2j - 3
+(B) j = 2m - 3
+(C) m = 3j - 2
+(D) j = 3m - 2
+Answer: Option A
+Question No. 153
+In plastic analysis, the shape factor for a triangular section, is
+(A) 1.5
+(B) 1.34
+(C) 2.34
+(D) 2.5
+Answer: Option C
+Question No. 154
+A three hinged arch is generally hinged at its supports and
+(A) At one quarter span
+(B) At the crown
+(C) Anywhere in the rib
+(D) None of these
+Answer: Option C
+Question No. 155
+A steel bar 5 m × 50 mm is loaded with 250,000 N. If the modulus of elasticity of the material is 0.2
+MN/mm2 and Poisson's ratio is 0.25, the change in the volume of the bar is:
+(A) 1.125 cm3
+(B) 2.125 cm3
+(C) 3.125 cm3
+(D) 4.125 cm2
+Answer: Option C
+Question No. 156
+Stress may be defined as
+(A) Force per unit length(B) Force per unit volume
+(C) Force per unit area
+(D) None of these
+Answer: Option C
+Question No. 157
+A steel rod 1 metre long having square cross section is pulled under a tensile load of 8 tonnes. The
+extension in the rod was 1 mm only. If Esteel = 2 × 106 kg/cm2, the side of the rod, is
+(A) 1 cm
+(B) 1.5 cm
+(C) 2 cm
+(D) 2.5 cm
+Answer: Option C
+Question No. 158
+The equivalent length of a column of length L, having both the ends hinged, is
+(A) 2L
+(B) L
+(C) L/2
+(D) L
+Answer: Option B
+Question No. 159
+Pick up the correct statement from the following:
+(A) The bending stress in a section is zero at its neutral axis and maximum at the outer fibres
+(B) The shear stress is zero at the outer fibres and maximum at the neutral axis
+(C) The bending stress at the outer fibres, is known as principal stress
+(D) All the above
+Answer: Option D
+Question No. 160
+Total strain energy theory for the failure of a material at elastic limit, is known
+(A) Guest's or Trecas' theory
+(B) St. Venant's theory
+(C) Rankine's theory
+(D) Haig's theory
+Answer: Option D
+Question No. 161
+There are two hinged semicircular arches A, B and C of radii 5 m, 7.5 m and 10 m respectively and
+each carries a concentrated load W at their crowns. The horizontal thrust at their supports will be
+in the ratio of
+(A) 1 : 1½ : 2
+(B) 2 : 1½ : 1
+(C) 1 : 1 : 2(D) None of these
+Answer: Option C
+Question No. 162
+The horizontal deflection of a parabolic curved beam of span 10 m and rise 3 m when loaded with
+a uniformly distributed load l t per horizontal length is (where Ic is the M.I. at the crown, which
+varies as the slope of the arch).
+(A) 50/EIc
+(B) 100/EIc
+(C) 150/EIc
+(D) 200/EIc
+Answer: Option D
+Question No. 163
+For beams of uniform strength, if depth is constant,
+(A) Width b M
+(B) Width b M
+(C) Width b 3 M
+(D) Width b 1/M
+Answer: Option A
+Question No. 164
+Stress may be expressed in Newtons
+(A) Per millimetre square (N/mm2)
+(B) Per centimetre square (N/cm2)
+(C) Per metre square (N/m2)
+(D) None of these
+Answer: Option A
+Question No. 165
+The maximum magnitude of shear stress due to shear force F on a rectangular section of area A at
+the neutral axis, is
+(A) F/A
+(B) F/2A
+(C) 3F/2A
+(D) 2F/3A
+Answer: Option C
+Question No. 166
+The vertical reaction for the arch is
+(A) wa/2l
+(B) wl/a
+(C) wa/l
+(D) wa²/2l
+Answer: Option AQuestion No. 167
+Flat spiral springs
+(A) Consist of uniform thin strips
+(B) Are supported at outer end
+(C) Are wound by applying a torque
+(D) All the above
+Answer: Option D
+Question No. 168
+In plastic analysis, the shape factor for a circular section, is
+(A) 1.5
+(B) 1.6
+(C) 1.7
+(D) 1.75
+Answer: Option C
+Question No. 169
+In case of a simply supported rectangular beam of span L and loaded with a central load W, the
+length of elasto-plastic zone of the plastic hinge, is
+(A) L/2
+(B) L/3
+(C) L/4
+(D) L/5
+Answer: Option B
+Question No. 170
+Pick up the correct statement from the following:
+(A) Hoop strain of the walls of a cylinder due to liquid is (pd/2tE) (1 - 1/2m)
+(B) Longitudinal strain in the walls of a cylinder due to liquid is (pd/2tE) (1/2 - 1/m)
+(C) Volumetric change in the cylinder due to liquid is (pd/2tE) (5/2 - 2/m)
+(D) All the above
+Answer: Option D
+Question No. 171
+The stiffness of the close coil helical spring is
+(A) d4N/8D3n
+(B) d4N/4D3n
+(C) 4D3N/d4n
+(D) 8D3N/d4n
+Answer: Option A
+Question No. 172
+The ratio of the deflections of the free end of a cantilever due to an isolated load at 1/3rd and
+2/3rd of the span, is
+(A) 1/7(B) 2/7
+(C) 3/7
+(D) 2/5
+Answer: Option B
+Question No. 173
+The ratio of the length and diameter of a simply supported uniform circular beam which
+experiences maximum bending stress equal to tensile stress due to same load at its mid span, is
+(A) 1/8
+(B) 1/4
+(C) 1/2
+(D) 1/3
+Answer: Option C
+Question No. 174
+The ratio of moments of inertia of a triangular section about its base and about a centroidal axis
+parallel to its base, is
+(A) 1.0
+(B) 1.5
+(C) 2.0
+(D) 3.0
+Answer: Option D
+Question No. 175
+The ratio of shear stress and shear strain of an elastic material, is
+(A) Modulus of Rigidity
+(B) Shear Modulus
+(C) Modulus of Elasticity
+(D) Both (a) and (b)
+Answer: Option D
+Question No. 176
+For permissible shear stress fs, the torque transmitted by a thin tube of mean diameter D and wall
+thickness t, is
+(A) ( /2) t fs
+(B) ( /2) t fs
+(C) D2t fs
+(D) ( /4) fs
+Answer: Option A
+Question No. 177
+At yield point of a test piece, the material
+(A) Obeys Hooke's law
+(B) Behaves in an elastic manner
+(C) Regains its original shape on removal of the load(D) Undergoes plastic deformation
+Answer: Option D
+Question No. 178
+For the close coil helical spring of the maximum deflection is
+(A) WD3n/d4N
+(B) 2WD3n/d4N
+(C) 4W²D3n/d4N
+(D) 8WD3n/d4N
+Answer: Option D

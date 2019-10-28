@@ -1,0 +1,686 @@
+Estimating and Costing
+Question No. 01
+The rate of payment is made for 100 cu m (per % cu m) in case of
+(A) Earth work in excavation
+(B) Rock cutting
+(C) Excavation in trenches for foundation
+(D) All the above
+Answer: Option D
+Question No. 02
+The rate of an item of work depends on
+(A) Specifications of works
+(B) Specifications of materials
+(C) Proportion of mortar
+(D) All the above
+Answer: Option D
+Question No. 03
+The main factor to be considered while preparing a detailed estimate, is
+(A) Quantity of the materials
+(B) Availability of materials
+(C) Transportation of materials
+(D) All the above
+Answer: Option D
+Question No. 04
+Pick up the correct statement from the following:
+(A) The estimated value of the work excluding the amount for contingencies, work charged
+establishment, tool and plants, is called work value
+(B) The actual expenditure involved to complete a work including incidental, establishment and
+travelling charges, is called actual cost
+(C) The formal acceptance by the administrative department for incurring an expenditure on the
+work, is called administrative approval
+(D) All the above
+Answer: Option D
+Question No. 05
+Brick walls are measured in sq. m if the thickness of the wall is
+(A) 10 cm
+(B) 15 cm
+(C) 20 cm
+(D) None of theseAnswer: Option A
+Question No. 06
+The plinth area of a building not includes
+(A) Area of the walls at the floor level
+(B) Internal shaft for sanitary installations up to 2 sq m. in area
+(C) Lift and wall including landing
+(D) Area of cantilevered porch
+Answer: Option D
+Question No. 07
+If the formation level of a highway has a uniform gradient for a particular length, and the ground is
+also having a longitudinal slope, the earthwork may be calculated by
+(A) Mid-section formula
+(B) Trapezoidal formula
+(C) Prismoidal formula
+(D) All the above
+Answer: Option D
+Question No. 08
+While estimating a reinforced cement structure, the omitted cover of concrete is assumed
+(A) At the end of reinforcing bar, not less than 25 mm or twice the diameter of the bar
+(B) In thin slabs, 12 mm minimum or diameter of the bar whichever is more
+(C) For reinforcing longitudinal bar in a beam 25 mm minimum or diameter of the largest bar
+which is more
+(D) All the above
+Answer: Option D
+Question No. 09
+A cement concrete road is 1000 m long, 8 m wide and 15 cm thick over the sub-base of 10 cm thick
+gravel. The box cutting in road crust is
+(A) 500 m3
+(B) 1000 m3
+(C) 1500 m3
+(D) 2000 m3
+Answer: Option C
+Question No. 10
+While estimating the qualities for the construction of a building, the correct metric unit is
+(A) Metre for length
+(B) Cubic metre for area
+(C) Square metres for volume
+(D) Litre for capacity
+Answer: Option DQuestion No. 11
+Pick up the correct statement from the following:
+(A) In order to check up the average depth of excavation, 'Dead man s' are left at the midwidths of borrow pits
+(B) The earthwork calculation in excavation is made from the difference in levels obtained with
+a level
+(C) The earth work in excavation to form the road embankment includes the formation of
+correct profile and depositing the soil in layers
+(D) All the above
+Answer: Option D
+Question No. 12
+The brick work is not measured in cu m in case of
+(A) One or more than one brick wall
+(B) Brick work in arches
+(C) Reinforced brick work
+(D) Half brick wall
+Answer: Option D
+Question No. 13
+Pick up the incorrect statement from the following:
+(A) Lead is the average horizontal straight distance between the borrow pit and the place of
+spreading soil
+(B) The lead is calculated for each block of the excavated area
+(C) The unit of lead is 50 m for a distance upto 500 m
+(D) The unit of lead is 1 km where the lead exceeds 2 km
+Answer: Option D
+Question No. 14
+The assumption on which the trapezoidal formula for volumes is based, is
+(A) The end sections are parallel planes
+(B) The mid-area of a pyramid is half the average area of the ends
+(C) The volume of the Prismoidal is over-estimated and hence a Prismoidal correction is applied
+(D) All the above
+Answer: Option D
+Question No. 15
+In the mid-section formula
+(A) The mean depth is the average of depths of two consecutive sections
+(B) The area of mid-sections is calculated by using mean depth
+(C) The volume of the earth work is calculated by multiplying the mid-section area by the
+distance between the two original sections
+(D) All of the above
+Answer: Option DQuestion No. 16
+Pick up the correct statement from the following:
+(A) The earth work of cutting in trenches or borrow pits in fairly uniform ground is measured
+with the help of average depths of the dead men
+(B) The earth work in trenches or borrow pits in irregular ground is measured by taking the
+difference in levels before and after completion of work
+(C) The earth work in trenches or borrow pits, where neither a nor b is feasible, are measured
+from the fillings after deduction of voids
+(D) All the above
+Answer: Option D
+Question No. 17
+The cross-sections for a highway is taken at
+(A) Right angle to the centre line
+(B) 30 metres apart
+(C) Intermediate points having abrupt change in gradient
+(D) All the above
+Answer: Option D
+Question No. 18
+Referring of given figure, pick up the correct statement from the following:
+(A) The total length of centre line of four walls is 20 m
+(B) Length of long wall out-to-out is 6.80 m
+(C) Length of short walls in-to-in is 3.20 m
+(D) All the above
+Answer: Option D
+Question No. 19
+Pick up the correct statement regarding the centre line method of estimating a building
+(A) Product of the centre line of the walls and area of cross-section of any item, gives total
+quantity of the item
+(B) The centre line is worked out separately for different sections of walls of a building
+(C) The centre line length is reduced by half the layer of main wall joining the partition wall
+(D) All the above
+Answer: Option DQuestion No. 20
+According to Indian Standards Institute, the actual size of modular bricks is
+(A) 23 cm × 11.5 cm × 7.5 cm
+(B) 25 cm × 13 cm × 7.5 cm
+(C) 19 cm × 9 cm × 9 cm
+(D) 20 cm × 10 cm × 10 cm
+Answer: Option C
+Question No. 21
+The following item of earth work is not measured separately.
+(A) Setting out of works
+(B) Site clearance
+(C) Steps in deep excavation
+(D) All the above
+Answer: Option D
+Question No. 22
+The measurement is made in square metre in case of
+(A) Cement concrete in foundation
+(B) R.C.C. structure
+(C) Hollow concrete block wall
+(D) None of these
+Answer: Option D
+Question No. 23
+The area of the cross-section of a road fully in banking shown in the given figure, is
+(A) [sb² + r² (2bd + sd)²]/(r² - s²)
+(B) [sb² + r² (2bd + sd)²]/(r² - s5)
+(C) [sb² + r² (2bd + sd)²]/(r - s)
+(D) None of these
+Answer: Option A
+Question No. 24
+Cost of fittings and their fixing is specified for the following sanitary fittings
+(A) Water closets
+(B) Flushing pipes
+(C) Lavatory basins
+(D) All the aboveAnswer: Option D
+Question No. 25
+The excavation exceeding 1.5 m in width and 10 sq.m in plan area with a depth not exceeding 30
+cm, is termed as
+(A) Excavation
+(B) Surface dressing
+(C) Cutting
+(D) Surface excavation
+Answer: Option D
+Question No. 26
+For the construction of buildings, the subheads of the estimate are
+(A) Earthwork, Concrete work, Brick work
+(B) Brickwork, Stone work, Roofing
+(C) Brickwork Flooring, Wood work, Steel work
+(D) All the above
+Answer: Option D
+Question No. 27
+Pick up the correct statement from the following:
+(A) Pointing is measured in sq.m
+(B) Plastering is measured in sq.m
+(C) Glazing is measured in sq.m
+(D) All the above
+Answer: Option D
+Question No. 28
+The cross-section of a road partly in banking and partly in cutting is shown in the given figure. The
+area of the shaded portion is
+(A) b - rd)²/(r - s)
+(B) b - rd)²/(r + s)
+(C) ½ × (b + rd)²/(r - s)
+(D) b - rd)²/(s - r)
+Answer: Option AQuestion No. 29
+Pick up the correct statement from the following:
+(A) If the bed level is above N.S.L. the canal is called fully in baking and the berms are designed
+as 3 d where d is full supply depth of water (F.S.D.)
+(B) Area of canal in cutting = BD + Sd2 where B = bed width, d = depth of cutting and S is the side
+slope
+(C) If F.S.L. is above N.S.L the canal is called partly in cutting and partly in filling and berms are
+designed as 2d where d is full supply depth
+(D) All the above
+Answer: Option D
+Question No. 30
+Pick up the incorrect statement from the following:
+(A) No deduction is made for the volume occupied by reinforcement
+(B) No deduction is made for the openings upto 0.1 sq.m
+(C) No deduction is made for volumes occupied by pipes, not exceeding 100 sq.cm in crosssection
+(D) None of these
+Answer: Option D
+Question No. 31
+The value of 'B' of Indian type W.C. shown in the given figure is:
+(A) 45 cm
+(B) 50 cm
+(C) 30 cm
+(D) 25 cm
+Answer: Option A
+Question No. 32
+Pick up the excavation where measurements are made in square metres for payment.
+(A) Ordinary cuttings up to 1 m
+(B) Surface dressing up to 15 cm depths
+(C) Surface excavation up to 30 cm depths
+(D) Both (b) and (c)
+Answer: Option DQuestion No. 33
+As per Indian Standard Specifications, the peak discharge for domestic purposes per capita per
+minute, is taken
+(A) 1.80 litres for 5 to 10 users
+(B) 1.20 litres for 15 users
+(C) 1.35 for 20 users
+(D) All the above
+Answer: Option D
+Question No. 34
+In long and short wall method of estimation, the length of long wall is the centre to centre
+distance between the walls and
+(A) Breadth of the wall
+(B) Half breadth of wall on each side
+(C) One fourth breadth of wall on each side
+(D) None of these
+Answer: Option B
+Question No. 35
+The expected out turn of cement concrete 1 : 2 : 4 per mason per day is
+(A) 1.5 m3
+(B) 2.5 m3
+(C) 3.5 m3
+(D) 5.0 m3
+Answer: Option D
+Question No. 36
+The value of 'C' of Indian type W.C. shown in the given figure is:
+(A) 400 mm
+(B) 450 mm
+(C) 500 mm
+(D) 550 mm
+Answer: Option C
+Question No. 37
+The area is measured correct to the nearest(A) 0.01 sqm
+(B) 0.02 sqm
+(C) 0.03 sqm
+(D) 0.04 sqm
+Answer: Option A
+Question No. 38
+The measurement is not made in square metres in case of
+(A) D.P.C. (Damp proof course)
+(B) Form works
+(C) Concrete Jeffries
+(D) R.C. Chhajja
+Answer: Option D
+Question No. 39
+The value of 'A' of Indian type W.C. shown in the given figure is:
+(A) 25 cm
+(B) 30 cm
+(C) 40 cm
+(D) 45 cm
+Answer: Option B
+Question No. 40
+The trap which is provided to disconnect the house drain from the street sewer is called
+(A) Master trap
+(B) Intercepting trap
+(C) Interception manhole
+(D) All the above
+Answer: Option D
+Question No. 41
+Due to change in price level, a revised estimate is prepared if the sanctioned estimate exceeds
+(A) 2.0 %
+(B) 2.5 %(C) 4.0 %
+(D) 5.0 %
+Answer: Option D
+Question No. 42
+The cost of the earthwork in excavation for the surface drain of cross-section shown in the given
+figure for a total length of 5 metres @ Rs. 450% cum, is
+(A) Rs. 400
+(B) Rs. 425
+(C) Rs. 450
+(D) Rs. 500
+Answer: Option C
+Question No. 43
+The expected out turn of 2.5 cm cement concrete floor per mansion per day
+(A) 2.5 sqm
+(B) 5.0 sqm
+(C) 7.5 sqm
+(D) 10 sqm
+Answer: Option C
+Question No. 44
+Pick up the correct statement from the following:
+(A) The bent up bars at a support resist the negative bending moment
+(B) The bent up bars at a support resist the sharing force
+(C) The bending of bars near supports is generally at 45°
+(D) All the above
+Answer: Option D
+Question No. 45
+While preparing a detailed estimate
+(A) Dimension should be measured correct to 0.01 m
+(B) Area should be measured correct to 0.01 sqm
+(C) Volume should be measured correct to 0.01 cum
+(D) All the aboveAnswer: Option D
+Question No. 46
+The item of the brick structure measured in sq.m, is
+(A) Reinforced brick work
+(B) Broken glass coping
+(C) Brick edging
+(D) Brick work in arches
+Answer: Option B
+Question No. 47
+The most reliable estimate is
+(A) Detailed estimate
+(B) Preliminary estimate
+(C) Plinth area estimate
+(D) Cube rate estimate
+Answer: Option A
+Question No. 48
+The reduced levels of points, 30 metres apart along the longitudinal section of a road portion
+between chainages 5 and 9 are shown in the given figure. If there is a uniform up-gradient of the
+road 120 in 1, the chainage of the point with no filling or cutting is
+(A) (6 + 15) chains
+(B) (6 + 12) chains
+(C) (6 + 18) chains
+(D) None of these
+Answer: Option B
+Question No. 49
+According to ISI method of measurement, the order of the sequence is
+(A) Length, breadth, height
+(B) Breadth, length, height
+(C) Height, length, breadth
+(D) None of these
+Answer: Option AQuestion No. 50
+Anti-siphonage pipe is connected to
+(A) Main soil pipe
+(B) Bottom of P trap W.C.
+(C) Top of P trap W.C.
+(D) Side of water closet
+Answer: Option C
+Question No. 51
+Pick up the correct statement from the following:
+(A) In a gully trap, a water seal of 6 to 7.5 cm is provided
+(B) The gully trap collects waste water from the kitchen, sink, wash basins, etc.
+(C) The gully trap disconnects the sullage drain from the main drainage system
+(D) The grating provided over gully traps is 23 cm square
+Answer: Option B
+Question No. 52
+Pick up the correct statement from the following:
+(A) Bricks are paid per thousand
+(B) Cement is paid per 50 kg bag
+(C) Lime is paid per quintal
+(D) All the above
+Answer: Option D
+Question No. 53
+Pick up the correct statement from the following:
+(A) All pipes and fittings are classified according to their diameters
+(B) The diameter of the pipes is the nominal diameter of internal bore
+(C) All pipes are measured along the centre line of the pipes in metres
+(D) All the above
+Answer: Option D
+Question No. 54
+A portion of an embankment having a uniform up-gradient 1 in 500 is circular with radius 1000 m
+of the centre line. It subtends 180° at the centre. If the height of the bank is 1 m at the lower end,
+and side slopes 2:1, the earth work involved.
+(A) 26,000 m3
+(B) 26,500 m3
+(C) 27,000 m3
+(D) 27,500 m3
+Answer: Option D
+Question No. 55
+Pick up the correct statement in case of water supply.
+(A) Pipes laid in trenches and pipes fixed to walls are measured separately(B) Cutting through walls and floors are included with the item
+(C) Pipes are classified according to their sizes and quality
+(D) All the above
+Answer: Option D
+Question No. 56
+The concrete work for the following part of the building of specified thickness is measured in
+square metres
+(A) Root slabs
+(B) Floors
+(C) Wall panels
+(D) All the above
+Answer: Option D
+Question No. 57
+The expected out turn of 12 mm plastering with cement mortar is
+(A) 2.5 sq m
+(B) 4.0 sq m
+(C) 6.0 sq m
+(D) 8.0 sq m
+Answer: Option D
+Question No. 58
+The total length of a cranked bar through a distance (d) at 45° in case of a beam of effective
+length L, is
+(A) L + 0.42 d
+(B) L + (2 × 0.42 d)
+(C) L - (0.42 d)
+(D) L - (2 × 0.4 d)
+Answer: Option B
+Question No. 59
+The measurement is made for stone work in square metre in case of
+(A) Wall facing
+(B) Columns, lintels, copings
+(C) Building work
+(D) (a) and (d) of the above
+Answer: Option D
+Question No. 60
+Carpet area does not include the area of
+(A) The walls along with doors and other openings
+(B) Bath room and lavatory
+(C) Kitchen and pantry
+(D) All the aboveAnswer: Option D
+Question No. 61
+Pick up the correct statement from the following:
+(A) The incidental expenses of a miscellaneous character which could not be predicted during
+preparation of the estimate, is called contingencies
+(B) Additional supervising staff engaged at work site, is called work charged establishment
+(C) Detailed specifications specify qualities, quantities and the proportions of materials to be
+used for a particular item
+(D) All the above
+Answer: Option D
+Question No. 62
+The cross-sectional area of the embankment of a canal fully in embankment in the given figure is
+(A) ½ ( + ) h
+(B) ( + ) h + sb²
+(C) ( + ) + 2sh²
+(D) 2 [( + ) (b + sh²)]
+Answer: Option C
+Question No. 63
+The correct Prismoidal formula for volume is
+(A) D [first area + last area + Even area + 2 odd areas]
+(B) D/3 [first area + last area + 4 Even area + 2 odd areas]
+(C) D/3 [first area + last area + 2 Even area + 4 odd areas]
+(D) D/6 [first area + odd areas]
+Answer: Option B
+Question No. 64
+In case of laying gullies, siphons, intercepting traps, the cost includes
+(A) Setting and laying
+(B) Bed concreting
+(C) Connection to drains
+(D) All of these
+Answer: Option D
+Question No. 65
+The inspection pit or chamber is a manhole provided in a base drainage system
+(A) At every change of direction(B) At every change of gradient
+(C) At every 30 m intervals
+(D) All the above
+Answer: Option D
+Question No. 66
+Pick up the incorrect statement from the following:
+(A) Dimensions are measured to the nearest 0.01 m
+(B) Areas are measured to the nearest 0.01 sq.m
+(C) Cubic contents are measured to the nearest 0.1 cum
+(D) Weights are measured to the nearest 0.001 tonnes
+Answer: Option C
+Question No. 67
+The 'centre line method' is specially adopted for estimating
+(A) Circular buildings
+(B) Hexagonal buildings
+(C) Octagonal buildings
+(D) All the above
+Answer: Option D
+Question No. 68
+Pick up the incorrect statement from the following:
+(A) The built up covered area at the floor level of any storey of a building is called plinth area
+(B) The usable covered area of the rooms of any storey of a building is called carpet area
+(C) The carpet area of a building along with area of its kitchen, pantry, store, lavatory, bath
+room and glazed veranda, is called floor area
+(D) None of these
+Answer: Option D
+Question No. 69
+The unit of measurement is per quintal for the following:
+(A) Collapsible gates with rails
+(B) Rolling shutters
+(C) Expanded metal wire netting
+(D) M.S. reinforcement of R.C.C. works
+Answer: Option D
+Question No. 70
+The diameter of a domestic sewer pipe laid at gradient 1 in 100 is recommended
+(A) 100 mm
+(B) 150 mm
+(C) 200 mm
+(D) 175 mm
+Answer: Option BQuestion No. 71
+The order of booking dimensions is
+(A) Length, breadth, height
+(B) Breadth, length, height
+(C) Height, breadth, length
+(D) None of these
+Answer: Option A
+Question No. 72
+Pick up the incorrect statement regarding a master trap from the following:
+(A) It is provided in between the lower end of the house drain and the street sewer
+(B) It is provided a cleaning eye at the top of the trap
+(C) The mica flap valve which opens inwards only, is fitted at the top of the inlet pipe
+(D) The water seal is less than that of ordinary traps
+Answer: Option D
+Question No. 73
+S: 1 and
+length is
+(A) d × d × s
+(B) d2 × (ds)2]
+(C) L.D 1 + s2)
+(D) 2 L.D 1 + s2)
+Answer: Option C
+Question No. 74
+The detention period in a septic tank is assumed
+(A) 20 minutes
+(B) 25 minutes
+(C) 30 minutes
+(D) 40 minutes
+Answer: Option C
+Question No. 75
+If B is the width of formation, d is the height of the embankment, side slope S : 1, for a highway
+with no transverse slope, the area of cross-section is
+(A) B + d + Sd
+(B) Bd + Sd2
+(C) B × d - Sd1/2
+(D) ½ (Bd + Sd2)
+Answer: Option B
+Question No. 76
+The ground surface slopes 1 in 50 along a proposed railway embankment 150 m in length. The
+height of the embankment at zero chainage is 0.5 m, the width is 11 m and side slopes 2:1. If thefalling gradient of the embankment is 1 in 150, the quantity of the earthwork calculated by
+Prismoidal formula, is
+(A) 3250 m3
+(B) 3225 m3
+(C) 3275 m3
+(D) 3300 m3
+Answer: Option B
+Question No. 77
+Pick up the item of work not included in the plinth area estimate
+(A) Wall thickness
+(B) Room area
+(C) W.C. area
+(D) Courtyard area
+Answer: Option D
+Question No. 78
+The minimum width of a septic tank is taken
+(A) 70 cm
+(B) 75 cm
+(C) 80 cm
+(D) 90 cm
+Answer: Option B
+Question No. 79
+Pick up the item whose weight is added to the weight of respective item, is
+(A) Cleats
+(B) Brackets
+(C) Bolts
+(D) All the above
+Answer: Option D
+Question No. 80
+The expected out turn for earth work in excavation in ordinary soil per workman per day is
+(A) 1.00 cum
+(B) 2.00 cum
+(C) 3.00 cum
+(D) 4.00 cum
+Answer: Option C
+Question No. 81
+The expected out turn of brick work in cement mortar in foundation and plinth per mason per day,
+is
+(A) 1.00 m3
+(B) 1.25 m3(C) 1.50 m3
+(D) 1.75 m3
+Answer: Option B
+Question No. 82
+The brick work is measured in sq metre, in case of
+(A) Honey comb brick work
+(B) Brick flat soling
+(C) Half brick walls or the partition
+(D) All the above
+Answer: Option D
+Question No. 83
+The height of the sink of wash basin above floor level is kept
+(A) 60 cm
+(B) 70 cm
+(C) 75 cm to 80 cm
+(D) 80 cm
+Answer: Option C
+Question No. 84
+For 12 mm thick cement plastering 1 : 6 on 100 sq.m new brick work, the quantity of cement
+required, is
+(A) 0.200 m3
+(B) 0.247 m3
+(C) 0.274 m3
+(D) 0.295 m3
+Answer: Option C
+Question No. 85
+The item of steel work which is measured in sq.m, is
+(A) Collapsible gates
+(B) Rolling shutters
+(C) Ventilators and glazing
+(D) All the above
+Answer: Option D
+Question No. 86
+The damp proof course (D.P.C.) is measured in
+(A) Cub. m
+(B) Sq. m
+(C) Metres
+(D) None of these
+Answer: Option BQuestion No. 87
+The volume is measured correct to the nearest
+(A) 0.01 cum
+(B) 0.02 cum
+(C) 0.03 cum
+(D) 0.04 cum
+Answer: Option A
+Question No. 88
+If tensile stress of a steel rod of diameter is 1400 kg/cm2 and bond stress is 6 kg/cm2, the
+required bond length of the rod is
+(A) 30 D
+(B) 39 D
+(C) 50 D
+(D) 59 D
+Answer: Option D
+Question No. 89
+For 100 sq. m cement concrete (1 : 2: 4) 4 cm thick floor, the quantity of cement required, is
+(A) 0.90 m3
+(B) 0.94 m3
+(C) 0.98 m3
+(D) 1.00 m3
+Answer: Option B
+Question No. 90
+Size, capacity and materials need be specified for
+(A) Bib-cocks
+(B) Stop-cocks
+(C) Ball valves
+(D) All the above
+Answer: Option D
+Question No. 91
+The expected out turn of half brick partition wall per mason per day is
+(A) 1.5 m3
+(B) 2.0 m3
+(C) 4.0 m2
+(D) 5.0 m2
+Answer: Option B
+Question No. 92
+The floor area includes the area of the balcony up to
+(A) 100 %
+(B) 75 %(C) 50 %
+(D) 25 %
+Answer: Option C
+Question No. 93
+The slope of the outlet of 'P trap' below the horizontal is kept
+(A) 8°
+(B) 10°
+(C) 12°
+(D) 14°
+Answer: Option D
+Question No. 94
+The weight of an item is measured correct to nearest
+(A) 0.25 kg
+(B) 0.50 kg
+(C) 0.75 kg
+(D) 1.00 kg
+Answer: Option D
+Question No. 95
+Berms are provided in canals if these are
+(A) Fully in excavation
+(B) Partly in excavation and partly in embankment
+(C) Fully in embankment
+(D) All the above
+Answer: Option B
