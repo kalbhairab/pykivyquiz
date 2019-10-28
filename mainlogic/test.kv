@@ -1,0 +1,101 @@
+<QuizApp>:
+	lbl_tqn: total_question
+	lbl_qn : question_Number
+	lbl_q :	quiz_question
+	btn_fav : btn_favourite
+	btn_a : btn_id_A
+	btn_b : btn_id_B
+	btn_c : btn_id_C
+	btn_d : btn_id_D
+	spnr : spiner_id
+	spnr_set : spiner_set
+	spnr_subject: spinner_subject
+	orientation: 'vertical'
+	GridLayout:
+		size_hint_y: 0.1
+		rows: 1
+		cols: 1
+		Spinner:
+			id: spinner_subject
+			text: 'Subject'
+			values: ['Favourite questions', 'Building Construction', 'Building Materials', 'Concrete Technology and Design', 'Cpm', 'Design of Masonry Structures', 'Design of Steel Structures', 'Estimating and Costing', 'Highway Engineering', 'Irrigation Engineering', 'Soil Mechanics and Foundation Engineering', 'Strength of Materials', 'Structural Analysis', 'Theory of Structures']
+			on_text: root.subject_click(*args)
+	GridLayout:
+		size_hint_y: 0.05
+		rows: 1
+		cols: 2
+		Label:
+			text: '1 set = __ Questions'
+		Spinner:
+			id: spiner_set
+			text: '25'
+			values: ('10','20','25','50','100')
+	GridLayout:
+		size_hint_y: 0.05
+		rows: 1
+		cols: 5
+		Label:
+			text: 'Set'
+		Spinner:
+			id: spiner_id
+			text: '1'
+			values: ('1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50')
+			on_text: root.on_spinner_select(*args)
+
+
+		Label:
+			text: 'Q.N.'
+		Label:
+			id: question_Number
+			text: '0'
+		Label:
+			id: total_question
+			text: root.total_question()
+	GridLayout:
+		rows: 1
+		cols: 1
+		Label:
+			id: quiz_question
+			size_hint_y: None
+    		text_size: self.width, None
+    		height: self.texture_size[1]
+			text: "Select Subject at first \n\n v1.0.0 \n Developer: Saurav Niroula \n Contact: niroula.saurav38@gmail.com \n Waiting for feedback."
+	GridLayout:
+		size_hint_y: 0.1
+		rows:1
+		cols: 1
+		Button:
+
+			id: btn_favourite
+			text: "Add to favourite"
+			on_press: root.btn_favourite(*args)
+	GridLayout:
+		size_hint_y: 0.3
+		rows: 1
+		cols: 6
+		Button:
+			text: "previous"
+			on_press: root.btn_previous(*args)
+		Button:
+			id: btn_id_A
+			on_press: root.btn_A()
+			text: 'A'
+		Button:
+			id: btn_id_B
+			on_press: root.btn_B()
+			text: 'B'
+		Button:
+			id: btn_id_C
+			on_press: root.btn_C()
+			text: 'C'
+		Button:
+			id: btn_id_D
+			on_press: root.btn_D()
+			text: 'D'
+		Button:
+			text: 'Next'
+			on_press: root.btn_next(*args)
+
+
+
+
