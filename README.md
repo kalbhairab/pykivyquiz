@@ -17,8 +17,8 @@ If you want to run app. Then download "main.py", "question_answer.py" and "test.
 
 Note:- make test.kv in small letter as linux is case sensitive
 
-To make Apk
-============
+#To make Apk
+
 
 1. download oracle virtualbox
 2. download ubuntu iso image
@@ -26,7 +26,7 @@ To make Apk
 4. download install-kivy-buildozer-dependencies.sh
 5. open terminal in ubuntu where above file is located
 6. paste these in terminal
-chmod +x install-kivy-buildozer-dependencies.sh
-./install-kivy-buildozer-dependencies.sh
+#chmod +x install-kivy-buildozer-dependencies.sh
+#./install-kivy-buildozer-dependencies.sh
 7. If Android dependencies are outdated execute:
-buildozer android update
+#buildozer android update
