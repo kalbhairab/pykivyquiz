@@ -26,14 +26,11 @@ To make Apk
 4. download install-kivy-buildozer-dependencies.sh
 5. open terminal in ubuntu where above file is located
 6. paste these in terminal
-'''
+```
 	chmod +x install-kivy-buildozer-dependencies.sh
 	./install-kivy-buildozer-dependencies.sh
-'''
+```
 7. If Android dependencies are outdated execute:
-'''
+```
 	buildozer android update
-'''
- chmod +x install-kivy-buildozer-dependencies.sh
-    ./install-kivy-buildozer-dependencies.sh
-
+```
