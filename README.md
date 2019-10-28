@@ -34,3 +34,6 @@ To make Apk
 '''
 	buildozer android update
 '''
+ chmod +x install-kivy-buildozer-dependencies.sh
+    ./install-kivy-buildozer-dependencies.sh
+
