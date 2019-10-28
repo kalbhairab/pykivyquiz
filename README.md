@@ -17,8 +17,8 @@ If you want to run app. Then download "main.py", "question_answer.py" and "test.
 
 Note:- make test.kv in small letter as linux is case sensitive
 
-#To make Apk
-
+To make Apk
+-----------
 
 1. download oracle virtualbox
 2. download ubuntu iso image
