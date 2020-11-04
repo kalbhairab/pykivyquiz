@@ -34,3 +34,5 @@ To make Apk
 ```
 	buildozer android update
 ```
+8. buildozer init
+9. buildozer android debug deploy
